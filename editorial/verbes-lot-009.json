@@ -1,0 +1,402 @@
+[
+  {
+    "word": "narguer",
+    "nature": "verbe",
+    "batch": "009",
+    "definition": "Défier quelqu’un en manifestant du mépris ou en se moquant.",
+    "example": "Le personnage nargue son adversaire.",
+    "conjugations": {
+      "present": [
+        "nargue",
+        "nargues",
+        "nargue",
+        "narguons",
+        "narguez",
+        "narguent"
+      ],
+      "futur": [
+        "narguerai",
+        "nargueras",
+        "narguera",
+        "narguerons",
+        "narguerez",
+        "nargueront"
+      ],
+      "imparfait": [
+        "narguais",
+        "narguais",
+        "narguait",
+        "narguions",
+        "narguiez",
+        "narguaient"
+      ],
+      "passeSimple": [
+        "narguai",
+        "narguas",
+        "nargua",
+        "narguâmes",
+        "narguâtes",
+        "narguèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "narguer ",
+            "ouvertement",
+            "ouvertement",
+            ""
+          ],
+          [
+            "narguer ",
+            "effrontément",
+            "effrontément",
+            ""
+          ],
+          [
+            "narguer ",
+            "ostensiblement",
+            "ostensiblement",
+            ""
+          ],
+          [
+            "narguer ",
+            "publiquement",
+            "publiquement",
+            ""
+          ],
+          [
+            "narguer ",
+            "continuellement",
+            "continuellement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "cabosser",
+    "nature": "verbe",
+    "batch": "009",
+    "definition": "Déformer un objet en y produisant des creux et des bosses.",
+    "example": "La chute cabosse le récipient.",
+    "conjugations": {
+      "present": [
+        "cabosse",
+        "cabosses",
+        "cabosse",
+        "cabossons",
+        "cabossez",
+        "cabossent"
+      ],
+      "futur": [
+        "cabosserai",
+        "cabosseras",
+        "cabossera",
+        "cabosserons",
+        "cabosserez",
+        "cabosseront"
+      ],
+      "imparfait": [
+        "cabossais",
+        "cabossais",
+        "cabossait",
+        "cabossions",
+        "cabossiez",
+        "cabossaient"
+      ],
+      "passeSimple": [
+        "cabossai",
+        "cabossas",
+        "cabossa",
+        "cabossâmes",
+        "cabossâtes",
+        "cabossèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "cabosser ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "cabosser ",
+            "fortement",
+            "fortement",
+            ""
+          ],
+          [
+            "cabosser ",
+            "accidentellement",
+            "accidentellement",
+            ""
+          ],
+          [
+            "cabosser ",
+            "profondément",
+            "profondément",
+            ""
+          ],
+          [
+            "cabosser ",
+            "irrémédiablement",
+            "irrémédiablement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "chahuter",
+    "nature": "verbe",
+    "batch": "009",
+    "definition": "Faire du bruit et s’agiter, notamment dans un groupe ; les sens familiers figurés sont écartés.",
+    "example": "Les personnages chahutent dans la cour.",
+    "conjugations": {
+      "present": [
+        "chahute",
+        "chahutes",
+        "chahute",
+        "chahutons",
+        "chahutez",
+        "chahutent"
+      ],
+      "futur": [
+        "chahuterai",
+        "chahuteras",
+        "chahutera",
+        "chahuterons",
+        "chahuterez",
+        "chahuteront"
+      ],
+      "imparfait": [
+        "chahutais",
+        "chahutais",
+        "chahutait",
+        "chahutions",
+        "chahutiez",
+        "chahutaient"
+      ],
+      "passeSimple": [
+        "chahutai",
+        "chahutas",
+        "chahuta",
+        "chahutâmes",
+        "chahutâtes",
+        "chahutèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "chahuter ",
+            "bruyamment",
+            "bruyamment",
+            ""
+          ],
+          [
+            "chahuter ",
+            "joyeusement",
+            "joyeusement",
+            ""
+          ],
+          [
+            "chahuter ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "chahuter ",
+            "collectivement",
+            "collectivement",
+            ""
+          ],
+          [
+            "chahuter ",
+            "continuellement",
+            "continuellement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "jaser",
+    "nature": "verbe",
+    "batch": "009",
+    "definition": "Pousser son cri, pour certains oiseaux ; seul le sens animal non familier est retenu.",
+    "example": "La pie jase dans l’arbre.",
+    "conjugations": {
+      "present": [
+        "jase",
+        "jases",
+        "jase",
+        "jasons",
+        "jasez",
+        "jasent"
+      ],
+      "futur": [
+        "jaserai",
+        "jaseras",
+        "jasera",
+        "jaserons",
+        "jaserez",
+        "jaseront"
+      ],
+      "imparfait": [
+        "jasais",
+        "jasais",
+        "jasait",
+        "jasions",
+        "jasiez",
+        "jasaient"
+      ],
+      "passeSimple": [
+        "jasai",
+        "jasas",
+        "jasa",
+        "jasâmes",
+        "jasâtes",
+        "jasèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "jaser ",
+            "bruyamment",
+            "bruyamment",
+            ""
+          ],
+          [
+            "jaser ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "jaser ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "jaser ",
+            "gaiement",
+            "gaiement",
+            ""
+          ],
+          [
+            "jaser ",
+            "faiblement",
+            "faiblement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "chiner",
+    "nature": "verbe",
+    "batch": "009",
+    "definition": "Donner des couleurs différentes aux fils d’une étoffe pour créer un dessin au tissage ; seul le sens textile est retenu.",
+    "example": "L’artisan apprend à chiner les fils.",
+    "conjugations": {
+      "present": [
+        "chine",
+        "chines",
+        "chine",
+        "chinons",
+        "chinez",
+        "chinent"
+      ],
+      "futur": [
+        "chinerai",
+        "chineras",
+        "chinera",
+        "chinerons",
+        "chinerez",
+        "chineront"
+      ],
+      "imparfait": [
+        "chinais",
+        "chinais",
+        "chinait",
+        "chinions",
+        "chiniez",
+        "chinaient"
+      ],
+      "passeSimple": [
+        "chinai",
+        "chinas",
+        "china",
+        "chinâmes",
+        "chinâtes",
+        "chinèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "chiner ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "chiner ",
+            "finement",
+            "finement",
+            ""
+          ],
+          [
+            "chiner ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "chiner ",
+            "harmonieusement",
+            "harmonieusement",
+            ""
+          ],
+          [
+            "chiner ",
+            "délicatement",
+            "délicatement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  }
+]

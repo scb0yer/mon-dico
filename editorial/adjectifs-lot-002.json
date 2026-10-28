@@ -1,0 +1,2996 @@
+[
+  {
+    "word": "national",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "nationale",
+    "definition": "Qui concerne l’ensemble d’un pays ou de ses habitants.",
+    "example": "L’équipe nationale participe au tournoi.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "équipe",
+            "équipe",
+            " nationale"
+          ],
+          [
+            "un ",
+            "parc",
+            "parc",
+            " national"
+          ],
+          [
+            "une ",
+            "fête",
+            "fête",
+            " nationale"
+          ],
+          [
+            "un ",
+            "drapeau",
+            "drapeau",
+            " national"
+          ],
+          [
+            "un ",
+            "concours",
+            "concours",
+            " national"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "nationale",
+      "nationaux",
+      "nationales"
+    ]
+  },
+  {
+    "word": "politique",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "politique",
+    "definition": "Qui concerne l’organisation et les décisions de la vie d’une société ou d’un pays.",
+    "example": "Le conseil municipal prend une décision politique.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "décision",
+            "décision",
+            " politique"
+          ],
+          [
+            "un ",
+            "débat",
+            "débat",
+            " politique"
+          ],
+          [
+            "un ",
+            "programme",
+            "programme",
+            " politique"
+          ],
+          [
+            "une ",
+            "responsabilité",
+            "responsabilité",
+            " politique"
+          ],
+          [
+            "une ",
+            "action",
+            "action",
+            " politique"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "politique",
+      "politiques"
+    ]
+  },
+  {
+    "word": "absolu",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "absolue",
+    "definition": "Complet, sans limite ni restriction.",
+    "example": "Le gardien demande un silence absolu.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "silence",
+            "silence",
+            " absolu"
+          ],
+          [
+            "une ",
+            "confiance",
+            "confiance",
+            " absolue"
+          ],
+          [
+            "une ",
+            "nécessité",
+            "nécessité",
+            " absolue"
+          ],
+          [
+            "un ",
+            "pouvoir",
+            "pouvoir",
+            " absolu"
+          ],
+          [
+            "une ",
+            "certitude",
+            "certitude",
+            " absolue"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "absolue",
+      "absolus",
+      "absolues"
+    ]
+  },
+  {
+    "word": "civil",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "civile",
+    "definition": "Qui concerne les citoyens et la vie en société, en dehors du domaine militaire.",
+    "example": "Le pilote travaille dans l’aviation civile.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "population",
+            "population",
+            " civile"
+          ],
+          [
+            "une ",
+            "protection",
+            "protection",
+            " civile"
+          ],
+          [
+            "un ",
+            "état",
+            "état",
+            " civil"
+          ],
+          [
+            "une ",
+            "aviation",
+            "aviation",
+            " civile"
+          ],
+          [
+            "un ",
+            "droit",
+            "droit",
+            " civil"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "civile",
+      "civils",
+      "civiles"
+    ]
+  },
+  {
+    "word": "féminin",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "féminine",
+    "definition": "Qui se rapporte aux femmes ou aux filles ; en grammaire, qui appartient au même genre que fille ou maison.",
+    "example": "Le mot table est un nom féminin.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "nom",
+            "nom",
+            " féminin"
+          ],
+          [
+            "une ",
+            "équipe",
+            "équipe",
+            " féminine"
+          ],
+          [
+            "une ",
+            "voix",
+            "voix",
+            " féminine"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " féminin"
+          ],
+          [
+            "un ",
+            "vêtement",
+            "vêtement",
+            " féminin"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "féminine",
+      "féminins",
+      "féminines"
+    ]
+  },
+  {
+    "word": "masculin",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "masculine",
+    "definition": "Qui se rapporte aux hommes ou aux garçons ; en grammaire, qui appartient au même genre que garçon ou jardin.",
+    "example": "Le mot arbre est un nom masculin.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "nom",
+            "nom",
+            " masculin"
+          ],
+          [
+            "une ",
+            "équipe",
+            "équipe",
+            " masculine"
+          ],
+          [
+            "une ",
+            "voix",
+            "voix",
+            " masculine"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " masculin"
+          ],
+          [
+            "un ",
+            "vêtement",
+            "vêtement",
+            " masculin"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "masculine",
+      "masculins",
+      "masculines"
+    ]
+  },
+  {
+    "word": "quelconque",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "quelconque",
+    "definition": "Dont l’identité ou les caractéristiques précises n’ont pas d’importance ; peut aussi désigner quelque chose de banal.",
+    "example": "Choisis un point quelconque sur cette droite.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "point",
+            "point",
+            " quelconque"
+          ],
+          [
+            "une ",
+            "personne",
+            "personne",
+            " quelconque"
+          ],
+          [
+            "un ",
+            "objet",
+            "objet",
+            " quelconque"
+          ],
+          [
+            "une ",
+            "raison",
+            "raison",
+            " quelconque"
+          ],
+          [
+            "un ",
+            "jour",
+            "jour",
+            " quelconque"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "quelconque",
+      "quelconques"
+    ]
+  },
+  {
+    "word": "privé",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "privée",
+    "definition": "Qui appartient ou est réservé à une personne ou à un groupe, et non à tout le monde.",
+    "example": "Ce chemin privé appartient aux habitants de la maison.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "jardin",
+            "jardin",
+            " privé"
+          ],
+          [
+            "une ",
+            "propriété",
+            "propriété",
+            " privée"
+          ],
+          [
+            "une ",
+            "conversation",
+            "conversation",
+            " privée"
+          ],
+          [
+            "un ",
+            "établissement",
+            "établissement",
+            " privé"
+          ],
+          [
+            "une ",
+            "vie",
+            "vie",
+            " privée"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "privée",
+      "privés",
+      "privées"
+    ]
+  },
+  {
+    "word": "glorieux",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "glorieuse",
+    "definition": "Qui apporte une grande renommée ou suscite une vive admiration.",
+    "example": "Le récit raconte le retour glorieux du héros.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "passé",
+            "passé",
+            " glorieux"
+          ],
+          [
+            "une ",
+            "victoire",
+            "victoire",
+            " glorieuse"
+          ],
+          [
+            "un ",
+            "avenir",
+            "avenir",
+            " glorieux"
+          ],
+          [
+            "un ",
+            "souvenir",
+            "souvenir",
+            " glorieux"
+          ],
+          [
+            "une ",
+            "histoire",
+            "histoire",
+            " glorieuse"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "glorieuse",
+      "glorieux",
+      "glorieuses"
+    ]
+  },
+  {
+    "word": "clandestin",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "clandestine",
+    "definition": "Qui se fait en secret, souvent parce que cela est interdit.",
+    "example": "Le personnage transmet un message lors d’une réunion clandestine.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "réunion",
+            "réunion",
+            " clandestine"
+          ],
+          [
+            "un ",
+            "passage",
+            "passage",
+            " clandestin"
+          ],
+          [
+            "une ",
+            "activité",
+            "activité",
+            " clandestine"
+          ],
+          [
+            "un ",
+            "journal",
+            "journal",
+            " clandestin"
+          ],
+          [
+            "un ",
+            "voyage",
+            "voyage",
+            " clandestin"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "clandestine",
+      "clandestins",
+      "clandestines"
+    ]
+  },
+  {
+    "word": "funèbre",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "funèbre",
+    "definition": "Qui se rapporte à la mort, au deuil ou aux cérémonies pour une personne décédée.",
+    "example": "Une marche funèbre accompagne la cérémonie.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "marche",
+            "marche",
+            " funèbre"
+          ],
+          [
+            "un ",
+            "chant",
+            "chant",
+            " funèbre"
+          ],
+          [
+            "une ",
+            "cérémonie",
+            "cérémonie",
+            " funèbre"
+          ],
+          [
+            "un ",
+            "cortège",
+            "cortège",
+            " funèbre"
+          ],
+          [
+            "une ",
+            "couronne",
+            "couronne",
+            " funèbre"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "funèbre",
+      "funèbres"
+    ]
+  },
+  {
+    "word": "inconscient",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "inconsciente",
+    "definition": "Qui a perdu connaissance ; peut aussi désigner quelqu’un qui ne mesure pas un danger ou les conséquences de ses actes.",
+    "example": "Les secours prennent en charge le blessé inconscient.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "blessé",
+            "blessé",
+            " inconscient"
+          ],
+          [
+            "une ",
+            "personne",
+            "personne",
+            " inconsciente"
+          ],
+          [
+            "un ",
+            "geste",
+            "geste",
+            " inconscient"
+          ],
+          [
+            "une ",
+            "attitude",
+            "attitude",
+            " inconsciente"
+          ],
+          [
+            "un ",
+            "comportement",
+            "comportement",
+            " inconscient"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "inconsciente",
+      "inconscients",
+      "inconscientes"
+    ]
+  },
+  {
+    "word": "occidental",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "occidentale",
+    "definition": "Qui se trouve à l’ouest ou qui se rapporte aux pays de l’Ouest, selon le contexte.",
+    "example": "La carte montre la partie occidentale du continent.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "partie",
+            "partie",
+            " occidentale"
+          ],
+          [
+            "une ",
+            "côte",
+            "côte",
+            " occidentale"
+          ],
+          [
+            "un ",
+            "versant",
+            "versant",
+            " occidental"
+          ],
+          [
+            "une ",
+            "région",
+            "région",
+            " occidentale"
+          ],
+          [
+            "une ",
+            "culture",
+            "culture",
+            " occidentale"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "occidentale",
+      "occidentaux",
+      "occidentales"
+    ]
+  },
+  {
+    "word": "interne",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "interne",
+    "definition": "Qui se trouve ou se passe à l’intérieur de quelque chose.",
+    "example": "Le mécanicien examine le mécanisme interne de la machine.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "mécanisme",
+            "mécanisme",
+            " interne"
+          ],
+          [
+            "une ",
+            "organisation",
+            "organisation",
+            " interne"
+          ],
+          [
+            "une ",
+            "structure",
+            "structure",
+            " interne"
+          ],
+          [
+            "un ",
+            "règlement",
+            "règlement",
+            " interne"
+          ],
+          [
+            "une ",
+            "communication",
+            "communication",
+            " interne"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "interne",
+      "internes"
+    ]
+  },
+  {
+    "word": "financier",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "financière",
+    "definition": "Qui concerne l’argent, sa gestion ou les moyens de payer une activité.",
+    "example": "Le trésorier présente le bilan financier de l’association.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "bilan",
+            "bilan",
+            " financier"
+          ],
+          [
+            "une ",
+            "aide",
+            "aide",
+            " financière"
+          ],
+          [
+            "un ",
+            "problème",
+            "problème",
+            " financier"
+          ],
+          [
+            "une ",
+            "difficulté",
+            "difficulté",
+            " financière"
+          ],
+          [
+            "un ",
+            "soutien",
+            "soutien",
+            " financier"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "financière",
+      "financiers",
+      "financières"
+    ]
+  },
+  {
+    "word": "infernal",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "infernale",
+    "definition": "Extrêmement pénible, difficile à supporter ou agité ; peut aussi signifier qui se rapporte à l’enfer dans un récit.",
+    "example": "Les travaux produisent un bruit infernal.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "bruit",
+            "bruit",
+            " infernal"
+          ],
+          [
+            "une ",
+            "chaleur",
+            "chaleur",
+            " infernale"
+          ],
+          [
+            "un ",
+            "rythme",
+            "rythme",
+            " infernal"
+          ],
+          [
+            "une ",
+            "agitation",
+            "agitation",
+            " infernale"
+          ],
+          [
+            "un ",
+            "vacarme",
+            "vacarme",
+            " infernal"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "infernale",
+      "infernaux",
+      "infernales"
+    ]
+  },
+  {
+    "word": "natal",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "natale",
+    "definition": "Qui se rapporte au lieu ou au moment de la naissance.",
+    "example": "Chaque été, elle retourne dans son village natal.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "village",
+            "village",
+            " natal"
+          ],
+          [
+            "une ",
+            "ville",
+            "ville",
+            " natale"
+          ],
+          [
+            "un ",
+            "pays",
+            "pays",
+            " natal"
+          ],
+          [
+            "une ",
+            "région",
+            "région",
+            " natale"
+          ],
+          [
+            "une ",
+            "terre",
+            "terre",
+            " natale"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "natale",
+      "nataux",
+      "natales",
+      "natals"
+    ]
+  },
+  {
+    "word": "passionné",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "passionnée",
+    "definition": "Qui éprouve un très grand intérêt ou un sentiment très fort.",
+    "example": "La lectrice passionnée dévore son nouveau roman.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "lecteur",
+            "lecteur",
+            " passionné"
+          ],
+          [
+            "une ",
+            "discussion",
+            "discussion",
+            " passionnée"
+          ],
+          [
+            "un ",
+            "débat",
+            "débat",
+            " passionné"
+          ],
+          [
+            "un ",
+            "regard",
+            "regard",
+            " passionné"
+          ],
+          [
+            "une ",
+            "recherche",
+            "recherche",
+            " passionnée"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "passionnée",
+      "passionnés",
+      "passionnées"
+    ]
+  },
+  {
+    "word": "conséquent",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "conséquente",
+    "definition": "Qui agit en accord avec ce qu’il pense ou dit ; pour un raisonnement, qui suit une logique cohérente.",
+    "example": "Il reste conséquent avec ses principes.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "choix",
+            "choix",
+            " conséquent"
+          ],
+          [
+            "une ",
+            "attitude",
+            "attitude",
+            " conséquente"
+          ],
+          [
+            "un ",
+            "raisonnement",
+            "raisonnement",
+            " conséquent"
+          ],
+          [
+            "une ",
+            "conduite",
+            "conduite",
+            " conséquente"
+          ],
+          [
+            "un ",
+            "comportement",
+            "comportement",
+            " conséquent"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "conséquente",
+      "conséquents",
+      "conséquentes"
+    ]
+  },
+  {
+    "word": "poussiéreux",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "poussiéreuse",
+    "definition": "Couvert ou rempli de poussière.",
+    "example": "Nous nettoyons les étagères poussiéreuses du grenier.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "meuble",
+            "meuble",
+            " poussiéreux"
+          ],
+          [
+            "une ",
+            "route",
+            "route",
+            " poussiéreuse"
+          ],
+          [
+            "un ",
+            "livre",
+            "livre",
+            " poussiéreux"
+          ],
+          [
+            "une ",
+            "étagère",
+            "étagère",
+            " poussiéreuse"
+          ],
+          [
+            "un ",
+            "grenier",
+            "grenier",
+            " poussiéreux"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "poussiéreuse",
+      "poussiéreux",
+      "poussiéreuses"
+    ]
+  },
+  {
+    "word": "grotesque",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "grotesque",
+    "definition": "Qui paraît ridicule ou absurde par son aspect, ses gestes ou son caractère exagéré.",
+    "example": "La marionnette fait une grimace grotesque.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "grimace",
+            "grimace",
+            " grotesque"
+          ],
+          [
+            "un ",
+            "costume",
+            "costume",
+            " grotesque"
+          ],
+          [
+            "une ",
+            "situation",
+            "situation",
+            " grotesque"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " grotesque"
+          ],
+          [
+            "une ",
+            "imitation",
+            "imitation",
+            " grotesque"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "grotesque",
+      "grotesques"
+    ]
+  },
+  {
+    "word": "inouï",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "inouïe",
+    "definition": "Si extraordinaire qu’on a peine à le croire ou qu’on n’a jamais rien connu de semblable.",
+    "example": "Le public applaudit cet exploit inouï.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "exploit",
+            "exploit",
+            " inouï"
+          ],
+          [
+            "une ",
+            "chance",
+            "chance",
+            " inouïe"
+          ],
+          [
+            "un ",
+            "courage",
+            "courage",
+            " inouï"
+          ],
+          [
+            "une ",
+            "force",
+            "force",
+            " inouïe"
+          ],
+          [
+            "une ",
+            "aventure",
+            "aventure",
+            " inouïe"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "inouïe",
+      "inouïs",
+      "inouïes"
+    ]
+  },
+  {
+    "word": "mauve",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "mauve",
+    "definition": "D’une couleur violette claire.",
+    "example": "Elle choisit un ruban mauve.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "ruban",
+            "ruban",
+            " mauve"
+          ],
+          [
+            "une ",
+            "robe",
+            "robe",
+            " mauve"
+          ],
+          [
+            "une ",
+            "fleur",
+            "fleur",
+            " mauve"
+          ],
+          [
+            "un ",
+            "tissu",
+            "tissu",
+            " mauve"
+          ],
+          [
+            "une ",
+            "lumière",
+            "lumière",
+            " mauve"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "mauve",
+      "mauves"
+    ]
+  },
+  {
+    "word": "comique",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "comique",
+    "definition": "Qui fait rire ou qui appartient à un genre destiné à faire rire.",
+    "example": "Le personnage provoque une situation comique.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "scène",
+            "scène",
+            " comique"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " comique"
+          ],
+          [
+            "un ",
+            "effet",
+            "effet",
+            " comique"
+          ],
+          [
+            "une ",
+            "situation",
+            "situation",
+            " comique"
+          ],
+          [
+            "un ",
+            "récit",
+            "récit",
+            " comique"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "comique",
+      "comiques"
+    ]
+  },
+  {
+    "word": "farouche",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "farouche",
+    "definition": "Qui fuit facilement l’approche des autres ; peut aussi signifier très ferme et difficile à faire céder.",
+    "example": "L’animal farouche se cache quand nous approchons.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "animal",
+            "animal",
+            " farouche"
+          ],
+          [
+            "un ",
+            "regard",
+            "regard",
+            " farouche"
+          ],
+          [
+            "une ",
+            "détermination",
+            "détermination",
+            " farouche"
+          ],
+          [
+            "une ",
+            "résistance",
+            "résistance",
+            " farouche"
+          ],
+          [
+            "une ",
+            "indépendance",
+            "indépendance",
+            " farouche"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "farouche",
+      "farouches"
+    ]
+  },
+  {
+    "word": "nucléaire",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "nucléaire",
+    "definition": "Qui se rapporte au noyau de l’atome ou à l’énergie qu’on peut en tirer.",
+    "example": "Une centrale nucléaire produit de l’électricité.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "centrale",
+            "centrale",
+            " nucléaire"
+          ],
+          [
+            "une ",
+            "énergie",
+            "énergie",
+            " nucléaire"
+          ],
+          [
+            "une ",
+            "installation",
+            "installation",
+            " nucléaire"
+          ],
+          [
+            "une ",
+            "réaction",
+            "réaction",
+            " nucléaire"
+          ],
+          [
+            "un ",
+            "combustible",
+            "combustible",
+            " nucléaire"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "nucléaire",
+      "nucléaires"
+    ]
+  },
+  {
+    "word": "inhabituel",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "inhabituelle",
+    "definition": "Qui ne se produit pas souvent ou qui est différent de ce qu’on observe d’ordinaire.",
+    "example": "Un bruit inhabituel vient du jardin.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "bruit",
+            "bruit",
+            " inhabituel"
+          ],
+          [
+            "une ",
+            "couleur",
+            "couleur",
+            " inhabituelle"
+          ],
+          [
+            "un ",
+            "comportement",
+            "comportement",
+            " inhabituel"
+          ],
+          [
+            "une ",
+            "situation",
+            "situation",
+            " inhabituelle"
+          ],
+          [
+            "une ",
+            "visite",
+            "visite",
+            " inhabituelle"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "inhabituelle",
+      "inhabituels",
+      "inhabituelles"
+    ]
+  },
+  {
+    "word": "imprévisible",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "imprévisible",
+    "definition": "Qu’on ne peut pas prévoir à l’avance.",
+    "example": "Le temps en montagne peut être imprévisible.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "événement",
+            "événement",
+            " imprévisible"
+          ],
+          [
+            "une ",
+            "réaction",
+            "réaction",
+            " imprévisible"
+          ],
+          [
+            "un ",
+            "changement",
+            "changement",
+            " imprévisible"
+          ],
+          [
+            "une ",
+            "conséquence",
+            "conséquence",
+            " imprévisible"
+          ],
+          [
+            "un ",
+            "comportement",
+            "comportement",
+            " imprévisible"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "imprévisible",
+      "imprévisibles"
+    ]
+  },
+  {
+    "word": "insensible",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "insensible",
+    "definition": "Qui ne ressent pas une sensation ou qui ne réagit pas à une émotion ; peut aussi désigner un changement trop faible pour être perçu.",
+    "example": "Après l’anesthésie, la zone soignée est insensible.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "zone",
+            "zone",
+            " insensible"
+          ],
+          [
+            "une ",
+            "peau",
+            "peau",
+            " insensible"
+          ],
+          [
+            "une ",
+            "personne",
+            "personne",
+            " insensible"
+          ],
+          [
+            "un ",
+            "homme",
+            "homme",
+            " insensible"
+          ],
+          [
+            "une ",
+            "variation",
+            "variation",
+            " insensible"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "insensible",
+      "insensibles"
+    ]
+  },
+  {
+    "word": "chaleureux",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "chaleureuse",
+    "definition": "Qui manifeste de l’amitié, de la joie ou de la bienveillance dans ses relations avec les autres.",
+    "example": "Les élèves réservent un accueil chaleureux à leur correspondant.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "accueil",
+            "accueil",
+            " chaleureux"
+          ],
+          [
+            "une ",
+            "voix",
+            "voix",
+            " chaleureuse"
+          ],
+          [
+            "un ",
+            "sourire",
+            "sourire",
+            " chaleureux"
+          ],
+          [
+            "une ",
+            "ambiance",
+            "ambiance",
+            " chaleureuse"
+          ],
+          [
+            "un ",
+            "remerciement",
+            "remerciement",
+            " chaleureux"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "chaleureuse",
+      "chaleureux",
+      "chaleureuses"
+    ]
+  },
+  {
+    "word": "paternel",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "paternelle",
+    "definition": "Qui se rapporte au père ou qui exprime une affection semblable à celle d’un père.",
+    "example": "Il retrouve la famille paternelle pendant les vacances.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "affection",
+            "affection",
+            " paternelle"
+          ],
+          [
+            "un ",
+            "conseil",
+            "conseil",
+            " paternel"
+          ],
+          [
+            "une ",
+            "famille",
+            "famille",
+            " paternelle"
+          ],
+          [
+            "un ",
+            "grand-père",
+            "grand-père",
+            " paternel"
+          ],
+          [
+            "une ",
+            "grand-mère",
+            "grand-mère",
+            " paternelle"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "paternelle",
+      "paternels",
+      "paternelles"
+    ]
+  },
+  {
+    "word": "primitif",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "primitive",
+    "definition": "Qui appartient aux premiers temps ou à la forme la plus ancienne de quelque chose.",
+    "example": "Le musée présente un modèle primitif de cet outil.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "outil",
+            "outil",
+            " primitif"
+          ],
+          [
+            "une ",
+            "forme",
+            "forme",
+            " primitive"
+          ],
+          [
+            "un ",
+            "état",
+            "état",
+            " primitif"
+          ],
+          [
+            "une ",
+            "technique",
+            "technique",
+            " primitive"
+          ],
+          [
+            "un ",
+            "modèle",
+            "modèle",
+            " primitif"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "primitive",
+      "primitifs",
+      "primitives"
+    ]
+  },
+  {
+    "word": "fascinant",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "fascinante",
+    "definition": "Qui attire très fortement l’attention ou l’intérêt.",
+    "example": "Le documentaire présente un univers fascinant.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "spectacle",
+            "spectacle",
+            " fascinant"
+          ],
+          [
+            "une ",
+            "histoire",
+            "histoire",
+            " fascinante"
+          ],
+          [
+            "un ",
+            "univers",
+            "univers",
+            " fascinant"
+          ],
+          [
+            "une ",
+            "découverte",
+            "découverte",
+            " fascinante"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " fascinant"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "fascinante",
+      "fascinants",
+      "fascinantes"
+    ]
+  },
+  {
+    "word": "relatif",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "relative",
+    "definition": "Qui dépend d’un point de vue ou d’une comparaison ; dans relatif à, qui concerne quelque chose.",
+    "example": "La taille d’un objet est relative à celle des objets auxquels on le compare.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "taille",
+            "taille",
+            " relative"
+          ],
+          [
+            "une ",
+            "importance",
+            "importance",
+            " relative"
+          ],
+          [
+            "une ",
+            "valeur",
+            "valeur",
+            " relative"
+          ],
+          [
+            "une ",
+            "liberté",
+            "liberté",
+            " relative"
+          ],
+          [
+            "une ",
+            "stabilité",
+            "stabilité",
+            " relative"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "relative",
+      "relatifs",
+      "relatives"
+    ]
+  },
+  {
+    "word": "gluant",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "gluante",
+    "definition": "Qui est collant et visqueux.",
+    "example": "La limace laisse une trace gluante.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "substance",
+            "substance",
+            " gluante"
+          ],
+          [
+            "une ",
+            "matière",
+            "matière",
+            " gluante"
+          ],
+          [
+            "un ",
+            "liquide",
+            "liquide",
+            " gluant"
+          ],
+          [
+            "une ",
+            "pâte",
+            "pâte",
+            " gluante"
+          ],
+          [
+            "une ",
+            "trace",
+            "trace",
+            " gluante"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "gluante",
+      "gluants",
+      "gluantes"
+    ]
+  },
+  {
+    "word": "bavard",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "bavarde",
+    "definition": "Qui parle beaucoup.",
+    "example": "Le personnage bavard raconte toutes ses aventures.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "enfant",
+            "enfant",
+            " bavard"
+          ],
+          [
+            "une ",
+            "femme",
+            "femme",
+            " bavarde"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " bavard"
+          ],
+          [
+            "un ",
+            "groupe",
+            "groupe",
+            " bavard"
+          ],
+          [
+            "un ",
+            "élève",
+            "élève",
+            " bavard"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "bavarde",
+      "bavards",
+      "bavardes"
+    ]
+  },
+  {
+    "word": "complexe",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "complexe",
+    "definition": "Qui comporte plusieurs éléments ou relations et qui peut être difficile à comprendre.",
+    "example": "Nous décomposons ce problème complexe en petites étapes.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "problème",
+            "problème",
+            " complexe"
+          ],
+          [
+            "une ",
+            "situation",
+            "situation",
+            " complexe"
+          ],
+          [
+            "un ",
+            "mécanisme",
+            "mécanisme",
+            " complexe"
+          ],
+          [
+            "une ",
+            "organisation",
+            "organisation",
+            " complexe"
+          ],
+          [
+            "un ",
+            "raisonnement",
+            "raisonnement",
+            " complexe"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "complexe",
+      "complexes"
+    ]
+  },
+  {
+    "word": "moite",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "moite",
+    "definition": "Légèrement humide, souvent à cause de la chaleur ou de la transpiration.",
+    "example": "Après la course, ses mains sont moites.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "main",
+            "main",
+            " moite"
+          ],
+          [
+            "un ",
+            "front",
+            "front",
+            " moite"
+          ],
+          [
+            "une ",
+            "peau",
+            "peau",
+            " moite"
+          ],
+          [
+            "un ",
+            "air",
+            "air",
+            " moite"
+          ],
+          [
+            "une ",
+            "chaleur",
+            "chaleur",
+            " moite"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "moite",
+      "moites"
+    ]
+  },
+  {
+    "word": "impeccable",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "impeccable",
+    "definition": "Qui ne présente pas de défaut ou qui est parfaitement propre et soigné.",
+    "example": "Après le rangement, la salle est impeccable.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "tenue",
+            "tenue",
+            " impeccable"
+          ],
+          [
+            "un ",
+            "travail",
+            "travail",
+            " impeccable"
+          ],
+          [
+            "une ",
+            "propreté",
+            "propreté",
+            " impeccable"
+          ],
+          [
+            "une ",
+            "présentation",
+            "présentation",
+            " impeccable"
+          ],
+          [
+            "un ",
+            "état",
+            "état",
+            " impeccable"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "impeccable",
+      "impeccables"
+    ]
+  },
+  {
+    "word": "fade",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "fade",
+    "definition": "Qui a peu de goût ; au sens figuré, qui manque d’intérêt ou de caractère.",
+    "example": "Cette soupe sans assaisonnement semble fade.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "soupe",
+            "soupe",
+            " fade"
+          ],
+          [
+            "un ",
+            "plat",
+            "plat",
+            " fade"
+          ],
+          [
+            "une ",
+            "sauce",
+            "sauce",
+            " fade"
+          ],
+          [
+            "un ",
+            "récit",
+            "récit",
+            " fade"
+          ],
+          [
+            "une ",
+            "couleur",
+            "couleur",
+            " fade"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "fade",
+      "fades"
+    ]
+  },
+  {
+    "word": "monotone",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "monotone",
+    "definition": "Qui change peu et finit par sembler répétitif ou ennuyeux.",
+    "example": "Le long trajet sur la route droite devient monotone.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "voix",
+            "voix",
+            " monotone"
+          ],
+          [
+            "un ",
+            "paysage",
+            "paysage",
+            " monotone"
+          ],
+          [
+            "un ",
+            "travail",
+            "travail",
+            " monotone"
+          ],
+          [
+            "un ",
+            "bruit",
+            "bruit",
+            " monotone"
+          ],
+          [
+            "un ",
+            "rythme",
+            "rythme",
+            " monotone"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "monotone",
+      "monotones"
+    ]
+  },
+  {
+    "word": "neutre",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "neutre",
+    "definition": "Qui ne prend pas parti ; peut aussi désigner quelque chose de peu marqué ou qui n’a pas d’effet particulier.",
+    "example": "Le médiateur garde une attitude neutre pendant la discussion.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "attitude",
+            "attitude",
+            " neutre"
+          ],
+          [
+            "un ",
+            "avis",
+            "avis",
+            " neutre"
+          ],
+          [
+            "un ",
+            "ton",
+            "ton",
+            " neutre"
+          ],
+          [
+            "une ",
+            "couleur",
+            "couleur",
+            " neutre"
+          ],
+          [
+            "un ",
+            "produit",
+            "produit",
+            " neutre"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "neutre",
+      "neutres"
+    ]
+  },
+  {
+    "word": "prodigieux",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "prodigieuse",
+    "definition": "Extraordinaire par ses qualités, sa force ou son importance.",
+    "example": "L’acrobate réalise un saut prodigieux.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "talent",
+            "talent",
+            " prodigieux"
+          ],
+          [
+            "une ",
+            "mémoire",
+            "mémoire",
+            " prodigieuse"
+          ],
+          [
+            "un ",
+            "effort",
+            "effort",
+            " prodigieux"
+          ],
+          [
+            "une ",
+            "force",
+            "force",
+            " prodigieuse"
+          ],
+          [
+            "un ",
+            "exploit",
+            "exploit",
+            " prodigieux"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "prodigieuse",
+      "prodigieux",
+      "prodigieuses"
+    ]
+  },
+  {
+    "word": "chauve",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "chauve",
+    "definition": "Qui n’a plus de cheveux ou presque plus de cheveux sur la tête.",
+    "example": "Le personnage chauve porte un chapeau bleu.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "homme",
+            "homme",
+            " chauve"
+          ],
+          [
+            "une ",
+            "femme",
+            "femme",
+            " chauve"
+          ],
+          [
+            "un ",
+            "crâne",
+            "crâne",
+            " chauve"
+          ],
+          [
+            "une ",
+            "tête",
+            "tête",
+            " chauve"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " chauve"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "chauve",
+      "chauves"
+    ]
+  },
+  {
+    "word": "furtif",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "furtive",
+    "definition": "Qui se fait rapidement et discrètement, pour ne pas être remarqué.",
+    "example": "Elle jette un regard furtif vers la porte.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "regard",
+            "regard",
+            " furtif"
+          ],
+          [
+            "un ",
+            "geste",
+            "geste",
+            " furtif"
+          ],
+          [
+            "une ",
+            "silhouette",
+            "silhouette",
+            " furtive"
+          ],
+          [
+            "un ",
+            "passage",
+            "passage",
+            " furtif"
+          ],
+          [
+            "un ",
+            "mouvement",
+            "mouvement",
+            " furtif"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "furtive",
+      "furtifs",
+      "furtives"
+    ]
+  },
+  {
+    "word": "matinal",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "matinale",
+    "definition": "Qui a lieu le matin ; se dit aussi de quelqu’un qui se lève tôt.",
+    "example": "La promenade matinale commence au lever du soleil.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "promenade",
+            "promenade",
+            " matinale"
+          ],
+          [
+            "un ",
+            "réveil",
+            "réveil",
+            " matinal"
+          ],
+          [
+            "une ",
+            "fraîcheur",
+            "fraîcheur",
+            " matinale"
+          ],
+          [
+            "une ",
+            "lumière",
+            "lumière",
+            " matinale"
+          ],
+          [
+            "une ",
+            "brume",
+            "brume",
+            " matinale"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "matinale",
+      "matinaux",
+      "matinales",
+      "matinals"
+    ]
+  },
+  {
+    "word": "fréquent",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "fréquente",
+    "definition": "Qui se produit ou se rencontre souvent.",
+    "example": "Les averses sont fréquentes au printemps.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "visite",
+            "visite",
+            " fréquente"
+          ],
+          [
+            "un ",
+            "passage",
+            "passage",
+            " fréquent"
+          ],
+          [
+            "une ",
+            "erreur",
+            "erreur",
+            " fréquente"
+          ],
+          [
+            "un ",
+            "usage",
+            "usage",
+            " fréquent"
+          ],
+          [
+            "une ",
+            "rencontre",
+            "rencontre",
+            " fréquente"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "fréquente",
+      "fréquents",
+      "fréquentes"
+    ]
+  },
+  {
+    "word": "blême",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "blême",
+    "definition": "Très pâle, souvent sous l’effet de la peur, de la fatigue ou d’un malaise.",
+    "example": "Le personnage devient blême en entendant la nouvelle.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "visage",
+            "visage",
+            " blême"
+          ],
+          [
+            "une ",
+            "figure",
+            "figure",
+            " blême"
+          ],
+          [
+            "un ",
+            "enfant",
+            "enfant",
+            " blême"
+          ],
+          [
+            "une ",
+            "joue",
+            "joue",
+            " blême"
+          ],
+          [
+            "une ",
+            "lumière",
+            "lumière",
+            " blême"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "blême",
+      "blêmes"
+    ]
+  },
+  {
+    "word": "domestique",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "domestique",
+    "definition": "Qui se rapporte à la maison ; pour un animal, qui vit auprès des humains et dépend de leurs soins.",
+    "example": "Le chat est un animal domestique.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "animal",
+            "animal",
+            " domestique"
+          ],
+          [
+            "une ",
+            "tâche",
+            "tâche",
+            " domestique"
+          ],
+          [
+            "un ",
+            "appareil",
+            "appareil",
+            " domestique"
+          ],
+          [
+            "un ",
+            "usage",
+            "usage",
+            " domestique"
+          ],
+          [
+            "une ",
+            "activité",
+            "activité",
+            " domestique"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "domestique",
+      "domestiques"
+    ]
+  },
+  {
+    "word": "automatique",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "automatique",
+    "definition": "Qui fonctionne ou se produit sans intervention directe à chaque étape.",
+    "example": "La porte automatique s’ouvre à notre approche.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "porte",
+            "porte",
+            " automatique"
+          ],
+          [
+            "un ",
+            "arrosage",
+            "arrosage",
+            " automatique"
+          ],
+          [
+            "une ",
+            "fermeture",
+            "fermeture",
+            " automatique"
+          ],
+          [
+            "un ",
+            "réglage",
+            "réglage",
+            " automatique"
+          ],
+          [
+            "un ",
+            "mouvement",
+            "mouvement",
+            " automatique"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "automatique",
+      "automatiques"
+    ]
+  },
+  {
+    "word": "héroïque",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "héroïque",
+    "definition": "Qui manifeste un courage exceptionnel, comme celui d’un héros.",
+    "example": "Le récit raconte un sauvetage héroïque.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "acte",
+            "acte",
+            " héroïque"
+          ],
+          [
+            "un ",
+            "courage",
+            "courage",
+            " héroïque"
+          ],
+          [
+            "une ",
+            "résistance",
+            "résistance",
+            " héroïque"
+          ],
+          [
+            "un ",
+            "sauvetage",
+            "sauvetage",
+            " héroïque"
+          ],
+          [
+            "un ",
+            "effort",
+            "effort",
+            " héroïque"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "héroïque",
+      "héroïques"
+    ]
+  },
+  {
+    "word": "radieux",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "radieuse",
+    "definition": "Qui rayonne de joie ; peut aussi décrire un temps lumineux et ensoleillé.",
+    "example": "Son visage radieux montre sa joie.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "visage",
+            "visage",
+            " radieux"
+          ],
+          [
+            "un ",
+            "sourire",
+            "sourire",
+            " radieux"
+          ],
+          [
+            "une ",
+            "mine",
+            "mine",
+            " radieuse"
+          ],
+          [
+            "un ",
+            "ciel",
+            "ciel",
+            " radieux"
+          ],
+          [
+            "une ",
+            "journée",
+            "journée",
+            " radieuse"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "radieuse",
+      "radieux",
+      "radieuses"
+    ]
+  },
+  {
+    "word": "passionnant",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "passionnante",
+    "definition": "Qui suscite un intérêt très vif et donne envie de continuer à écouter, à lire ou à découvrir.",
+    "example": "Nous lisons un roman passionnant.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "roman",
+            "roman",
+            " passionnant"
+          ],
+          [
+            "une ",
+            "histoire",
+            "histoire",
+            " passionnante"
+          ],
+          [
+            "un ",
+            "sujet",
+            "sujet",
+            " passionnant"
+          ],
+          [
+            "une ",
+            "enquête",
+            "enquête",
+            " passionnante"
+          ],
+          [
+            "une ",
+            "discussion",
+            "discussion",
+            " passionnante"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "passionnante",
+      "passionnants",
+      "passionnantes"
+    ]
+  },
+  {
+    "word": "distrait",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "distraite",
+    "definition": "Dont l’attention se détourne facilement de ce qu’il fait ou de ce qui se passe.",
+    "example": "Le lecteur distrait perd le fil de son histoire.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "élève",
+            "élève",
+            " distrait"
+          ],
+          [
+            "une ",
+            "personne",
+            "personne",
+            " distraite"
+          ],
+          [
+            "un ",
+            "regard",
+            "regard",
+            " distrait"
+          ],
+          [
+            "un ",
+            "geste",
+            "geste",
+            " distrait"
+          ],
+          [
+            "une ",
+            "réponse",
+            "réponse",
+            " distraite"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "distraite",
+      "distraits",
+      "distraites"
+    ]
+  },
+  {
+    "word": "parallèle",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "parallèle",
+    "definition": "Qui reste à la même distance d’une autre ligne ou d’un autre plan ; peut aussi signifier qui se déroule en même temps.",
+    "example": "Trace une droite parallèle au bord de la feuille.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "une ",
+            "droite",
+            "droite",
+            " parallèle"
+          ],
+          [
+            "une ",
+            "ligne",
+            "ligne",
+            " parallèle"
+          ],
+          [
+            "un ",
+            "plan",
+            "plan",
+            " parallèle"
+          ],
+          [
+            "une ",
+            "voie",
+            "voie",
+            " parallèle"
+          ],
+          [
+            "une ",
+            "activité",
+            "activité",
+            " parallèle"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "parallèle",
+      "parallèles"
+    ]
+  },
+  {
+    "word": "imperceptible",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "imperceptible",
+    "definition": "Si faible ou discret qu’il est très difficile à percevoir.",
+    "example": "Un bruit imperceptible vient de l’autre pièce.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "bruit",
+            "bruit",
+            " imperceptible"
+          ],
+          [
+            "un ",
+            "mouvement",
+            "mouvement",
+            " imperceptible"
+          ],
+          [
+            "une ",
+            "variation",
+            "variation",
+            " imperceptible"
+          ],
+          [
+            "un ",
+            "souffle",
+            "souffle",
+            " imperceptible"
+          ],
+          [
+            "une ",
+            "vibration",
+            "vibration",
+            " imperceptible"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "imperceptible",
+      "imperceptibles"
+    ]
+  },
+  {
+    "word": "inoffensif",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "inoffensive",
+    "definition": "Qui ne présente pas de danger et ne fait pas de mal.",
+    "example": "Cette couleuvre est inoffensive pour les promeneurs.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "animal",
+            "animal",
+            " inoffensif"
+          ],
+          [
+            "un ",
+            "insecte",
+            "insecte",
+            " inoffensif"
+          ],
+          [
+            "une ",
+            "substance",
+            "substance",
+            " inoffensive"
+          ],
+          [
+            "une ",
+            "plaisanterie",
+            "plaisanterie",
+            " inoffensive"
+          ],
+          [
+            "un ",
+            "produit",
+            "produit",
+            " inoffensif"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "inoffensive",
+      "inoffensifs",
+      "inoffensives"
+    ]
+  },
+  {
+    "word": "anormal",
+    "nature": "adjectif",
+    "batch": "002",
+    "feminine": "anormale",
+    "definition": "Qui ne correspond pas à ce qui est habituel ou attendu dans une situation.",
+    "example": "Le mécanicien vérifie ce bruit anormal.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour enrichir un groupe nominal.",
+        [
+          [
+            "un ",
+            "bruit",
+            "bruit",
+            " anormal"
+          ],
+          [
+            "une ",
+            "situation",
+            "situation",
+            " anormale"
+          ],
+          [
+            "un ",
+            "fonctionnement",
+            "fonctionnement",
+            " anormal"
+          ],
+          [
+            "une ",
+            "température",
+            "température",
+            " anormale"
+          ],
+          [
+            "une ",
+            "réaction",
+            "réaction",
+            " anormale"
+          ]
+        ],
+        "nom commun"
+      ]
+    ],
+    "forms": [
+      "anormale",
+      "anormaux",
+      "anormales"
+    ]
+  }
+]

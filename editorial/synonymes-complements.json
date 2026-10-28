@@ -1,0 +1,861 @@
+[
+  {
+    "word": "école",
+    "gender": "féminin",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Rédaction originale pour monDico, à relire.",
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens utilisé pour la reformulation",
+        "definition": "Établissement où l’on reçoit un enseignement. Dans l’usage courant en France, ce mot désigne souvent l’école maternelle ou élémentaire.",
+        "example": "Elle entre dans une école de musique.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom",
+            [
+              [
+                "une école ",
+                "publique",
+                "public",
+                ""
+              ],
+              [
+                "une école ",
+                "spécialisée",
+                "spécialisé",
+                ""
+              ],
+              [
+                "une école ",
+                "privée",
+                "privé",
+                ""
+              ],
+              [
+                "une école ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "une école ",
+                "réputée",
+                "réputé",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · sujet",
+            "Le nom est le sujet du verbe",
+            [
+              [
+                "une école ",
+                "accueille",
+                "accueillir",
+                " des élèves"
+              ],
+              [
+                "une école ",
+                "propose",
+                "proposer",
+                " des formations"
+              ],
+              [
+                "une école ",
+                "organise",
+                "organiser",
+                " des activités"
+              ],
+              [
+                "une école ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "une école ",
+                "participe",
+                "participer",
+                " à un projet"
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · COD",
+            "Le nom complète directement le verbe",
+            [
+              [
+                "",
+                "fréquenter",
+                "fréquenter",
+                " une école"
+              ],
+              [
+                "",
+                "ouvrir",
+                "ouvrir",
+                " une école"
+              ],
+              [
+                "",
+                "visiter",
+                "visiter",
+                " une école"
+              ],
+              [
+                "",
+                "rejoindre",
+                "rejoindre",
+                " une école"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " une école"
+              ]
+            ]
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément : observe les deux constructions.",
+            [
+              [
+                "une école de ",
+                "village",
+                "village",
+                ""
+              ],
+              [
+                "une école de ",
+                "musique",
+                "musique",
+                ""
+              ],
+              [
+                "une ",
+                "cour",
+                "cour",
+                " d’école"
+              ],
+              [
+                "un ",
+                "élève",
+                "élève",
+                " de l’école"
+              ],
+              [
+                "une ",
+                "sortie",
+                "sortie",
+                " d’école"
+              ]
+            ],
+            "nom commun"
+          ]
+        ],
+        "cooccurrenceRevision": "2026-10-17 — 4 groupes de 5 expressions"
+      }
+    ]
+  },
+  {
+    "word": "établissement",
+    "gender": "masculin",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Rédaction originale pour monDico, à relire.",
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens utilisé pour la reformulation",
+        "definition": "Lieu organisé pour une activité, par exemple l’enseignement, le commerce ou les soins.",
+        "example": "Cet établissement accueille six cents élèves.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom",
+            [
+              [
+                "un établissement ",
+                "scolaire",
+                "scolaire",
+                ""
+              ],
+              [
+                "un établissement ",
+                "public",
+                "public",
+                ""
+              ],
+              [
+                "un établissement ",
+                "municipal",
+                "municipal",
+                ""
+              ],
+              [
+                "un établissement ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "un établissement ",
+                "ancien",
+                "ancien",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · sujet",
+            "Le nom est le sujet du verbe",
+            [
+              [
+                "un établissement ",
+                "accueille",
+                "accueillir",
+                " des élèves"
+              ],
+              [
+                "un établissement ",
+                "organise",
+                "organiser",
+                " une sortie"
+              ],
+              [
+                "un établissement ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "un établissement ",
+                "propose",
+                "proposer",
+                " des services"
+              ],
+              [
+                "un établissement ",
+                "ferme",
+                "fermer",
+                " le soir"
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · COD",
+            "Le nom complète directement le verbe",
+            [
+              [
+                "",
+                "diriger",
+                "diriger",
+                " un établissement"
+              ],
+              [
+                "",
+                "fréquenter",
+                "fréquenter",
+                " un établissement"
+              ],
+              [
+                "",
+                "visiter",
+                "visiter",
+                " un établissement"
+              ],
+              [
+                "",
+                "rejoindre",
+                "rejoindre",
+                " un établissement"
+              ],
+              [
+                "",
+                "quitter",
+                "quitter",
+                " un établissement"
+              ]
+            ]
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément : observe les deux constructions.",
+            [
+              [
+                "un établissement de ",
+                "santé",
+                "santé",
+                ""
+              ],
+              [
+                "un établissement de ",
+                "soins",
+                "soin",
+                ""
+              ],
+              [
+                "un établissement d’",
+                "enseignement",
+                "enseignement",
+                ""
+              ],
+              [
+                "un ",
+                "chef",
+                "chef",
+                " d’établissement"
+              ],
+              [
+                "un ",
+                "règlement",
+                "règlement",
+                " d’établissement"
+              ]
+            ],
+            "nom commun"
+          ]
+        ],
+        "cooccurrenceRevision": "2026-10-17 — 4 groupes de 5 expressions"
+      }
+    ]
+  },
+  {
+    "word": "académie",
+    "gender": "féminin",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Rédaction originale pour monDico, à relire.",
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens utilisé pour la reformulation",
+        "definition": "Dans ce sens, école ou institution où l’on enseigne une discipline, notamment un art. Le mot peut aussi désigner une société savante ou une circonscription scolaire.",
+        "example": "Il suit des cours dans une académie de dessin.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom",
+            [
+              [
+                "une académie ",
+                "artistique",
+                "artistique",
+                ""
+              ],
+              [
+                "une académie ",
+                "prestigieuse",
+                "prestigieux",
+                ""
+              ],
+              [
+                "une académie ",
+                "publique",
+                "public",
+                ""
+              ],
+              [
+                "une académie ",
+                "privée",
+                "privé",
+                ""
+              ],
+              [
+                "une académie ",
+                "moderne",
+                "moderne",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · sujet",
+            "Le nom est le sujet du verbe",
+            [
+              [
+                "une académie ",
+                "accueille",
+                "accueillir",
+                " des élèves"
+              ],
+              [
+                "une académie ",
+                "propose",
+                "proposer",
+                " des cours"
+              ],
+              [
+                "une académie ",
+                "organise",
+                "organiser",
+                " des activités"
+              ],
+              [
+                "une académie ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "une académie ",
+                "participe",
+                "participer",
+                " à un projet"
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · COD",
+            "Le nom complète directement le verbe",
+            [
+              [
+                "",
+                "intégrer",
+                "intégrer",
+                " une académie"
+              ],
+              [
+                "",
+                "diriger",
+                "diriger",
+                " une académie"
+              ],
+              [
+                "",
+                "visiter",
+                "visiter",
+                " une académie"
+              ],
+              [
+                "",
+                "fréquenter",
+                "fréquenter",
+                " une académie"
+              ],
+              [
+                "",
+                "rejoindre",
+                "rejoindre",
+                " une académie"
+              ]
+            ]
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément : observe les deux constructions.",
+            [
+              [
+                "une académie de ",
+                "danse",
+                "danse",
+                ""
+              ],
+              [
+                "une académie de ",
+                "musique",
+                "musique",
+                ""
+              ],
+              [
+                "une académie de ",
+                "peinture",
+                "peinture",
+                ""
+              ],
+              [
+                "un ",
+                "élève",
+                "élève",
+                " de l’académie"
+              ],
+              [
+                "un ",
+                "professeur",
+                "professeur",
+                " de l’académie"
+              ]
+            ],
+            "nom commun"
+          ]
+        ],
+        "cooccurrenceRevision": "2026-10-17 — 4 groupes de 5 expressions"
+      }
+    ]
+  },
+  {
+    "word": "puits",
+    "gender": "masculin",
+    "batch": "prototype",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Expressions enrichies pour monDico ; relecture pédagogique à effectuer.",
+    "senses": [
+      {
+        "id": "prototype",
+        "label": "Sens du prototype",
+        "definition": "Trou profond creusé dans le sol, notamment pour atteindre de l’eau.",
+        "syn": [],
+        "ant": [],
+        "synLinks": [],
+        "antLinks": [],
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour décrire le puits",
+            [
+              [
+                "un puits ",
+                "profond",
+                "profond",
+                ""
+              ],
+              [
+                "un puits ",
+                "sec",
+                "sec",
+                ""
+              ],
+              [
+                "un puits ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "un puits ",
+                "creusé",
+                "creusé",
+                ""
+              ],
+              [
+                "un puits ",
+                "asséché",
+                "asséché",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · sujet",
+            "Que fait le puits ?",
+            [
+              [
+                "le puits ",
+                "tarit",
+                "tarir",
+                ""
+              ],
+              [
+                "le puits ",
+                "fournit",
+                "fournir",
+                " de l’eau"
+              ],
+              [
+                "un puits ",
+                "contient",
+                "contenir",
+                " de l’eau"
+              ],
+              [
+                "un puits ",
+                "alimente",
+                "alimenter",
+                " la maison"
+              ],
+              [
+                "un puits ",
+                "se remplit",
+                "remplir",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · COD",
+            "Que peut-on faire ?",
+            [
+              [
+                "",
+                "creuser",
+                "",
+                " un puits"
+              ],
+              [
+                "",
+                "nettoyer",
+                "",
+                " un puits"
+              ],
+              [
+                "",
+                "couvrir",
+                "",
+                " un puits"
+              ],
+              [
+                "",
+                "aménager",
+                "aménager",
+                " un puits"
+              ],
+              [
+                "",
+                "sécuriser",
+                "sécuriser",
+                " un puits"
+              ]
+            ]
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément : observe les deux constructions.",
+            [
+              [
+                "un puits de ",
+                "village",
+                "village",
+                ""
+              ],
+              [
+                "un puits de ",
+                "pierre",
+                "pierre",
+                ""
+              ],
+              [
+                "une ",
+                "eau",
+                "eau",
+                " de puits"
+              ],
+              [
+                "un ",
+                "fond",
+                "fond",
+                " de puits"
+              ],
+              [
+                "un ",
+                "bord",
+                "bord",
+                " de puits"
+              ]
+            ],
+            "nom commun"
+          ]
+        ],
+        "example": "Les villageois puisent de l’eau dans un puits profond.",
+        "cooccurrenceRevision": "2026-10-17 — 4 groupes de 5 expressions"
+      }
+    ]
+  },
+  {
+    "word": "éléphant",
+    "gender": "masculin",
+    "batch": "prototype",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Expressions enrichies pour monDico ; relecture pédagogique à effectuer.",
+    "senses": [
+      {
+        "id": "prototype",
+        "label": "Sens du prototype",
+        "definition": "Grand mammifère qui possède une trompe, de larges oreilles et souvent des défenses.",
+        "syn": [],
+        "ant": [],
+        "synLinks": [],
+        "antLinks": [],
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour décrire l’éléphant",
+            [
+              [
+                "un éléphant ",
+                "imposant",
+                "imposant",
+                ""
+              ],
+              [
+                "un éléphant ",
+                "rapide",
+                "rapide",
+                ""
+              ],
+              [
+                "un éléphant ",
+                "puissant",
+                "puissant",
+                ""
+              ],
+              [
+                "un éléphant ",
+                "majestueux",
+                "majestueux",
+                ""
+              ],
+              [
+                "un éléphant ",
+                "massif",
+                "massif",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · sujet",
+            "Que fait l’éléphant ?",
+            [
+              [
+                "l’éléphant ",
+                "barrit",
+                "barrir",
+                ""
+              ],
+              [
+                "un éléphant ",
+                "se nourrit",
+                "nourrir",
+                ""
+              ],
+              [
+                "l’éléphant ",
+                "balance",
+                "balancer",
+                " sa trompe"
+              ],
+              [
+                "l’éléphant ",
+                "marche",
+                "marcher",
+                " avec le troupeau"
+              ],
+              [
+                "un éléphant ",
+                "se déplace",
+                "déplacer",
+                ""
+              ]
+            ]
+          ],
+          [
+            "Avec des verbes · COD",
+            "Que peut-on faire ?",
+            [
+              [
+                "",
+                "observer",
+                "",
+                " un éléphant"
+              ],
+              [
+                "",
+                "protéger",
+                "protéger",
+                " un éléphant"
+              ],
+              [
+                "",
+                "photographier",
+                "photographier",
+                " un éléphant"
+              ],
+              [
+                "",
+                "nourrir",
+                "nourrir",
+                " un éléphant"
+              ],
+              [
+                "",
+                "dessiner",
+                "dessiner",
+                " un éléphant"
+              ]
+            ]
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément : observe les deux constructions.",
+            [
+              [
+                "un éléphant de ",
+                "savane",
+                "savane",
+                ""
+              ],
+              [
+                "un éléphant de ",
+                "forêt",
+                "forêt",
+                ""
+              ],
+              [
+                "une ",
+                "mémoire",
+                "mémoire",
+                " d’éléphant"
+              ],
+              [
+                "une ",
+                "trompe",
+                "trompe",
+                " d’éléphant"
+              ],
+              [
+                "une ",
+                "défense",
+                "défense",
+                " d’éléphant"
+              ]
+            ],
+            "nom commun"
+          ]
+        ],
+        "example": "L’éléphant saisit une branche avec sa trompe.",
+        "cooccurrenceRevision": "2026-10-17 — 4 groupes de 5 expressions"
+      }
+    ]
+  },
+  {
+    "word": "guenille",
+    "gender": "féminin",
+    "batch": "011",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Définition et exemple originaux pour monDico ; relecture pédagogique à effectuer.",
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens utilisé dans les renvois",
+        "definition": "Vêtement ou morceau de tissu très usé, souvent au pluriel.",
+        "example": "Le personnage rassemble de vieilles guenilles.",
+        "groups": []
+      }
+    ]
+  },
+  {
+    "word": "sacre",
+    "gender": "masculin",
+    "batch": "011",
+    "relationSupplement": true,
+    "editorialStatus": "draft",
+    "authorship": "Définition et exemple originaux pour monDico ; relecture pédagogique à effectuer.",
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens utilisé dans les renvois",
+        "definition": "Cérémonie qui marque solennellement l’accession d’une personne à la royauté dans certains pays et certaines époques.",
+        "example": "Le récit historique décrit le sacre du roi.",
+        "groups": []
+      }
+    ]
+  }
+]

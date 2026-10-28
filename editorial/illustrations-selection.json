@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "blockedWords": [
+    "lé"
+  ],
+  "requests": [
+    {
+      "word": "éléphant",
+      "articleTitle": "Éléphant",
+      "senseId": "prototype"
+    },
+    {
+      "word": "bouquetin",
+      "articleTitle": "Bouquetin des Alpes",
+      "senseId": "prototype"
+    },
+    {
+      "word": "papillon",
+      "articleTitle": "Papillon",
+      "senseId": "courant"
+    },
+    {
+      "word": "chien",
+      "articleTitle": "Chien",
+      "senseId": "animal"
+    },
+    {
+      "word": "chat",
+      "articleTitle": "Chat",
+      "senseId": "animal"
+    },
+    {
+      "word": "pomme",
+      "articleTitle": "Pomme",
+      "senseId": "courant"
+    },
+    {
+      "word": "girafe",
+      "articleTitle": "Girafe",
+      "senseId": "courant"
+    },
+    {
+      "word": "baleine",
+      "articleTitle": "Baleine",
+      "senseId": "courant"
+    },
+    {
+      "word": "lion",
+      "articleTitle": "Lion",
+      "senseId": "courant"
+    },
+    {
+      "word": "escargot",
+      "articleTitle": "Escargot",
+      "senseId": "courant"
+    },
+    {
+      "word": "grenouille",
+      "articleTitle": "Grenouille",
+      "senseId": "courant"
+    },
+    {
+      "word": "abeille",
+      "articleTitle": "Abeille",
+      "senseId": "courant"
+    },
+    {
+      "word": "foi",
+      "articleTitle": "Confiance",
+      "senseId": "courant"
+    }
+  ],
+  "notes": {
+    "lé": "Pas d’illustration validée pour le sens « largeur d’une bande de tissu ». Ne pas corriger vers un autre mot.",
+    "foi": "Sens non religieux : confiance. Illustration de l’article Confiance validée et légendée pour ce sens ; ne pas confondre avec foie."
+  }
+}

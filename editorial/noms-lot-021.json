@@ -1,0 +1,2711 @@
+[
+  {
+    "word": "dieu",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "dieux"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Être surnaturel auquel des croyants attribuent des pouvoirs sur le monde ou sur la vie. Certaines religions reconnaissent un seul dieu, d’autres plusieurs. On écrit souvent « Dieu » avec une majuscule pour désigner le dieu unique d’une religion.",
+        "example": "Dans la mythologie grecque, Poséidon est le dieu de la mer.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "un dieu ",
+                "grec",
+                "grec",
+                ""
+              ],
+              [
+                "un dieu ",
+                "romain",
+                "romain",
+                ""
+              ],
+              [
+                "un dieu ",
+                "antique",
+                "antique",
+                ""
+              ],
+              [
+                "un dieu ",
+                "puissant",
+                "puissant",
+                ""
+              ],
+              [
+                "un dieu ",
+                "protecteur",
+                "protecteur",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "dans ce récit, le dieu ",
+                "apparaît",
+                "apparaître",
+                ""
+              ],
+              [
+                "dans ce récit, le dieu ",
+                "intervient",
+                "intervenir",
+                ""
+              ],
+              [
+                "dans ce récit, le dieu ",
+                "parle",
+                "parler",
+                " au héros"
+              ],
+              [
+                "dans ce récit, le dieu ",
+                "protège",
+                "protéger",
+                " la ville"
+              ],
+              [
+                "dans ce récit, le dieu ",
+                "représente",
+                "représenter",
+                " la force"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "décrire",
+                "décrire",
+                " un dieu dans un récit"
+              ],
+              [
+                "",
+                "représenter",
+                "représenter",
+                " un dieu dans un récit"
+              ],
+              [
+                "",
+                "nommer",
+                "nommer",
+                " un dieu dans un récit"
+              ],
+              [
+                "",
+                "évoquer",
+                "évoquer",
+                " un dieu dans un récit"
+              ],
+              [
+                "",
+                "imaginer",
+                "imaginer",
+                " un dieu dans un récit"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "statue",
+                "statue",
+                " de dieu"
+              ],
+              [
+                "un ",
+                "temple",
+                "temple",
+                " dédié à un dieu"
+              ],
+              [
+                "le ",
+                "nom",
+                "nom",
+                " d’un dieu"
+              ],
+              [
+                "un dieu de la ",
+                "mer",
+                "mer",
+                ""
+              ],
+              [
+                "un dieu du ",
+                "soleil",
+                "soleil",
+                ""
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "église",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "églises"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Bâtiment où des chrétiens se réunissent pour prier et célébrer leur religion. Avec une majuscule, « Église » peut aussi désigner une communauté chrétienne organisée.",
+        "example": "L’église du village ouvre ses portes aux visiteurs.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "une église ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "une église ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "une église ",
+                "ouverte",
+                "ouvert",
+                ""
+              ],
+              [
+                "une église ",
+                "voisine",
+                "voisin",
+                ""
+              ],
+              [
+                "une église ",
+                "restaurée",
+                "restauré",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "l’église ",
+                "accueille",
+                "accueillir",
+                " des visiteurs"
+              ],
+              [
+                "l’église ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "l’église ",
+                "ferme",
+                "fermer",
+                " le soir"
+              ],
+              [
+                "l’église ",
+                "abrite",
+                "abriter",
+                " une cérémonie"
+              ],
+              [
+                "l’église ",
+                "domine",
+                "dominer",
+                " la place"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "visiter",
+                "visiter",
+                " l’église"
+              ],
+              [
+                "",
+                "construire",
+                "construire",
+                " l’église"
+              ],
+              [
+                "",
+                "restaurer",
+                "restaurer",
+                " l’église"
+              ],
+              [
+                "",
+                "photographier",
+                "photographier",
+                " l’église"
+              ],
+              [
+                "",
+                "décrire",
+                "décrire",
+                " l’église"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "la ",
+                "porte",
+                "porte",
+                " de l’église"
+              ],
+              [
+                "la ",
+                "façade",
+                "façade",
+                " de l’église"
+              ],
+              [
+                "la ",
+                "construction",
+                "construction",
+                " de l’église"
+              ],
+              [
+                "la ",
+                "visite",
+                "visite",
+                " de l’église"
+              ],
+              [
+                "la ",
+                "restauration",
+                "restauration",
+                " de l’église"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mosquée",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "mosquées"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Bâtiment où des musulmans se réunissent pour prier et célébrer leur religion.",
+        "example": "La mosquée du quartier ouvre ses portes aux visiteurs.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "une mosquée ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "une mosquée ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "une mosquée ",
+                "ouverte",
+                "ouvert",
+                ""
+              ],
+              [
+                "une mosquée ",
+                "voisine",
+                "voisin",
+                ""
+              ],
+              [
+                "une mosquée ",
+                "restaurée",
+                "restauré",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "la mosquée ",
+                "accueille",
+                "accueillir",
+                " des visiteurs"
+              ],
+              [
+                "la mosquée ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "la mosquée ",
+                "ferme",
+                "fermer",
+                " le soir"
+              ],
+              [
+                "la mosquée ",
+                "abrite",
+                "abriter",
+                " une cérémonie"
+              ],
+              [
+                "la mosquée ",
+                "domine",
+                "dominer",
+                " la place"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "visiter",
+                "visiter",
+                " la mosquée"
+              ],
+              [
+                "",
+                "construire",
+                "construire",
+                " la mosquée"
+              ],
+              [
+                "",
+                "restaurer",
+                "restaurer",
+                " la mosquée"
+              ],
+              [
+                "",
+                "photographier",
+                "photographier",
+                " la mosquée"
+              ],
+              [
+                "",
+                "décrire",
+                "décrire",
+                " la mosquée"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "la ",
+                "porte",
+                "porte",
+                " de la mosquée"
+              ],
+              [
+                "la ",
+                "façade",
+                "façade",
+                " de la mosquée"
+              ],
+              [
+                "la ",
+                "construction",
+                "construction",
+                " de la mosquée"
+              ],
+              [
+                "la ",
+                "visite",
+                "visite",
+                " de la mosquée"
+              ],
+              [
+                "la ",
+                "restauration",
+                "restauration",
+                " de la mosquée"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "synagogue",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "synagogues"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Bâtiment où des juifs se réunissent pour prier, étudier leurs textes religieux et célébrer leur religion.",
+        "example": "La synagogue du quartier ouvre ses portes aux visiteurs.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "une synagogue ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "une synagogue ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "une synagogue ",
+                "ouverte",
+                "ouvert",
+                ""
+              ],
+              [
+                "une synagogue ",
+                "voisine",
+                "voisin",
+                ""
+              ],
+              [
+                "une synagogue ",
+                "restaurée",
+                "restauré",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "la synagogue ",
+                "accueille",
+                "accueillir",
+                " des visiteurs"
+              ],
+              [
+                "la synagogue ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "la synagogue ",
+                "ferme",
+                "fermer",
+                " le soir"
+              ],
+              [
+                "la synagogue ",
+                "abrite",
+                "abriter",
+                " une cérémonie"
+              ],
+              [
+                "la synagogue ",
+                "domine",
+                "dominer",
+                " la place"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "visiter",
+                "visiter",
+                " la synagogue"
+              ],
+              [
+                "",
+                "construire",
+                "construire",
+                " la synagogue"
+              ],
+              [
+                "",
+                "restaurer",
+                "restaurer",
+                " la synagogue"
+              ],
+              [
+                "",
+                "photographier",
+                "photographier",
+                " la synagogue"
+              ],
+              [
+                "",
+                "décrire",
+                "décrire",
+                " la synagogue"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "la ",
+                "porte",
+                "porte",
+                " de la synagogue"
+              ],
+              [
+                "la ",
+                "façade",
+                "façade",
+                " de la synagogue"
+              ],
+              [
+                "la ",
+                "construction",
+                "construction",
+                " de la synagogue"
+              ],
+              [
+                "la ",
+                "visite",
+                "visite",
+                " de la synagogue"
+              ],
+              [
+                "la ",
+                "restauration",
+                "restauration",
+                " de la synagogue"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "temple",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "temples"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Bâtiment consacré à des pratiques religieuses. Le mot s’emploie notamment pour des lieux de culte hindous, bouddhistes, protestants ou de religions de l’Antiquité.",
+        "example": "Le guide présente un temple bouddhiste aux visiteurs.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "un temple ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "un temple ",
+                "moderne",
+                "moderne",
+                ""
+              ],
+              [
+                "un temple ",
+                "ouvert",
+                "ouvert",
+                ""
+              ],
+              [
+                "un temple ",
+                "voisin",
+                "voisin",
+                ""
+              ],
+              [
+                "un temple ",
+                "restauré",
+                "restauré",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le temple ",
+                "accueille",
+                "accueillir",
+                " des visiteurs"
+              ],
+              [
+                "le temple ",
+                "ouvre",
+                "ouvrir",
+                " ses portes"
+              ],
+              [
+                "le temple ",
+                "ferme",
+                "fermer",
+                " le soir"
+              ],
+              [
+                "le temple ",
+                "abrite",
+                "abriter",
+                " une cérémonie"
+              ],
+              [
+                "le temple ",
+                "domine",
+                "dominer",
+                " la place"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "visiter",
+                "visiter",
+                " le temple"
+              ],
+              [
+                "",
+                "construire",
+                "construire",
+                " le temple"
+              ],
+              [
+                "",
+                "restaurer",
+                "restaurer",
+                " le temple"
+              ],
+              [
+                "",
+                "photographier",
+                "photographier",
+                " le temple"
+              ],
+              [
+                "",
+                "décrire",
+                "décrire",
+                " le temple"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "la ",
+                "porte",
+                "porte",
+                " du temple"
+              ],
+              [
+                "la ",
+                "façade",
+                "façade",
+                " du temple"
+              ],
+              [
+                "la ",
+                "construction",
+                "construction",
+                " du temple"
+              ],
+              [
+                "la ",
+                "visite",
+                "visite",
+                " du temple"
+              ],
+              [
+                "la ",
+                "restauration",
+                "restauration",
+                " du temple"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bible",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "bibles"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Ensemble de livres considérés comme sacrés dans le judaïsme et le christianisme. La Bible hébraïque comprend notamment la Torah. Les Bibles chrétiennes réunissent l’Ancien et le Nouveau Testament.",
+        "example": "Le musée présente une ancienne édition de la Bible.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "la Bible ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "la Bible ",
+                "illustrée",
+                "illustré",
+                ""
+              ],
+              [
+                "la Bible ",
+                "rare",
+                "rare",
+                ""
+              ],
+              [
+                "la Bible ",
+                "imprimée",
+                "imprimé",
+                ""
+              ],
+              [
+                "la Bible ",
+                "complète",
+                "complet",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "la Bible ",
+                "contient",
+                "contenir",
+                " des textes"
+              ],
+              [
+                "la Bible ",
+                "rassemble",
+                "rassembler",
+                " des enseignements"
+              ],
+              [
+                "la Bible ",
+                "occupe",
+                "occuper",
+                " une place dans cette tradition"
+              ],
+              [
+                "la Bible ",
+                "inspire",
+                "inspirer",
+                " des artistes"
+              ],
+              [
+                "la Bible ",
+                "suscite",
+                "susciter",
+                " des études"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "lire",
+                "lire",
+                " la Bible"
+              ],
+              [
+                "",
+                "étudier",
+                "étudier",
+                " la Bible"
+              ],
+              [
+                "",
+                "traduire",
+                "traduire",
+                " la Bible"
+              ],
+              [
+                "",
+                "imprimer",
+                "imprimer",
+                " la Bible"
+              ],
+              [
+                "",
+                "consulter",
+                "consulter",
+                " la Bible"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "lecture",
+                "lecture",
+                " de la Bible"
+              ],
+              [
+                "une ",
+                "traduction",
+                "traduction",
+                " de la Bible"
+              ],
+              [
+                "une ",
+                "version",
+                "version",
+                " de la Bible"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " de la Bible"
+              ],
+              [
+                "une ",
+                "copie",
+                "copie",
+                " de la Bible"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ],
+    "displayWord": "Bible"
+  },
+  {
+    "word": "torah",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "torahs"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Dans le judaïsme, ensemble des cinq premiers livres de la Bible hébraïque, considérés comme sacrés. Le mot peut aussi désigner plus largement l’enseignement religieux juif.",
+        "example": "Le musée présente un rouleau de la Torah.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "la Torah ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "la Torah ",
+                "illustrée",
+                "illustré",
+                ""
+              ],
+              [
+                "la Torah ",
+                "rare",
+                "rare",
+                ""
+              ],
+              [
+                "la Torah ",
+                "imprimée",
+                "imprimé",
+                ""
+              ],
+              [
+                "la Torah ",
+                "complète",
+                "complet",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "la Torah ",
+                "contient",
+                "contenir",
+                " des textes"
+              ],
+              [
+                "la Torah ",
+                "rassemble",
+                "rassembler",
+                " des enseignements"
+              ],
+              [
+                "la Torah ",
+                "occupe",
+                "occuper",
+                " une place dans cette tradition"
+              ],
+              [
+                "la Torah ",
+                "inspire",
+                "inspirer",
+                " des artistes"
+              ],
+              [
+                "la Torah ",
+                "suscite",
+                "susciter",
+                " des études"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "lire",
+                "lire",
+                " la Torah"
+              ],
+              [
+                "",
+                "étudier",
+                "étudier",
+                " la Torah"
+              ],
+              [
+                "",
+                "traduire",
+                "traduire",
+                " la Torah"
+              ],
+              [
+                "",
+                "imprimer",
+                "imprimer",
+                " la Torah"
+              ],
+              [
+                "",
+                "consulter",
+                "consulter",
+                " la Torah"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "lecture",
+                "lecture",
+                " de la Torah"
+              ],
+              [
+                "une ",
+                "traduction",
+                "traduction",
+                " de la Torah"
+              ],
+              [
+                "une ",
+                "version",
+                "version",
+                " de la Torah"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " de la Torah"
+              ],
+              [
+                "une ",
+                "copie",
+                "copie",
+                " de la Torah"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ],
+    "displayWord": "Torah"
+  },
+  {
+    "word": "coran",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "corans"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Livre considéré comme sacré dans l’islam. Les musulmans le tiennent pour une révélation de Dieu transmise au prophète Muhammad, aussi appelé Mahomet en français.",
+        "example": "Le musée présente un ancien exemplaire du Coran.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le Coran ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le Coran ",
+                "illustré",
+                "illustré",
+                ""
+              ],
+              [
+                "le Coran ",
+                "rare",
+                "rare",
+                ""
+              ],
+              [
+                "le Coran ",
+                "imprimé",
+                "imprimé",
+                ""
+              ],
+              [
+                "le Coran ",
+                "complet",
+                "complet",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le Coran ",
+                "contient",
+                "contenir",
+                " des textes"
+              ],
+              [
+                "le Coran ",
+                "rassemble",
+                "rassembler",
+                " des enseignements"
+              ],
+              [
+                "le Coran ",
+                "occupe",
+                "occuper",
+                " une place dans cette tradition"
+              ],
+              [
+                "le Coran ",
+                "inspire",
+                "inspirer",
+                " des artistes"
+              ],
+              [
+                "le Coran ",
+                "suscite",
+                "susciter",
+                " des études"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "lire",
+                "lire",
+                " le Coran"
+              ],
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le Coran"
+              ],
+              [
+                "",
+                "traduire",
+                "traduire",
+                " le Coran"
+              ],
+              [
+                "",
+                "imprimer",
+                "imprimer",
+                " le Coran"
+              ],
+              [
+                "",
+                "consulter",
+                "consulter",
+                " le Coran"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "lecture",
+                "lecture",
+                " du Coran"
+              ],
+              [
+                "une ",
+                "traduction",
+                "traduction",
+                " du Coran"
+              ],
+              [
+                "une ",
+                "version",
+                "version",
+                " du Coran"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du Coran"
+              ],
+              [
+                "une ",
+                "copie",
+                "copie",
+                " du Coran"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ],
+    "displayWord": "Coran"
+  },
+  {
+    "word": "veda",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "vedas",
+      "védas",
+      "véda"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Nom donné à chacun des grands recueils de textes anciens en sanskrit considérés comme sacrés dans l’hindouisme. Leur ensemble est appelé les Veda.",
+        "example": "La bibliothèque conserve une traduction d’un Veda.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le Veda ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le Veda ",
+                "illustré",
+                "illustré",
+                ""
+              ],
+              [
+                "le Veda ",
+                "rare",
+                "rare",
+                ""
+              ],
+              [
+                "le Veda ",
+                "imprimé",
+                "imprimé",
+                ""
+              ],
+              [
+                "le Veda ",
+                "complet",
+                "complet",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le Veda ",
+                "contient",
+                "contenir",
+                " des textes"
+              ],
+              [
+                "le Veda ",
+                "rassemble",
+                "rassembler",
+                " des enseignements"
+              ],
+              [
+                "le Veda ",
+                "occupe",
+                "occuper",
+                " une place dans cette tradition"
+              ],
+              [
+                "le Veda ",
+                "inspire",
+                "inspirer",
+                " des artistes"
+              ],
+              [
+                "le Veda ",
+                "suscite",
+                "susciter",
+                " des études"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "lire",
+                "lire",
+                " le Veda"
+              ],
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le Veda"
+              ],
+              [
+                "",
+                "traduire",
+                "traduire",
+                " le Veda"
+              ],
+              [
+                "",
+                "imprimer",
+                "imprimer",
+                " le Veda"
+              ],
+              [
+                "",
+                "consulter",
+                "consulter",
+                " le Veda"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "lecture",
+                "lecture",
+                " du Veda"
+              ],
+              [
+                "une ",
+                "traduction",
+                "traduction",
+                " du Veda"
+              ],
+              [
+                "une ",
+                "version",
+                "version",
+                " du Veda"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du Veda"
+              ],
+              [
+                "une ",
+                "copie",
+                "copie",
+                " du Veda"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ],
+    "displayWord": "Veda"
+  },
+  {
+    "word": "tripitaka",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Nom donné à des ensembles de textes de référence du bouddhisme, organisés en trois grandes parties : enseignements, règles de vie et commentaires. Les recueils varient selon les traditions bouddhistes.",
+        "example": "La bibliothèque présente une traduction du Tripitaka.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le Tripitaka ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le Tripitaka ",
+                "illustré",
+                "illustré",
+                ""
+              ],
+              [
+                "le Tripitaka ",
+                "rare",
+                "rare",
+                ""
+              ],
+              [
+                "le Tripitaka ",
+                "imprimé",
+                "imprimé",
+                ""
+              ],
+              [
+                "le Tripitaka ",
+                "complet",
+                "complet",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le Tripitaka ",
+                "contient",
+                "contenir",
+                " des textes"
+              ],
+              [
+                "le Tripitaka ",
+                "rassemble",
+                "rassembler",
+                " des enseignements"
+              ],
+              [
+                "le Tripitaka ",
+                "occupe",
+                "occuper",
+                " une place dans cette tradition"
+              ],
+              [
+                "le Tripitaka ",
+                "inspire",
+                "inspirer",
+                " des artistes"
+              ],
+              [
+                "le Tripitaka ",
+                "suscite",
+                "susciter",
+                " des études"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "lire",
+                "lire",
+                " le Tripitaka"
+              ],
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le Tripitaka"
+              ],
+              [
+                "",
+                "traduire",
+                "traduire",
+                " le Tripitaka"
+              ],
+              [
+                "",
+                "imprimer",
+                "imprimer",
+                " le Tripitaka"
+              ],
+              [
+                "",
+                "consulter",
+                "consulter",
+                " le Tripitaka"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "une ",
+                "lecture",
+                "lecture",
+                " du Tripitaka"
+              ],
+              [
+                "une ",
+                "traduction",
+                "traduction",
+                " du Tripitaka"
+              ],
+              [
+                "une ",
+                "version",
+                "version",
+                " du Tripitaka"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du Tripitaka"
+              ],
+              [
+                "une ",
+                "copie",
+                "copie",
+                " du Tripitaka"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ],
+    "displayWord": "Tripitaka"
+  },
+  {
+    "word": "christianisme",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "christianismes"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Religion fondée sur la vie et les enseignements de Jésus-Christ, que les chrétiens reconnaissent comme le Fils de Dieu. Elle comprend plusieurs traditions, notamment catholique, orthodoxe et protestante.",
+        "example": "Le livre présente l’histoire du christianisme.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le christianisme ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le christianisme ",
+                "contemporain",
+                "contemporain",
+                ""
+              ],
+              [
+                "le christianisme ",
+                "vivant",
+                "vivant",
+                ""
+              ],
+              [
+                "le christianisme ",
+                "actuel",
+                "actuel",
+                ""
+              ],
+              [
+                "le christianisme ",
+                "traditionnel",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le christianisme ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "le christianisme ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "le christianisme ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "le christianisme ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "le christianisme ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le christianisme"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " le christianisme"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " le christianisme"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " le christianisme"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " le christianisme"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " du christianisme"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " du christianisme"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du christianisme"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " du christianisme"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " du christianisme"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "judaïsme",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "judaïsmes"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Religion et ensemble de traditions du peuple juif, fondés sur la croyance en un Dieu unique. La Torah y occupe une place centrale. Il existe plusieurs courants du judaïsme.",
+        "example": "Le livre présente l’histoire du judaïsme.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le judaïsme ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le judaïsme ",
+                "contemporain",
+                "contemporain",
+                ""
+              ],
+              [
+                "le judaïsme ",
+                "vivant",
+                "vivant",
+                ""
+              ],
+              [
+                "le judaïsme ",
+                "actuel",
+                "actuel",
+                ""
+              ],
+              [
+                "le judaïsme ",
+                "traditionnel",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le judaïsme ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "le judaïsme ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "le judaïsme ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "le judaïsme ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "le judaïsme ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le judaïsme"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " le judaïsme"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " le judaïsme"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " le judaïsme"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " le judaïsme"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " du judaïsme"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " du judaïsme"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du judaïsme"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " du judaïsme"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " du judaïsme"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "islam",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "islams"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Religion fondée sur la croyance en un Dieu unique, appelé Allah en arabe, et sur le Coran. Les musulmans reconnaissent Muhammad comme un prophète. Il existe plusieurs courants de l’islam.",
+        "example": "Le livre présente l’histoire de l’islam.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "l’islam ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "l’islam ",
+                "contemporain",
+                "contemporain",
+                ""
+              ],
+              [
+                "l’islam ",
+                "vivant",
+                "vivant",
+                ""
+              ],
+              [
+                "l’islam ",
+                "actuel",
+                "actuel",
+                ""
+              ],
+              [
+                "l’islam ",
+                "traditionnel",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "l’islam ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "l’islam ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "l’islam ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "l’islam ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "l’islam ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " l’islam"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " l’islam"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " l’islam"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " l’islam"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " l’islam"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " de l’islam"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " de l’islam"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " de l’islam"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " de l’islam"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " de l’islam"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hindouisme",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "hindouismes"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Ensemble de traditions religieuses nées en Inde. Leurs croyances et leurs pratiques sont diverses ; les Veda font partie de leurs textes de référence.",
+        "example": "Le livre présente l’histoire de l’hindouisme.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "l’hindouisme ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "l’hindouisme ",
+                "contemporain",
+                "contemporain",
+                ""
+              ],
+              [
+                "l’hindouisme ",
+                "vivant",
+                "vivant",
+                ""
+              ],
+              [
+                "l’hindouisme ",
+                "actuel",
+                "actuel",
+                ""
+              ],
+              [
+                "l’hindouisme ",
+                "traditionnel",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "l’hindouisme ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "l’hindouisme ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "l’hindouisme ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "l’hindouisme ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "l’hindouisme ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " l’hindouisme"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " l’hindouisme"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " l’hindouisme"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " l’hindouisme"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " l’hindouisme"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " de l’hindouisme"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " de l’hindouisme"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " de l’hindouisme"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " de l’hindouisme"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " de l’hindouisme"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bouddhisme",
+    "gender": "masculin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "bouddhismes"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Ensemble de traditions religieuses et philosophiques nées en Inde à partir des enseignements du Bouddha. Elles proposent des voies pour comprendre la souffrance et s’en libérer.",
+        "example": "Le livre présente l’histoire du bouddhisme.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "le bouddhisme ",
+                "ancien",
+                "ancien",
+                ""
+              ],
+              [
+                "le bouddhisme ",
+                "contemporain",
+                "contemporain",
+                ""
+              ],
+              [
+                "le bouddhisme ",
+                "vivant",
+                "vivant",
+                ""
+              ],
+              [
+                "le bouddhisme ",
+                "actuel",
+                "actuel",
+                ""
+              ],
+              [
+                "le bouddhisme ",
+                "traditionnel",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "le bouddhisme ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "le bouddhisme ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "le bouddhisme ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "le bouddhisme ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "le bouddhisme ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " le bouddhisme"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " le bouddhisme"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " le bouddhisme"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " le bouddhisme"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " le bouddhisme"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " du bouddhisme"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " du bouddhisme"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " du bouddhisme"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " du bouddhisme"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " du bouddhisme"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "word": "religion",
+    "gender": "féminin",
+    "batch": "021",
+    "supplement": true,
+    "editorialStatus": "reviewed",
+    "authorship": "Rédaction originale pour monDico : présentation descriptive et neutre des faits religieux.",
+    "forms": [
+      "religions"
+    ],
+    "senses": [
+      {
+        "id": "courant",
+        "label": "Sens courant",
+        "definition": "Ensemble de croyances, de pratiques et de traditions concernant ce qu’un groupe considère comme sacré. Les religions sont diverses, et certaines personnes n’en suivent aucune.",
+        "example": "Ce livre présente plusieurs religions du monde.",
+        "groups": [
+          [
+            "Avec des adjectifs",
+            "Pour préciser le nom dans un groupe nominal.",
+            [
+              [
+                "la religion ",
+                "ancienne",
+                "ancien",
+                ""
+              ],
+              [
+                "la religion ",
+                "contemporaine",
+                "contemporain",
+                ""
+              ],
+              [
+                "la religion ",
+                "vivante",
+                "vivant",
+                ""
+              ],
+              [
+                "la religion ",
+                "actuelle",
+                "actuel",
+                ""
+              ],
+              [
+                "la religion ",
+                "traditionnelle",
+                "traditionnel",
+                ""
+              ]
+            ],
+            "adjectif"
+          ],
+          [
+            "Le nom est sujet du verbe",
+            "Le nom est le sujet : que fait-il ? Que se passe-t-il ?",
+            [
+              [
+                "la religion ",
+                "rassemble",
+                "rassembler",
+                " des personnes"
+              ],
+              [
+                "la religion ",
+                "inspire",
+                "inspirer",
+                " des œuvres"
+              ],
+              [
+                "la religion ",
+                "évolue",
+                "évoluer",
+                " au fil du temps"
+              ],
+              [
+                "la religion ",
+                "se transmet",
+                "transmettre",
+                " entre générations"
+              ],
+              [
+                "la religion ",
+                "occupe",
+                "occuper",
+                " une place dans l’histoire"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Le nom est COD du verbe",
+            "Le nom complète directement le verbe.",
+            [
+              [
+                "",
+                "étudier",
+                "étudier",
+                " la religion"
+              ],
+              [
+                "",
+                "découvrir",
+                "découvrir",
+                " la religion"
+              ],
+              [
+                "",
+                "connaître",
+                "connaître",
+                " la religion"
+              ],
+              [
+                "",
+                "pratiquer",
+                "pratiquer",
+                " la religion"
+              ],
+              [
+                "",
+                "présenter",
+                "présenter",
+                " la religion"
+              ]
+            ],
+            "verbe"
+          ],
+          [
+            "Avec des compléments du nom",
+            "Le mot peut être le nom principal ou faire partie du complément.",
+            [
+              [
+                "l’",
+                "histoire",
+                "histoire",
+                " de la religion"
+              ],
+              [
+                "la ",
+                "pratique",
+                "pratique",
+                " de la religion"
+              ],
+              [
+                "une ",
+                "étude",
+                "étude",
+                " de la religion"
+              ],
+              [
+                "la ",
+                "transmission",
+                "transmission",
+                " de la religion"
+              ],
+              [
+                "les ",
+                "traditions",
+                "tradition",
+                " de la religion"
+              ]
+            ],
+            "nom commun"
+          ]
+        ]
+      }
+    ]
+  }
+]

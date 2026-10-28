@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-10-28",
+  "nouns": 6062,
+  "illustratedWords": 1211,
+  "illustratedSenses": 1212,
+  "images": 1213,
+  "uniqueLocalFiles": 1105,
+  "previousIllustratedWords": 864,
+  "addedIllustratedWords": 347,
+  "checkedPreviouslyUnillustratedWords": 5183,
+  "auditStatusCounts": {
+    "aucun-article-au-titre-recherche": 2743,
+    "illustre": 1211,
+    "article-examine-sans-illustration-retenue": 1261,
+    "homonymie-sans-illustration-validee": 499,
+    "credits-licence-ou-format-non-valides": 316,
+    "image-ecartee-apres-controle-visuel": 16,
+    "nouveau-mot-non-recherche": 16
+  },
+  "scope": "Requête Vikidia pour les 5 183 noms non illustrés, redirections incluses ; examen des images principales et recherche complémentaire dans les pages sans image principale et les homonymies. Les cas non résolus restent explicitement identifiés."
+}

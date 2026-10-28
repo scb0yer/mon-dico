@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const batch=process.argv[2]||'001';
+if(!/^\d{3}$/.test(batch))throw Error('Lot attendu : trois chiffres.');
+const rows=JSON.parse(fs.readFileSync(new URL('../editorial/adjectifs-lot-'+batch+'.json',import.meta.url),'utf8'));
+const relations=JSON.parse(fs.readFileSync(new URL('../editorial/relations-adjectifs.json',import.meta.url),'utf8'));
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const list=(w,type)=>relations.filter(r=>r.type===type&&(r.a===w||r.b===w)).map(r=>esc(r.a===w?r.b:r.a)+' <small>('+esc(r.note)+')</small>').join(' · ')||'Aucune relation renseignée.';
+const cards=rows.map(r=>`<article><h2>${esc(r.word)}${r.feminine===r.word?'':' / '+esc(r.feminine)}</h2><p><b>Adjectif${r.invariable?' invariable':''}</b></p><p>${esc(r.definition)}</p><p><b>Exemple :</b> ${esc(r.example)}</p><p><b>Synonymes :</b> ${list(r.word,'synonym')}</p><p><b>Contraires :</b> ${list(r.word,'antonym')}</p><h3>Avec des noms</h3><ul>${r.groups[0][2].map(([before,label,,after])=>'<li>'+esc(before)+ '<u>'+esc(label)+'</u>'+esc(after)+'</li>').join('')}</ul></article>`).join('');
+fs.writeFileSync(new URL('../relecture-adjectifs-lot-'+batch+'.html',import.meta.url),`<!doctype html><html lang="fr"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>monDico — adjectifs ${batch}</title><style>body{font:17px system-ui;background:#dce7ec;color:#444;max-width:1000px;margin:24px auto;padding:16px;line-height:1.6}article{background:white;padding:24px;margin:20px 0;border-radius:14px;break-inside:avoid;border-top:4px solid #177c8b}h1,h2,h3{color:#084a62}small{color:#555}</style><h1>${rows.length} nouveaux adjectifs — lot ${batch}</h1><p>Définitions, exemples, accords, cinq groupes nominaux et relations réciproques. Pour chercher un mot : Ctrl+F ou Cmd+F.</p>${cards}</html>`);
+console.log('Page de relecture des adjectifs créée : '+batch);

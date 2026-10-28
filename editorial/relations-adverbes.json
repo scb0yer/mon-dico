@@ -1,0 +1,3376 @@
+[
+  {
+    "type": "antonym",
+    "a": "lentement",
+    "b": "vite",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "lentement",
+    "b": "rapidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "longuement",
+    "b": "brièvement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "logiquement",
+    "b": "judicieusement",
+    "note": "Pour un raisonnement cohérent et approprié.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "loyalement",
+    "b": "honnêtement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "habilement",
+    "b": "adroitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "habilement",
+    "b": "ingénieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "habilement",
+    "b": "astucieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "hâtivement",
+    "b": "vite",
+    "note": "Pour une action faite avec hâte, parfois au détriment du soin.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "hâtivement",
+    "b": "rapidement",
+    "note": "Pour une action faite avec hâte, parfois au détriment du soin.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "hâtivement",
+    "b": "soigneusement",
+    "note": "Pour une action faite avec hâte, parfois au détriment du soin.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "hâtivement",
+    "b": "patiemment",
+    "note": "Pour une action faite avec hâte, parfois au détriment du soin.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "honnêtement",
+    "b": "sincèrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "honnêtement",
+    "b": "faussement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "habituellement",
+    "b": "fréquemment",
+    "note": "Selon une habitude ou une fréquence élevée.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "immédiatement",
+    "b": "instantanément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "immédiatement",
+    "b": "rapidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "instinctivement",
+    "b": "involontairement",
+    "note": "Pour une réaction sans décision réfléchie ; tous les actes involontaires ne sont pas instinctifs.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "intensément",
+    "b": "fortement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "inutilement",
+    "b": "efficacement",
+    "note": "Pour l’absence de résultat utile, par opposition à l’efficacité.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "injustement",
+    "b": "équitablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "intégralement",
+    "b": "entièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "involontairement",
+    "b": "accidentellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "involontairement",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "ingénieusement",
+    "b": "astucieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "imprudemment",
+    "b": "prudemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "intelligemment",
+    "b": "judicieusement",
+    "note": "Pour un choix habile et adapté.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "intelligemment",
+    "b": "ingénieusement",
+    "note": "Pour un choix habile et adapté.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "impatiemment",
+    "b": "patiemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "facilement",
+    "b": "aisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "facilement",
+    "b": "péniblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "franchement",
+    "b": "sincèrement",
+    "note": "Pour une expression sans détour ni tromperie.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "franchement",
+    "b": "honnêtement",
+    "note": "Pour une expression sans détour ni tromperie.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "fortement",
+    "b": "vigoureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "fortement",
+    "b": "faiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "fermement",
+    "b": "vigoureusement",
+    "note": "Pour une action assurée ou énergique.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "fixement",
+    "b": "attentivement",
+    "note": "Pour un regard concentré ; attentivement n’implique pas forcément l’immobilité du regard.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "froidement",
+    "b": "sèchement",
+    "note": "Pour une manière de s’adresser à quelqu’un.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "froidement",
+    "b": "chaleureusement",
+    "note": "Pour une manière de s’adresser à quelqu’un.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "froidement",
+    "b": "amicalement",
+    "note": "Pour une manière de s’adresser à quelqu’un.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "faussement",
+    "b": "sincèrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "furieusement",
+    "b": "violemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "furieusement",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "furieusement",
+    "b": "paisiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "finement",
+    "b": "précisément",
+    "note": "Pour un travail ou une observation précise et délicate.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "furtivement",
+    "b": "silencieusement",
+    "note": "Pour une action discrète ; le silence ne garantit pas qu’elle passe inaperçue.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "fidèlement",
+    "b": "exactement",
+    "note": "Pour la reproduction d’un modèle ou le récit de faits.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "joyeusement",
+    "b": "tristement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "exactement",
+    "b": "précisément",
+    "note": "Pour une réalisation conforme à un modèle ou une mesure précise.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "exactement",
+    "b": "correctement",
+    "note": "Pour une réalisation conforme à un modèle ou une mesure précise.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "élégamment",
+    "b": "harmonieusement",
+    "note": "Pour une manière d’agir gracieuse et équilibrée.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "énergiquement",
+    "b": "vigoureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "énergiquement",
+    "b": "activement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "tendrement",
+    "b": "affectueusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "tranquillement",
+    "b": "calmement",
+    "note": "Pour une action sans agitation, par opposition à une réaction brusque.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "tranquillement",
+    "b": "paisiblement",
+    "note": "Pour une action sans agitation, par opposition à une réaction brusque.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "tranquillement",
+    "b": "brusquement",
+    "note": "Pour une action sans agitation, par opposition à une réaction brusque.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "attentivement",
+    "b": "soigneusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "aisément",
+    "b": "péniblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "amicalement",
+    "b": "chaleureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "amicalement",
+    "b": "aimablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "affectueusement",
+    "b": "chaleureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "aimablement",
+    "b": "poliment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "aimablement",
+    "b": "sèchement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "agréablement",
+    "b": "péniblement",
+    "note": "Pour une expérience plaisante ou difficile à vivre.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "accidentellement",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "adroitement",
+    "b": "astucieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "audacieusement",
+    "b": "courageusement",
+    "note": "Pour une action que l’on ose entreprendre.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "audacieusement",
+    "b": "timidement",
+    "note": "Pour une action que l’on ose entreprendre.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "violemment",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "violemment",
+    "b": "paisiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "vivement",
+    "b": "rapidement",
+    "note": "Selon la vitesse ou la vigueur.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "vivement",
+    "b": "énergiquement",
+    "note": "Selon la vitesse ou la vigueur.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "vigoureusement",
+    "b": "faiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "vite",
+    "b": "rapidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "verticalement",
+    "b": "horizontalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "vaguement",
+    "b": "clairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "vaguement",
+    "b": "précisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "brusquement",
+    "b": "sèchement",
+    "note": "Selon une réponse rude ou un mouvement soudain.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "brusquement",
+    "b": "rapidement",
+    "note": "Selon une réponse rude ou un mouvement soudain.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "bruyamment",
+    "b": "silencieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "courageusement",
+    "b": "timidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "clairement",
+    "b": "précisément",
+    "note": "Selon la compréhension d’un message ou la netteté d’une écriture.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "clairement",
+    "b": "lisiblement",
+    "note": "Selon la compréhension d’un message ou la netteté d’une écriture.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "chaleureusement",
+    "b": "aimablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "chaleureusement",
+    "b": "sèchement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "parfaitement",
+    "b": "entièrement",
+    "note": "Selon une réalisation complète ou sans erreur.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "parfaitement",
+    "b": "exactement",
+    "note": "Selon une réalisation complète ou sans erreur.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "poliment",
+    "b": "sèchement",
+    "note": "Pour une manière courtoise ou peu aimable de parler.",
+    "batch": "001"
+  },
+  {
+    "type": "synonym",
+    "a": "paisiblement",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "progressivement",
+    "b": "brusquement",
+    "note": "Pour un changement par étapes ou soudain.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "progressivement",
+    "b": "instantanément",
+    "note": "Pour un changement par étapes ou soudain.",
+    "batch": "001"
+  },
+  {
+    "type": "antonym",
+    "a": "loin",
+    "b": "près",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "longtemps",
+    "b": "longuement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "longtemps",
+    "b": "brièvement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "légèrement",
+    "b": "lourdement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "légèrement",
+    "b": "pesamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "légèrement",
+    "b": "fortement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lâchement",
+    "b": "courageusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lâchement",
+    "b": "bravement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lâchement",
+    "b": "vaillamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "lamentablement",
+    "b": "mal",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lamentablement",
+    "b": "brillamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lamentablement",
+    "b": "admirablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "lestement",
+    "b": "prestement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "lestement",
+    "b": "agilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "lestement",
+    "b": "vite",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "légitimement",
+    "b": "justement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lugubrement",
+    "b": "gaiement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "lugubrement",
+    "b": "joyeusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "littéralement",
+    "b": "exactement",
+    "note": "Pour le respect des mots employés.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "haut",
+    "b": "bas",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "horriblement",
+    "b": "affreusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "horriblement",
+    "b": "atrocement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "horriblement",
+    "b": "terriblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "humblement",
+    "b": "modestement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "humblement",
+    "b": "fièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "hardiment",
+    "b": "audacieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "hardiment",
+    "b": "courageusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "hardiment",
+    "b": "bravement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "hardiment",
+    "b": "timidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "humainement",
+    "b": "cruellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "humainement",
+    "b": "impitoyablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "infiniment",
+    "b": "énormément",
+    "note": "Pour une intensité très élevée.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "infiniment",
+    "b": "extrêmement",
+    "note": "Pour une intensité très élevée.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "indéfiniment",
+    "b": "longtemps",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "indéfiniment",
+    "b": "interminablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "insensiblement",
+    "b": "progressivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "insensiblement",
+    "b": "imperceptiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "insensiblement",
+    "b": "brusquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "incroyablement",
+    "b": "étonnamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "incroyablement",
+    "b": "extrêmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inlassablement",
+    "b": "obstinément",
+    "note": "Pour la persévérance dans une activité.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inlassablement",
+    "b": "assidûment",
+    "note": "Pour la persévérance dans une activité.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "imperceptiblement",
+    "b": "visiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inconsciemment",
+    "b": "machinalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inconsciemment",
+    "b": "involontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "inconsciemment",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "inconsciemment",
+    "b": "délibérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "intérieurement",
+    "b": "mentalement",
+    "note": "Pour une activité de pensée.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "interminablement",
+    "b": "longtemps",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "interminablement",
+    "b": "brièvement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "irrémédiablement",
+    "b": "définitivement",
+    "note": "Pour un dommage auquel on ne peut plus remédier.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "irrésistiblement",
+    "b": "puissamment",
+    "note": "Pour une force d’attraction difficile à contrer.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inexorablement",
+    "b": "inéluctablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inexorablement",
+    "b": "inévitablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "incessamment",
+    "b": "continuellement",
+    "note": "Dans le sens de sans cesse.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "incessamment",
+    "b": "constamment",
+    "note": "Dans le sens de sans cesse.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "indépendamment",
+    "b": "librement",
+    "note": "Pour une action sans dépendance.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "innocemment",
+    "b": "malicieusement",
+    "note": "Selon l’absence d’intention de tromper ou de nuire.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "innocemment",
+    "b": "méchamment",
+    "note": "Selon l’absence d’intention de tromper ou de nuire.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "impérativement",
+    "b": "obligatoirement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "instamment",
+    "b": "vivement",
+    "note": "Pour une demande insistante.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "intensivement",
+    "b": "intensément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "intensivement",
+    "b": "activement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "industriellement",
+    "b": "artisanalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "illégalement",
+    "b": "frauduleusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "illégalement",
+    "b": "légalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "impitoyablement",
+    "b": "cruellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "intuitivement",
+    "b": "instinctivement",
+    "note": "Pour une compréhension sans raisonnement entièrement formulé.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "indiscrètement",
+    "b": "discrètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "inconfortablement",
+    "b": "confortablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "inopinément",
+    "b": "subitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "implicitement",
+    "b": "explicitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "implicitement",
+    "b": "expressément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fort",
+    "b": "fortement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fort",
+    "b": "puissamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "fort",
+    "b": "faiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "follement",
+    "b": "passionnément",
+    "note": "Pour une envie ou un attachement très intense.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "follement",
+    "b": "ardemment",
+    "note": "Pour une envie ou un attachement très intense.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "faux",
+    "b": "juste",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "faux",
+    "b": "correctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "formellement",
+    "b": "catégoriquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "formellement",
+    "b": "explicitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "formellement",
+    "b": "expressément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fébrilement",
+    "b": "impatiemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "fébrilement",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "farouchement",
+    "b": "obstinément",
+    "note": "Pour une défense sans concession.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "farouchement",
+    "b": "résolument",
+    "note": "Pour une défense sans concession.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "férocement",
+    "b": "violemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "férocement",
+    "b": "cruellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fortuitement",
+    "b": "accidentellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fortuitement",
+    "b": "inopinément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "fortuitement",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "fortuitement",
+    "b": "délibérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fraternellement",
+    "b": "amicalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "fraternellement",
+    "b": "chaleureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "frontalement",
+    "b": "directement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "frontalement",
+    "b": "indirectement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "favorablement",
+    "b": "positivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "frauduleusement",
+    "b": "malhonnêtement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "frauduleusement",
+    "b": "honnêtement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "frauduleusement",
+    "b": "légalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "juste",
+    "b": "correctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "juste",
+    "b": "exactement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "joliment",
+    "b": "magnifiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "joliment",
+    "b": "superbement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "justement",
+    "b": "équitablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "justement",
+    "b": "injustement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "extrêmement",
+    "b": "terriblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "extrêmement",
+    "b": "énormément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "exclusivement",
+    "b": "uniquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "exprès",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "exprès",
+    "b": "délibérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "exprès",
+    "b": "involontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "exprès",
+    "b": "accidentellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "exceptionnellement",
+    "b": "habituellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "exceptionnellement",
+    "b": "régulièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "excessivement",
+    "b": "exagérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "excessivement",
+    "b": "démesurément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "excessivement",
+    "b": "modérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "excessivement",
+    "b": "raisonnablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "énormément",
+    "b": "beaucoup",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "énormément",
+    "b": "considérablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "énormément",
+    "b": "prodigieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "énormément",
+    "b": "peu",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "expressément",
+    "b": "explicitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "effrontément",
+    "b": "respectueusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "éternellement",
+    "b": "perpétuellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "éternellement",
+    "b": "temporairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "éternellement",
+    "b": "momentanément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "étrangement",
+    "b": "bizarrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "étrangement",
+    "b": "mystérieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "expressivement",
+    "b": "machinalement",
+    "note": "Pour la mise en voix d’un texte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "égoïstement",
+    "b": "généreusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "exhaustivement",
+    "b": "entièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "exhaustivement",
+    "b": "intégralement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "exhaustivement",
+    "b": "partiellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "toujours",
+    "b": "constamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "toujours",
+    "b": "rarement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "tôt",
+    "b": "tard",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "tôt",
+    "b": "tardivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "totalement",
+    "b": "complètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "totalement",
+    "b": "entièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "totalement",
+    "b": "partiellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "temporairement",
+    "b": "provisoirement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "temporairement",
+    "b": "momentanément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "temporairement",
+    "b": "définitivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "temporairement",
+    "b": "durablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "traditionnellement",
+    "b": "habituellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "assez",
+    "b": "suffisamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "assez",
+    "b": "insuffisamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "absolument",
+    "b": "entièrement",
+    "note": "Pour une affirmation sans réserve.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "autrement",
+    "b": "différemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "affreusement",
+    "b": "atrocement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "ardemment",
+    "b": "vivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "ardemment",
+    "b": "passionnément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "automatiquement",
+    "b": "mécaniquement",
+    "note": "Selon un dispositif automatique ou un geste fait sans réfléchir.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "automatiquement",
+    "b": "machinalement",
+    "note": "Selon un dispositif automatique ou un geste fait sans réfléchir.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "automatiquement",
+    "b": "manuellement",
+    "note": "Selon un dispositif automatique ou un geste fait sans réfléchir.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "avidement",
+    "b": "goulûment",
+    "note": "Pour le désir très vif de consommer ou de découvrir.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "avidement",
+    "b": "gloutonnement",
+    "note": "Pour le désir très vif de consommer ou de découvrir.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "amèrement",
+    "b": "tristement",
+    "note": "Pour un sentiment de déception.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "admirablement",
+    "b": "merveilleusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "admirablement",
+    "b": "remarquablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "admirablement",
+    "b": "brillamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "aveuglément",
+    "b": "objectivement",
+    "note": "Pour une adhésion sans examen critique, par opposition à l’examen des faits.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "absurdement",
+    "b": "logiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "absurdement",
+    "b": "raisonnablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "approximativement",
+    "b": "exactement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "approximativement",
+    "b": "précisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "amplement",
+    "b": "largement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "amplement",
+    "b": "suffisamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "abusivement",
+    "b": "excessivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "autoritairement",
+    "b": "démocratiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "agilement",
+    "b": "adroitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "agilement",
+    "b": "prestement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "âprement",
+    "b": "durement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "âprement",
+    "b": "farouchement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "amiablement",
+    "b": "pacifiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "amiablement",
+    "b": "amicalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "arbitrairement",
+    "b": "objectivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "arbitrairement",
+    "b": "équitablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "volontiers",
+    "b": "volontairement",
+    "note": "Pour une participation sans réticence ; volontairement insiste sur le choix.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "vainement",
+    "b": "inutilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "vainement",
+    "b": "utilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "vainement",
+    "b": "efficacement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "véritablement",
+    "b": "réellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "vaillamment",
+    "b": "bravement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "vaillamment",
+    "b": "courageusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "victorieusement",
+    "b": "glorieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "verbalement",
+    "b": "oralement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "bien",
+    "b": "correctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "bien",
+    "b": "convenablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "bien",
+    "b": "mal",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "beaucoup",
+    "b": "peu",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "beaucoup",
+    "b": "moins",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "brutalement",
+    "b": "violemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "brutalement",
+    "b": "rudement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "brutalement",
+    "b": "brusquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "brutalement",
+    "b": "doucement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "brutalement",
+    "b": "délicatement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "bravement",
+    "b": "courageusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "brillamment",
+    "b": "remarquablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "bénévolement",
+    "b": "gratuitement",
+    "note": "Pour une activité sans rémunération.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "complètement",
+    "b": "intégralement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "complètement",
+    "b": "partiellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "constamment",
+    "b": "continuellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "constamment",
+    "b": "perpétuellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "cruellement",
+    "b": "méchamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "cruellement",
+    "b": "gentiment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "confusément",
+    "b": "vaguement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "confusément",
+    "b": "clairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "confusément",
+    "b": "distinctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "convenablement",
+    "b": "correctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "convenablement",
+    "b": "mal",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "conformément",
+    "b": "arbitrairement",
+    "note": "Pour le respect d’une règle, par opposition à une décision sans justification.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "consciencieusement",
+    "b": "soigneusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "consciencieusement",
+    "b": "minutieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "couramment",
+    "b": "aisément",
+    "note": "Pour la maîtrise d’une langue ou d’un texte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "couramment",
+    "b": "facilement",
+    "note": "Pour la maîtrise d’une langue ou d’un texte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "clandestinement",
+    "b": "secrètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "clandestinement",
+    "b": "discrètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "clandestinement",
+    "b": "ouvertement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "chaudement",
+    "b": "chaleureusement",
+    "note": "Pour l’accueil ou les remerciements.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "chaudement",
+    "b": "froidement",
+    "note": "Pour l’accueil ou les remerciements.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "cordialement",
+    "b": "amicalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "cordialement",
+    "b": "chaleureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "copieusement",
+    "b": "abondamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "copieusement",
+    "b": "généreusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "copieusement",
+    "b": "pauvrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "constructivement",
+    "b": "utilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "constructivement",
+    "b": "positivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "comiquement",
+    "b": "drôlement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "profondément",
+    "b": "intensément",
+    "note": "Pour un sentiment ou une réflexion.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "pratiquement",
+    "b": "presque",
+    "note": "Dans le sens d’une réalisation presque complète.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "proprement",
+    "b": "soigneusement",
+    "note": "Pour un travail net.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "pleinement",
+    "b": "entièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "pleinement",
+    "b": "totalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "précipitamment",
+    "b": "hâtivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "précipitamment",
+    "b": "rapidement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "précipitamment",
+    "b": "posément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "précipitamment",
+    "b": "patiemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "publiquement",
+    "b": "ouvertement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "publiquement",
+    "b": "secrètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "publiquement",
+    "b": "clandestinement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "principalement",
+    "b": "majoritairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "provisoirement",
+    "b": "définitivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "posément",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "posément",
+    "b": "tranquillement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pêle-mêle",
+    "b": "méthodiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pêle-mêle",
+    "b": "alphabétiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pareillement",
+    "b": "différemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pareillement",
+    "b": "autrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "pesamment",
+    "b": "lourdement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "perpétuellement",
+    "b": "continuellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "prodigieusement",
+    "b": "extrêmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "prestement",
+    "b": "vite",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "partiellement",
+    "b": "intégralement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "puissamment",
+    "b": "fortement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "puissamment",
+    "b": "vigoureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "puissamment",
+    "b": "faiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "précautionneusement",
+    "b": "prudemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "précautionneusement",
+    "b": "délicatement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "précautionneusement",
+    "b": "imprudemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "précieusement",
+    "b": "soigneusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "ponctuellement",
+    "b": "occasionnellement",
+    "note": "Dans le sens d’une intervention non continue.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pacifiquement",
+    "b": "violemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pacifiquement",
+    "b": "brutalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "périodiquement",
+    "b": "régulièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "pertinemment",
+    "b": "judicieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "pauvrement",
+    "b": "richement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "passivement",
+    "b": "activement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "passivement",
+    "b": "énergiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "utilement",
+    "b": "inutilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "uniformément",
+    "b": "irrégulièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "unilatéralement",
+    "b": "collectivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "gentiment",
+    "b": "aimablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "gentiment",
+    "b": "méchamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "gaiement",
+    "b": "joyeusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "gaiement",
+    "b": "tristement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "généreusement",
+    "b": "largement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "grossièrement",
+    "b": "finement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "grossièrement",
+    "b": "précisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "grossièrement",
+    "b": "poliment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "gauchement",
+    "b": "maladroitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "gauchement",
+    "b": "adroitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "gauchement",
+    "b": "habilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "goulûment",
+    "b": "gloutonnement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "gracieusement",
+    "b": "élégamment",
+    "note": "Pour une allure gracieuse.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "globalement",
+    "b": "minutieusement",
+    "note": "Pour la vue d’ensemble ou l’examen des détails.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "glorieusement",
+    "b": "brillamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "doucement",
+    "b": "délicatement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "doucement",
+    "b": "fortement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "directement",
+    "b": "indirectement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "discrètement",
+    "b": "furtivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "discrètement",
+    "b": "ostensiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "difficilement",
+    "b": "péniblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "difficilement",
+    "b": "facilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "difficilement",
+    "b": "aisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "durement",
+    "b": "rudement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "durement",
+    "b": "doucement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "désespérément",
+    "b": "ardemment",
+    "note": "Pour une recherche très intense ; le sentiment d’espoir peut différer.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "distraitement",
+    "b": "machinalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "distraitement",
+    "b": "attentivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "d'emblée",
+    "b": "immédiatement",
+    "note": "Pour une compréhension dès le début.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "délibérément",
+    "b": "volontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "délibérément",
+    "b": "involontairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "distinctement",
+    "b": "clairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "distinctement",
+    "b": "vaguement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "dangereusement",
+    "b": "prudemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "douloureusement",
+    "b": "péniblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "délicieusement",
+    "b": "agréablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "docilement",
+    "b": "obstinément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "dignement",
+    "b": "respectueusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "démesurément",
+    "b": "exagérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "démesurément",
+    "b": "modérément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "durablement",
+    "b": "momentanément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "désagréablement",
+    "b": "agréablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "désagréablement",
+    "b": "aimablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "démocratiquement",
+    "b": "arbitrairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "rarement",
+    "b": "souvent",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "rarement",
+    "b": "fréquemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "relativement",
+    "b": "absolument",
+    "note": "Pour une appréciation liée à une comparaison ou sans réserve.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "rageusement",
+    "b": "furieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "rageusement",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "radicalement",
+    "b": "totalement",
+    "note": "Pour un changement complet.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "régulièrement",
+    "b": "irrégulièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "rigoureusement",
+    "b": "précisément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "résolument",
+    "b": "fermement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "résolument",
+    "b": "obstinément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "rudement",
+    "b": "doucement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "mieux",
+    "b": "mal",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "mal",
+    "b": "correctement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "machinalement",
+    "b": "mécaniquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "machinalement",
+    "b": "attentivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "mollement",
+    "b": "faiblement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "mollement",
+    "b": "vigoureusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "mollement",
+    "b": "énergiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "merveilleusement",
+    "b": "magnifiquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "maladroitement",
+    "b": "habilement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "maladroitement",
+    "b": "adroitement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "méchamment",
+    "b": "aimablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "minutieusement",
+    "b": "soigneusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "magnifiquement",
+    "b": "superbement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "mécaniquement",
+    "b": "manuellement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "majestueusement",
+    "b": "élégamment",
+    "note": "Pour une allure imposante et harmonieuse.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "malhonnêtement",
+    "b": "honnêtement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "malhonnêtement",
+    "b": "loyalement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "modérément",
+    "b": "raisonnablement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "ouvertement",
+    "b": "secrètement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "obscurément",
+    "b": "confusément",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "obscurément",
+    "b": "clairement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "occasionnellement",
+    "b": "régulièrement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "souvent",
+    "b": "fréquemment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "sagement",
+    "b": "calmement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "subitement",
+    "b": "soudain",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "subitement",
+    "b": "brusquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "subitement",
+    "b": "progressivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "soudain",
+    "b": "brusquement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "soudain",
+    "b": "progressivement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "spontanément",
+    "b": "mécaniquement",
+    "note": "Pour une initiative libre ou un geste sans réflexion.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "solidement",
+    "b": "fermement",
+    "note": "Pour une fixation résistante.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "simplement",
+    "b": "facilement",
+    "note": "Selon l’absence de complication.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "solennellement",
+    "b": "gravement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "synonym",
+    "a": "sérieusement",
+    "b": "consciencieusement",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "type": "antonym",
+    "a": "suffisamment",
+    "b": "insuffisamment",
+    "note": "Pour le sens indiqué dans ces fiches ; les nuances varient selon le contexte.",
+    "batch": "002"
+  },
+  {
+    "a": "naturellement",
+    "b": "spontanément",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "normalement",
+    "b": "habituellement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "nettement",
+    "b": "clairement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "néanmoins",
+    "b": "cependant",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "néanmoins",
+    "b": "pourtant",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "cependant",
+    "b": "pourtant",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "nécessairement",
+    "b": "obligatoirement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "négligemment",
+    "b": "distraitement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "sévèrement",
+    "b": "strictement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "soudainement",
+    "b": "brusquement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "sereinement",
+    "b": "calmement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "spécialement",
+    "b": "particulièrement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "savamment",
+    "b": "habilement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "scrupuleusement",
+    "b": "soigneusement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "bientôt",
+    "b": "prochainement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "ensuite",
+    "b": "puis",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "enfin",
+    "b": "finalement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "forcément",
+    "b": "nécessairement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "généralement",
+    "b": "habituellement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "vraiment",
+    "b": "réellement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "hautement",
+    "b": "grandement",
+    "type": "synonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "heureusement",
+    "b": "malheureusement",
+    "type": "antonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "négligemment",
+    "b": "soigneusement",
+    "type": "antonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "nerveusement",
+    "b": "calmement",
+    "type": "antonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  },
+  {
+    "a": "strictement",
+    "b": "librement",
+    "type": "antonym",
+    "note": "Dans le sens indiqué ; la possibilité de remplacement dépend de la phrase.",
+    "batch": "003"
+  }
+]

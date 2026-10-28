@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import {TENSES,conjugatedPhrase} from '../src/conjugation.js';
+const batch=process.argv[2]||'002';
+if(!/^\d{3}$/.test(batch))throw Error('Lot attendu : trois chiffres.');
+const rows=JSON.parse(fs.readFileSync(new URL('../editorial/verbes-lot-'+batch+'.json',import.meta.url),'utf8'));
+const relations=JSON.parse(fs.readFileSync(new URL('../editorial/relations-verbes.json',import.meta.url),'utf8'));
+const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const list=(word,type)=>relations.filter(r=>r.type===type&&(r.a===word||r.b===word)).map(r=>escape(r.a===word?r.b:r.a)+' <small>('+escape(r.note)+')</small>').join(' · ')||'Aucune relation renseignée.';
+const cards=rows.map(r=>`<article><h2>${escape(r.displayWord||r.word)}</h2><p>${escape(r.definition)}</p><p><b>Exemple :</b> ${escape(r.example)}</p><p><b>Synonymes :</b> ${list(r.word,'synonym')}</p><p><b>Contraires :</b> ${list(r.word,'antonym')}</p><h3>Avec des adverbes</h3><p>${r.groups[0][2].map(([before,label,,after])=>escape(before+label+after)).join(' · ')}</p>${r.conjugationNote?'<p>'+escape(r.conjugationNote)+'</p>':''}<div class="times">${TENSES.map(([key,label])=>`<section><h3>${label}</h3>${r.conjugations[key].map((form,i)=>form==null?'':'<p>'+escape(conjugatedPhrase(form,i,r.conjugationOptions))+'</p>').join('')||'<p>Ce temps n’est pas proposé pour ce verbe.</p>'}</section>`).join('')}</div></article>`).join('');
+fs.writeFileSync(new URL('../relecture-verbes-lot-'+batch+'.html',import.meta.url),`<!doctype html><html lang="fr"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>monDico — verbes ${batch}</title><style>body{font:17px system-ui;background:#eef3f5;color:#444;max-width:1100px;margin:24px auto;padding:16px}article{background:white;padding:24px;margin:20px 0;border-radius:14px;break-inside:avoid}h1,h2,h3{color:#084a62}.times{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px}section p{margin:6px 0}small{color:#555}</style><h1>${rows.length} nouveaux verbes — lot ${batch}</h1><p>Définitions, expressions, relations et quatre temps de l’indicatif. Pour chercher un mot, utilise Ctrl+F ou Cmd+F.</p>${cards}</html>`);
+console.log('Page de relecture créée : '+batch);

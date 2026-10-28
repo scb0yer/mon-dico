@@ -1,0 +1,693 @@
+[
+  {
+    "word": "mobile",
+    "nature": "adjectif",
+    "definition": "Qui peut bouger ou être déplacé.",
+    "example": "Le panneau mobile permet de séparer la salle.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser ce qui peut bouger.",
+        [
+          [
+            "un ",
+            "panneau",
+            "panneau",
+            " mobile"
+          ],
+          [
+            "un ",
+            "siège",
+            "siège",
+            " mobile"
+          ],
+          [
+            "un ",
+            "meuble",
+            "meuble",
+            " mobile"
+          ],
+          [
+            "un ",
+            "élément",
+            "élément",
+            " mobile"
+          ],
+          [
+            "un ",
+            "objet",
+            "objet",
+            " mobile"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "word": "immobile",
+    "nature": "adjectif",
+    "definition": "Qui ne bouge pas.",
+    "example": "L’oiseau reste immobile sur la branche.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser ce qui reste sans mouvement.",
+        [
+          [
+            "un ",
+            "oiseau",
+            "oiseau",
+            " immobile"
+          ],
+          [
+            "un ",
+            "personnage",
+            "personnage",
+            " immobile"
+          ],
+          [
+            "un ",
+            "véhicule",
+            "véhicule",
+            " immobile"
+          ],
+          [
+            "un ",
+            "objet",
+            "objet",
+            " immobile"
+          ],
+          [
+            "un ",
+            "animal",
+            "animal",
+            " immobile"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "word": "ancien",
+    "nature": "adjectif",
+    "definition": "Qui appartient au passé, existe depuis longtemps ou n’exerce plus une fonction.",
+    "example": "Nous visitons un ancien bâtiment.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser ce qui est ancien.",
+        [
+          [
+            "un ancien ",
+            "bâtiment",
+            "bâtiment",
+            ""
+          ],
+          [
+            "une ancienne ",
+            "tradition",
+            "tradition",
+            ""
+          ],
+          [
+            "un ancien ",
+            "objet",
+            "objet",
+            ""
+          ],
+          [
+            "un ancien ",
+            "métier",
+            "métier",
+            ""
+          ],
+          [
+            "un ancien ",
+            "village",
+            "village",
+            ""
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "word": "jeune",
+    "nature": "adjectif",
+    "definition": "Qui se trouve au début de sa vie, de son existence ou de son développement.",
+    "example": "Une jeune plante pousse dans le jardin.",
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser un jeune âge.",
+        [
+          [
+            "une jeune ",
+            "plante",
+            "plante",
+            ""
+          ],
+          [
+            "un jeune ",
+            "arbre",
+            "arbre",
+            ""
+          ],
+          [
+            "un jeune ",
+            "animal",
+            "animal",
+            ""
+          ],
+          [
+            "une jeune ",
+            "personne",
+            "personne",
+            ""
+          ],
+          [
+            "un jeune ",
+            "lecteur",
+            "lecteur",
+            ""
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "word": "fin",
+    "nature": "adjectif",
+    "feminine": "fine",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "De faible épaisseur. Pour la pluie : formée de petites gouttes.",
+    "example": "Une pluie fine mouille le jardin.",
+    "forms": [
+      "fine",
+      "fins",
+      "fines"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser un nom.",
+        [
+          [
+            "une ",
+            "pluie",
+            "pluie",
+            " fine"
+          ],
+          [
+            "un ",
+            "sable",
+            "sable",
+            " fin"
+          ],
+          [
+            "un ",
+            "tissu",
+            "tissu",
+            " fin"
+          ],
+          [
+            "un ",
+            "fil",
+            "fil",
+            " fin"
+          ],
+          [
+            "une ",
+            "pointe",
+            "pointe",
+            " fine"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "imposant",
+    "nature": "adjectif",
+    "feminine": "imposante",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui impressionne par sa taille ou son importance.",
+    "example": "Un arbre imposant domine la cour.",
+    "forms": [
+      "imposante",
+      "imposants",
+      "imposantes"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser un nom.",
+        [
+          [
+            "un ",
+            "bâtiment",
+            "bâtiment",
+            " imposant"
+          ],
+          [
+            "une ",
+            "montagne",
+            "montagne",
+            " imposante"
+          ],
+          [
+            "un ",
+            "arbre",
+            "arbre",
+            " imposant"
+          ],
+          [
+            "un ",
+            "monument",
+            "monument",
+            " imposant"
+          ],
+          [
+            "une ",
+            "silhouette",
+            "silhouette",
+            " imposante"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "superficiel",
+    "nature": "adjectif",
+    "feminine": "superficielle",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui concerne la surface ; au sens figuré, qui manque de profondeur.",
+    "example": "La blessure superficielle touche seulement la peau.",
+    "forms": [
+      "superficielle",
+      "superficiels",
+      "superficielles"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser un nom.",
+        [
+          [
+            "une ",
+            "blessure",
+            "blessure",
+            " superficielle"
+          ],
+          [
+            "une ",
+            "couche",
+            "couche",
+            " superficielle"
+          ],
+          [
+            "un ",
+            "examen",
+            "examen",
+            " superficiel"
+          ],
+          [
+            "une ",
+            "lecture",
+            "lecture",
+            " superficielle"
+          ],
+          [
+            "une ",
+            "connaissance",
+            "connaissance",
+            " superficielle"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "rapidement",
+    "nature": "adverbe",
+    "invariable": true,
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Avec une grande vitesse ou en peu de temps.",
+    "example": "Elle termine rapidement son travail.",
+    "groups": [
+      [
+        "Avec des verbes",
+        "Pour préciser le verbe.",
+        [
+          [
+            "",
+            "courir",
+            "courir",
+            " rapidement"
+          ],
+          [
+            "",
+            "avancer",
+            "avancer",
+            " rapidement"
+          ],
+          [
+            "",
+            "répondre",
+            "répondre",
+            " rapidement"
+          ],
+          [
+            "",
+            "comprendre",
+            "comprendre",
+            " rapidement"
+          ],
+          [
+            "",
+            "terminer",
+            "terminer",
+            " rapidement"
+          ]
+        ],
+        "verbe"
+      ]
+    ]
+  },
+  {
+    "word": "calmement",
+    "nature": "adverbe",
+    "invariable": true,
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Avec calme, sans agitation.",
+    "example": "Il répond calmement à la question.",
+    "groups": [
+      [
+        "Avec des verbes",
+        "Pour préciser le verbe.",
+        [
+          [
+            "",
+            "parler",
+            "parler",
+            " calmement"
+          ],
+          [
+            "",
+            "répondre",
+            "répondre",
+            " calmement"
+          ],
+          [
+            "",
+            "attendre",
+            "attendre",
+            " calmement"
+          ],
+          [
+            "",
+            "expliquer",
+            "expliquer",
+            " calmement"
+          ],
+          [
+            "",
+            "respirer",
+            "respirer",
+            " calmement"
+          ]
+        ],
+        "verbe"
+      ]
+    ]
+  },
+  {
+    "word": "sèchement",
+    "nature": "adverbe",
+    "invariable": true,
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "D’une manière brusque et peu aimable.",
+    "example": "Le personnage refuse sèchement la proposition.",
+    "groups": [
+      [
+        "Avec des verbes",
+        "Pour préciser le verbe.",
+        [
+          [
+            "",
+            "répondre",
+            "répondre",
+            " sèchement"
+          ],
+          [
+            "",
+            "parler",
+            "parler",
+            " sèchement"
+          ],
+          [
+            "",
+            "refuser",
+            "refuser",
+            " sèchement"
+          ],
+          [
+            "",
+            "interrompre",
+            "interrompre",
+            " sèchement"
+          ],
+          [
+            "",
+            "ordonner",
+            "ordonner",
+            " sèchement"
+          ]
+        ],
+        "verbe"
+      ]
+    ]
+  },
+  {
+    "word": "diluvien",
+    "nature": "adjectif",
+    "feminine": "diluvienne",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui évoque un déluge par son abondance. Se dit notamment d’une pluie très forte.",
+    "example": "Une pluie diluvienne inonde la rue.",
+    "forms": [
+      "diluvienne",
+      "diluviens",
+      "diluviennes"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser le nom.",
+        [
+          [
+            "une ",
+            "pluie",
+            "pluie",
+            " diluvienne"
+          ],
+          [
+            "une ",
+            "averse",
+            "averse",
+            " diluvienne"
+          ],
+          [
+            "des ",
+            "précipitations",
+            "précipitation",
+            " diluviennes"
+          ],
+          [
+            "une ",
+            "trombe",
+            "trombe",
+            " diluvienne"
+          ],
+          [
+            "un ",
+            "orage",
+            "orage",
+            " diluvien"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "torrentiel",
+    "nature": "adjectif",
+    "feminine": "torrentielle",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui tombe avec beaucoup de force et en grande quantité, comme un torrent.",
+    "example": "Une averse torrentielle surprend les promeneurs.",
+    "forms": [
+      "torrentielle",
+      "torrentiels",
+      "torrentielles"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser le nom.",
+        [
+          [
+            "une ",
+            "pluie",
+            "pluie",
+            " torrentielle"
+          ],
+          [
+            "une ",
+            "averse",
+            "averse",
+            " torrentielle"
+          ],
+          [
+            "des ",
+            "précipitations",
+            "précipitation",
+            " torrentielles"
+          ],
+          [
+            "une ",
+            "crue",
+            "crue",
+            " torrentielle"
+          ],
+          [
+            "un ",
+            "écoulement",
+            "écoulement",
+            " torrentiel"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "sec",
+    "nature": "adjectif",
+    "feminine": "sèche",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui ne contient pas ou plus d’eau.",
+    "example": "Le linge sec peut être rangé.",
+    "forms": [
+      "sèche",
+      "secs",
+      "sèches"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser le nom.",
+        [
+          [
+            "un ",
+            "sol",
+            "sol",
+            " sec"
+          ],
+          [
+            "un ",
+            "climat",
+            "climat",
+            " sec"
+          ],
+          [
+            "une ",
+            "branche",
+            "branche",
+            " sèche"
+          ],
+          [
+            "un ",
+            "linge",
+            "linge",
+            " sec"
+          ],
+          [
+            "une ",
+            "réponse",
+            "réponse",
+            " sèche"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  },
+  {
+    "word": "profond",
+    "nature": "adjectif",
+    "feminine": "profonde",
+    "sourceSenseId": "prototype",
+    "sourceSenseLabel": "Sens du prototype",
+    "definition": "Qui s’étend loin vers le bas ou vers l’intérieur. Au sens figuré, qui est intense.",
+    "example": "Le plongeur explore un lac profond.",
+    "forms": [
+      "profonde",
+      "profonds",
+      "profondes"
+    ],
+    "groups": [
+      [
+        "Avec des noms",
+        "Pour préciser le nom.",
+        [
+          [
+            "un ",
+            "puits",
+            "puits",
+            " profond"
+          ],
+          [
+            "une ",
+            "eau",
+            "eau",
+            " profonde"
+          ],
+          [
+            "une ",
+            "forêt",
+            "forêt",
+            " profonde"
+          ],
+          [
+            "un ",
+            "sommeil",
+            "sommeil",
+            " profond"
+          ],
+          [
+            "une ",
+            "réflexion",
+            "réflexion",
+            " profonde"
+          ]
+        ],
+        "nom commun"
+      ]
+    ]
+  }
+]

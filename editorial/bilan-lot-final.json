@@ -1,0 +1,3966 @@
+{
+  "lot": "final-014",
+  "previousVisiblePending": 524,
+  "previousRawPending": 528,
+  "newDefinitions": 271,
+  "completedExistingEntries": 70,
+  "additionalCanonicalEntries": 11,
+  "visiblePendingDecisions": {
+    "Fiche rédigée": 260,
+    "Renvoi": 121,
+    "Retrait de l’index": 143
+  },
+  "rawPendingDecisions": {
+    "Fiche rédigée": 260,
+    "Renvoi": 121,
+    "Retrait de l’index": 147
+  },
+  "olderAvailableEntriesHidden": [
+    {
+      "word": "sacre",
+      "nature": "nom commun",
+      "reason": "Cérémonie religieuse spécifique : retrait selon le critère du projet."
+    }
+  ],
+  "editorialMarkersRemoved": 235,
+  "decisions": [
+    {
+      "word": "obscène",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ouest",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "or",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "obsédé",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "obèse",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ocre",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "kidnapping",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "kidnappeur",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "autre",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "arrivé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "arriver",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "avant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "arrière",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "aura",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "anniversaire",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "autre",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "autre",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "argent",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "andouille",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "artiste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "amiral",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "assassin",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "arnaque",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "assassiné",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "assassiner",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "au-delà",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Locution nominalisée : non retenue dans la sélection des mots simples.",
+      "visibleBefore": true
+    },
+    {
+      "word": "aucunement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "affreux",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "affreux",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "abomination",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "antan",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "alcoolique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "alcoolique",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "anglo-saxon",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "anarchiste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "absinthe",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "attardé",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "agonisant",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "affre",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ancienne",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "ancien",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "active",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "actif",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "agrè",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Forme tronquée : renvoi vers le nom complet.",
+      "target": "agrès",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "autrefois",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "actuellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "naturellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nu",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "nu",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "normalement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nord",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nettement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "net",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "néanmoins",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nature",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nécessairement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "normal",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "normal",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "négligemment",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "narguer",
+      "nature": "verbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nerveusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nul",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "nul",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "nain",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "naïvement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nationaliste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "névrose",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nommément",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "numériquement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nonchalamment",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "nette",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "net",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "sen",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "sens",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "secour",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "secours",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "sévèrement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "soudainement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "scientifiquement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "strictement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "séparément",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "sereinement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "spécialement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "souverainement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "solitairement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "sourdement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "sensiblement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "sommairement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "systématiquement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "symboliquement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "subtilement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "stoïquement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "spirale",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "spiral",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "sous-marine",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "sous-marin",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "subtile",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "subtil",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "successivement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "savamment",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "sélective",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "sélectif",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "sud",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "scrupuleusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "baiser",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bien",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "bien",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "baraque",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bonhomme",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bouge",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bagarre",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bistrot",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bourgeois",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "brute",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bâtard",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "brailler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bienvenu",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "bienvenu",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "bougre",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bravo",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emploi comme acclamation ou interjection, hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "blues",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bûcher",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bien-aimé",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bidon",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "brave",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "barbare",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "boum",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bourbon",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bonhomme",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bâtard",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "baby-sitter",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bagarrer",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bossu",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bossu",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "bossu",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "berner",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bastille",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "borgne",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bougonner",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bâcler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "boniment",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "building",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bikini",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bourrique",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bourrade",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bluff",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bestial",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bordeaux",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "baliverne",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bercail",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "babiole",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "babouchka",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ban",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bissextile",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ballot",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bientôt",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "bonne",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "bon",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "brillante",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "brillant",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "même",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "malheureusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "maudit",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "miss",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mémé",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "marine",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "marin",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "mal",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "mal",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "maître",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "moi",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mignon",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "mignon",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "modèle",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mauvais",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "mauvais",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "minet",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mâle",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "misérable",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "meeting",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "maudit",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "maudit",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "musicien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "morphine",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "monstre",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mutilé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "mutiler",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "maximum",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "maximal",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "mou",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "mou",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "maniaque",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "maigre",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "maigre",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "miteux",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "manigancer",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "malfrat",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "minimum",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "minimal",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "métis",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mortellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mail",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "marxisme",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mongol",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "mutilation",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "matrone",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "morpion",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "marxiste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "moisi",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "moisi",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "minauder",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "manifestement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "médicalisé",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "médicale",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "médical",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "maison",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "musicale",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "musical",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "municipale",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "municipal",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "malencontreusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "miraculeusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "juron",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "jaser",
+      "nature": "verbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "jactance",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "juré",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "encore",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ensemble",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ensuite",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "enceinte",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "embêter",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "esclave",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ex-femme",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "eau-de-vie",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "enragé",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "est",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ex-mari",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "excrément",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ensanglanté",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "extraordinaire",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "extraordinaire",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "excité",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "excité",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "employé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "employer",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "engueulade",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "expo",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "exposition",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "express",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "engeance",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "enfin",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "essentiellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "éparse",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "épars",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "effectivement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "étroite",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "étroit",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "foi",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fait",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "faire",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "flingue",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "forcément",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "feu",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Adjectif ancien placé devant le nom d’une personne décédée ; emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fidèle",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "flash",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "flirter",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "femelle",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fainéant",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "frappé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "frapper",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "fine",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "fin",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "forcené",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "feignant",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "folk",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fignoler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fripouille",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fusillé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "fusiller",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "fanatique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "français",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fécondé",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "finalement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "fermant",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "fermer",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "future",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "futur",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "ras",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "ras",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "relax",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "rafler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "raciste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "relax",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "rasade",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "rejeton",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "racial",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "radoter",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ratatiner",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "rafistoler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "renverse",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Forme surtout employée dans la locution « à la renverse » : non retenue comme nom isolé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "repa",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "repas",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "reproducteur",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "récemment",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chéri",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "chéri",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "cependant",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "certainement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cher",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "cher",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "chouette",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "commun",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "commun",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "communiste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chic",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chaud",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "chaud",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "café",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cieux",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "ciel",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "commandant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "claque",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "coca",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "culot",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crasse",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "coco",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "canon",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "combine",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "complet",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "complet",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "curieux",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "curieux",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "clochard",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cochon",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crotte",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cardinal",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Vocabulaire spécifique à une religion : retrait selon les critères du projet.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chauve",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "chauve",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "communal",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "communal",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "chiner",
+      "nature": "verbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "carnage",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cavalier",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "croisé",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emploi nominal historique lié aux croisades : non retenu dans la sélection scolaire.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crème",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chic",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "couché",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "couché",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "chaire",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crash",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cocher",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cloche",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cave",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "corrida",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "commère",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "casse-croûte",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "clique",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "croque-mort",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cabosser",
+      "nature": "verbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "comédien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crachat",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cannibale",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "champagne",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "craché",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Emploi adjectival surtout familier dans « portrait craché ».",
+      "visibleBefore": true
+    },
+    {
+      "word": "concubin",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chahuter",
+      "nature": "verbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "casseur",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "charnier",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "contraint",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Forme participiale, non retenue comme nom autonome.",
+      "visibleBefore": true
+    },
+    {
+      "word": "clip",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "comble",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "charabia",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chocolat",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "crâne",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "capitaliste",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "chicot",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "citron",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "clin",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "clin d’œil",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "cube",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "clair",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "clair",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "claire",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "clair",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "chacun",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "cha",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "conduire",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "conduire",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "construire",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "construire",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "crevé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "crever",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "clinicien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "criminellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "capote",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot retiré explicitement par l’utilisatrice.",
+      "visibleBefore": false
+    },
+    {
+      "word": "collective",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "collectif",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "quitte",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "qualificatif",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ta",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "temp",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "temps",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "témoins",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "témoin",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "timbré",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "temple",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Vocabulaire spécifique à une religion : retrait selon les critères du projet.",
+      "visibleBefore": true
+    },
+    {
+      "word": "traversier",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "totale",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "total",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "trompe",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gamin",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gros",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "gros",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "gaffe",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gré",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gamin",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "guise",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gang",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gifle",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gardien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gangster",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gaillard",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "glauque",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gin",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gothique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "germanique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gadoue",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gringo",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "garant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "grandement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gaulois",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gaillard",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gaulliste",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gitan",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "germain",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "généralement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "gestant",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "grise",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "gris",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "grande",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "grand",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "lâche",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "lâche",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "latin",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "lourd",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "lourd",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "limousin",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "lépreux",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Désignation ancienne d’une personne par sa maladie : emploi nominal écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "li",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "lampée",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "longue",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "long",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "vraiment",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "visuelle",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "visuel",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "vive",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "vif",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "vierge",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "plus",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "peu",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "peu",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "peut-être",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pourtant",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "puis",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "probablement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "prof",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "professeur",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "pour",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "plus",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "plus",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "pédé",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Insulte retirée explicitement par l’utilisatrice.",
+      "visibleBefore": false
+    },
+    {
+      "word": "parti",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "partir",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "promis",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "promis",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "pacha",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "puant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "parent",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pétard",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "planque",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pige",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pendant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "paysan",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "piaule",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "portant",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "porter",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "pilote",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "privé",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "privé",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "psychiatrique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pleurnicher",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "paperasse",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "punk",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pet",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "psychopathe",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emploi nominal pouvant servir d’étiquette dépréciative : non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pourri",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "pourri",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "porto",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pensant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "partant",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "partir",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "punch",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pendu",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "pendre",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "pastis",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "prime",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Emploi adjectival ancien ou figé ; le nom prime reste consultable.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pendu",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "piailler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "passionnel",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pis",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "promiscuité",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "philosophe",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pourquoi",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pendaison",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pied-noir",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "paradoxalement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pendant",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "pendant",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "palestinien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "providentiel",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "populace",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "paranoïaque",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "prussien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pirate",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pelé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "peler",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "puberté",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "palabre",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "prochainement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "persan",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "personnellement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "prématurément",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "partout",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pa",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": false
+    },
+    {
+      "word": "précise",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "précis",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "pas",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Mot grammatical, fragment ou locution incomplète hors des natures retenues.",
+      "visibleBefore": false
+    },
+    {
+      "word": "pondeur",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "philharmonique",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pointue",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "pointu",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "présomptif",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "pathogène",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "préalablement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "plane",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "plan",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "pure",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "pur",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "pratiquant",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "idiot",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "imbécile",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "intime",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ivre",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "impossible",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "impossible",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "incroyable",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "incroyable",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "ivrogne",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "intéressant",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "intéressant",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "infect",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "inutile",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "inutile",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "indigène",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "indigène",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "indécent",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "infant",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "israélien",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "incapable",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "incapable",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "infirme",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "infidèle",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "infidèle",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "intime",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "ivrogne",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "insensé",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "insensé",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "intimement",
+      "nature": "adverbe",
+      "action": "Retrait de l’index",
+      "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté.",
+      "visibleBefore": true
+    },
+    {
+      "word": "infectieux",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "initialement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "interactive",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "interactif",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "invalidant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "indéniablement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dessus",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dessus",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "demi",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "demi",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "drogue",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dehors",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dehors",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "dessous",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dessous",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "drôle",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "drôle",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "dur",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dur",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "dit",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dire",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "déesse",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Vocabulaire spécifique à une religion : retrait selon les critères du projet.",
+      "visibleBefore": true
+    },
+    {
+      "word": "doux",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "doux",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "dit",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dire",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "dedans",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dedans",
+      "targetNature": "adverbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "dû",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "devoir",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "dot",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "deal",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "drogué",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "délirant",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "déporté",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dément",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dégoûtant",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dégoûtant",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "dactylo",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dû",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "diarrhée",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "divisionnaire",
+      "nature": "adjectif",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dénommé",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Participe substantivé, non retenu comme nom autonome.",
+      "visibleBefore": true
+    },
+    {
+      "word": "divisionnaire",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "divisionnaire",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "défouler",
+      "nature": "verbe",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "doge",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dément",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "déprime",
+      "nature": "nom commun",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "denier",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "déjà",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "dépensé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "dépenser",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "demandé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "demander",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    },
+    {
+      "word": "hippo",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Forme tronquée : renvoi vers le nom complet.",
+      "target": "hippopotame",
+      "targetNature": "nom commun",
+      "visibleBefore": true
+    },
+    {
+      "word": "heureux",
+      "nature": "nom commun",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "heureux",
+      "targetNature": "adjectif",
+      "visibleBefore": true
+    },
+    {
+      "word": "hystérique",
+      "nature": "adjectif",
+      "action": "Retrait de l’index",
+      "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hold-up",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hautement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "horoscope",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hors-la-loi",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hippie",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hourra",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "heureusement",
+      "nature": "adverbe",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "haut",
+      "nature": "nom commun",
+      "action": "Fiche rédigée",
+      "reason": "Définition, exemple et associations de mots ajoutés.",
+      "visibleBefore": true
+    },
+    {
+      "word": "hospitalisé",
+      "nature": "adjectif",
+      "action": "Renvoi",
+      "reason": "Variante de forme ou rectification de nature : renvoi à la fiche canonique.",
+      "target": "hospitaliser",
+      "targetNature": "verbe",
+      "visibleBefore": true
+    }
+  ]
+}

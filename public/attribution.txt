@@ -1,0 +1,5 @@
+Liste dérivée de Lexique 3.83, Boris New et Christophe Pallier, https://www.lexique.org/.
+CC BY-SA 4.0, selon l’attribution de la liste de travail source : https://creativecommons.org/licenses/by-sa/4.0/.
+Extraction initiale : 16 octobre 2026. Sélection éditoriale : S. Boyer.
+Modifications : tri par nature, sélection, exclusions et réintégrations demandées, regroupement de variantes, restrictions de sens.
+Les définitions du prototype sont rédigées pour monDico ; aucune définition externe n’a été importée.

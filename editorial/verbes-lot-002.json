@@ -1,0 +1,8502 @@
+[
+  {
+    "word": "attendre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rester jusqu’à l’arrivée de quelqu’un ou jusqu’à ce qu’un événement se produise.",
+    "example": "Nous attendons le bus.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "attendre ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "attendre ",
+            "calmement",
+            "calmement",
+            ""
+          ],
+          [
+            "attendre ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "attendre ",
+            "sagement",
+            "sagement",
+            ""
+          ],
+          [
+            "attendre ",
+            "tranquillement",
+            "tranquillement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "attendu",
+      "attendue",
+      "attendus",
+      "attendues"
+    ],
+    "conjugations": {
+      "present": [
+        "attends",
+        "attends",
+        "attend",
+        "attendons",
+        "attendez",
+        "attendent"
+      ],
+      "futur": [
+        "attendrai",
+        "attendras",
+        "attendra",
+        "attendrons",
+        "attendrez",
+        "attendront"
+      ],
+      "imparfait": [
+        "attendais",
+        "attendais",
+        "attendait",
+        "attendions",
+        "attendiez",
+        "attendaient"
+      ],
+      "passeSimple": [
+        "attendis",
+        "attendis",
+        "attendit",
+        "attendîmes",
+        "attendîtes",
+        "attendirent"
+      ]
+    }
+  },
+  {
+    "word": "entendre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Percevoir un son avec ses oreilles.",
+    "example": "J’entends le chant d’un oiseau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "entendre ",
+            "distinctement",
+            "distinctement",
+            ""
+          ],
+          [
+            "entendre ",
+            "clairement",
+            "clairement",
+            ""
+          ],
+          [
+            "entendre ",
+            "faiblement",
+            "faiblement",
+            ""
+          ],
+          [
+            "entendre ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "entendre ",
+            "mal",
+            "mal",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "entendu",
+      "entendue",
+      "entendus",
+      "entendues"
+    ],
+    "conjugations": {
+      "present": [
+        "entends",
+        "entends",
+        "entend",
+        "entendons",
+        "entendez",
+        "entendent"
+      ],
+      "futur": [
+        "entendrai",
+        "entendras",
+        "entendra",
+        "entendrons",
+        "entendrez",
+        "entendront"
+      ],
+      "imparfait": [
+        "entendais",
+        "entendais",
+        "entendait",
+        "entendions",
+        "entendiez",
+        "entendaient"
+      ],
+      "passeSimple": [
+        "entendis",
+        "entendis",
+        "entendit",
+        "entendîmes",
+        "entendîtes",
+        "entendirent"
+      ]
+    }
+  },
+  {
+    "word": "vendre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner un objet ou un service en échange d’argent.",
+    "example": "Le boulanger vend du pain.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "vendre ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "vendre ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "vendre ",
+            "directement",
+            "directement",
+            ""
+          ],
+          [
+            "vendre ",
+            "légalement",
+            "légalement",
+            ""
+          ],
+          [
+            "vendre ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "vendu",
+      "vendue",
+      "vendus",
+      "vendues"
+    ],
+    "conjugations": {
+      "present": [
+        "vends",
+        "vends",
+        "vend",
+        "vendons",
+        "vendez",
+        "vendent"
+      ],
+      "futur": [
+        "vendrai",
+        "vendras",
+        "vendra",
+        "vendrons",
+        "vendrez",
+        "vendront"
+      ],
+      "imparfait": [
+        "vendais",
+        "vendais",
+        "vendait",
+        "vendions",
+        "vendiez",
+        "vendaient"
+      ],
+      "passeSimple": [
+        "vendis",
+        "vendis",
+        "vendit",
+        "vendîmes",
+        "vendîtes",
+        "vendirent"
+      ]
+    }
+  },
+  {
+    "word": "perdre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Ne plus avoir quelque chose ou ne plus savoir où il se trouve ; ne pas remporter une compétition.",
+    "example": "Il perd son crayon.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "perdre ",
+            "accidentellement",
+            "accidentellement",
+            ""
+          ],
+          [
+            "perdre ",
+            "définitivement",
+            "définitivement",
+            ""
+          ],
+          [
+            "perdre ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "perdre ",
+            "parfois",
+            "parfois",
+            ""
+          ],
+          [
+            "perdre ",
+            "rarement",
+            "rarement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "perdu",
+      "perdue",
+      "perdus",
+      "perdues"
+    ],
+    "conjugations": {
+      "present": [
+        "perds",
+        "perds",
+        "perd",
+        "perdons",
+        "perdez",
+        "perdent"
+      ],
+      "futur": [
+        "perdrai",
+        "perdras",
+        "perdra",
+        "perdrons",
+        "perdrez",
+        "perdront"
+      ],
+      "imparfait": [
+        "perdais",
+        "perdais",
+        "perdait",
+        "perdions",
+        "perdiez",
+        "perdaient"
+      ],
+      "passeSimple": [
+        "perdis",
+        "perdis",
+        "perdit",
+        "perdîmes",
+        "perdîtes",
+        "perdirent"
+      ]
+    }
+  },
+  {
+    "word": "rendre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Redonner à quelqu’un ce qu’on lui a pris ou emprunté.",
+    "example": "Je rends le livre à la bibliothèque.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "rendre ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "rendre ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "rendre ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "rendre ",
+            "directement",
+            "directement",
+            ""
+          ],
+          [
+            "rendre ",
+            "intégralement",
+            "intégralement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "rendu",
+      "rendue",
+      "rendus",
+      "rendues"
+    ],
+    "conjugations": {
+      "present": [
+        "rends",
+        "rends",
+        "rend",
+        "rendons",
+        "rendez",
+        "rendent"
+      ],
+      "futur": [
+        "rendrai",
+        "rendras",
+        "rendra",
+        "rendrons",
+        "rendrez",
+        "rendront"
+      ],
+      "imparfait": [
+        "rendais",
+        "rendais",
+        "rendait",
+        "rendions",
+        "rendiez",
+        "rendaient"
+      ],
+      "passeSimple": [
+        "rendis",
+        "rendis",
+        "rendit",
+        "rendîmes",
+        "rendîtes",
+        "rendirent"
+      ]
+    }
+  },
+  {
+    "word": "descendre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se déplacer ou déplacer quelque chose vers le bas.",
+    "example": "Nous descendons l’escalier.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "descendre ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "descendre ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "descendre ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "descendre ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "descendre ",
+            "péniblement",
+            "péniblement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "descendu",
+      "descendue",
+      "descendus",
+      "descendues"
+    ],
+    "conjugations": {
+      "present": [
+        "descends",
+        "descends",
+        "descend",
+        "descendons",
+        "descendez",
+        "descendent"
+      ],
+      "futur": [
+        "descendrai",
+        "descendras",
+        "descendra",
+        "descendrons",
+        "descendrez",
+        "descendront"
+      ],
+      "imparfait": [
+        "descendais",
+        "descendais",
+        "descendait",
+        "descendions",
+        "descendiez",
+        "descendaient"
+      ],
+      "passeSimple": [
+        "descendis",
+        "descendis",
+        "descendit",
+        "descendîmes",
+        "descendîtes",
+        "descendirent"
+      ]
+    }
+  },
+  {
+    "word": "suivre",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aller derrière quelqu’un ou quelque chose en prenant le même chemin.",
+    "example": "Le chien suit son maître.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "suivre ",
+            "fidèlement",
+            "fidèlement",
+            ""
+          ],
+          [
+            "suivre ",
+            "docilement",
+            "docilement",
+            ""
+          ],
+          [
+            "suivre ",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "suivre ",
+            "attentivement",
+            "attentivement",
+            ""
+          ],
+          [
+            "suivre ",
+            "prudemment",
+            "prudemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "suivi",
+      "suivie",
+      "suivis",
+      "suivies"
+    ],
+    "conjugations": {
+      "present": [
+        "suis",
+        "suis",
+        "suit",
+        "suivons",
+        "suivez",
+        "suivent"
+      ],
+      "futur": [
+        "suivrai",
+        "suivras",
+        "suivra",
+        "suivrons",
+        "suivrez",
+        "suivront"
+      ],
+      "imparfait": [
+        "suivais",
+        "suivais",
+        "suivait",
+        "suivions",
+        "suiviez",
+        "suivaient"
+      ],
+      "passeSimple": [
+        "suivis",
+        "suivis",
+        "suivit",
+        "suivîmes",
+        "suivîtes",
+        "suivirent"
+      ]
+    }
+  },
+  {
+    "word": "conduire",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Diriger un véhicule ou accompagner quelqu’un jusqu’à un lieu.",
+    "example": "Elle conduit le minibus.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "conduire ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "conduire ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "conduire ",
+            "calmement",
+            "calmement",
+            ""
+          ],
+          [
+            "conduire ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "conduire ",
+            "habilement",
+            "habilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "conduit",
+      "conduite",
+      "conduits",
+      "conduites"
+    ],
+    "conjugations": {
+      "present": [
+        "conduis",
+        "conduis",
+        "conduit",
+        "conduisons",
+        "conduisez",
+        "conduisent"
+      ],
+      "futur": [
+        "conduirai",
+        "conduiras",
+        "conduira",
+        "conduirons",
+        "conduirez",
+        "conduiront"
+      ],
+      "imparfait": [
+        "conduisais",
+        "conduisais",
+        "conduisait",
+        "conduisions",
+        "conduisiez",
+        "conduisaient"
+      ],
+      "passeSimple": [
+        "conduisis",
+        "conduisis",
+        "conduisit",
+        "conduisîmes",
+        "conduisîtes",
+        "conduisirent"
+      ]
+    }
+  },
+  {
+    "word": "construire",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Assembler des éléments pour réaliser un bâtiment ou un objet.",
+    "example": "Ils construisent une cabane.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "construire ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "construire ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "construire ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "construire ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "construire ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "construit",
+      "construite",
+      "construits",
+      "construites"
+    ],
+    "conjugations": {
+      "present": [
+        "construis",
+        "construis",
+        "construit",
+        "construisons",
+        "construisez",
+        "construisent"
+      ],
+      "futur": [
+        "construirai",
+        "construiras",
+        "construira",
+        "construirons",
+        "construirez",
+        "construiront"
+      ],
+      "imparfait": [
+        "construisais",
+        "construisais",
+        "construisait",
+        "construisions",
+        "construisiez",
+        "construisaient"
+      ],
+      "passeSimple": [
+        "construisis",
+        "construisis",
+        "construisit",
+        "construisîmes",
+        "construisîtes",
+        "construisirent"
+      ]
+    }
+  },
+  {
+    "word": "offrir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner quelque chose en cadeau ou le proposer à quelqu’un.",
+    "example": "Elle offre un dessin à sa mère.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "offrir ",
+            "généreusement",
+            "généreusement",
+            ""
+          ],
+          [
+            "offrir ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "offrir ",
+            "spontanément",
+            "spontanément",
+            ""
+          ],
+          [
+            "offrir ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "offrir ",
+            "gratuitement",
+            "gratuitement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "offert",
+      "offerte",
+      "offerts",
+      "offertes"
+    ],
+    "conjugations": {
+      "present": [
+        "offre",
+        "offres",
+        "offre",
+        "offrons",
+        "offrez",
+        "offrent"
+      ],
+      "futur": [
+        "offrirai",
+        "offriras",
+        "offrira",
+        "offrirons",
+        "offrirez",
+        "offriront"
+      ],
+      "imparfait": [
+        "offrais",
+        "offrais",
+        "offrait",
+        "offrions",
+        "offriez",
+        "offraient"
+      ],
+      "passeSimple": [
+        "offris",
+        "offris",
+        "offrit",
+        "offrîmes",
+        "offrîtes",
+        "offrirent"
+      ]
+    }
+  },
+  {
+    "word": "applaudir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Frapper ses mains l’une contre l’autre pour montrer son plaisir ou son approbation.",
+    "example": "Le public applaudit les acteurs.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "applaudir ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ],
+          [
+            "applaudir ",
+            "longuement",
+            "longuement",
+            ""
+          ],
+          [
+            "applaudir ",
+            "bruyamment",
+            "bruyamment",
+            ""
+          ],
+          [
+            "applaudir ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "applaudir ",
+            "joyeusement",
+            "joyeusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "applaudi",
+      "applaudie",
+      "applaudis",
+      "applaudies"
+    ],
+    "conjugations": {
+      "present": [
+        "applaudis",
+        "applaudis",
+        "applaudit",
+        "applaudissons",
+        "applaudissez",
+        "applaudissent"
+      ],
+      "futur": [
+        "applaudirai",
+        "applaudiras",
+        "applaudira",
+        "applaudirons",
+        "applaudirez",
+        "applaudiront"
+      ],
+      "imparfait": [
+        "applaudissais",
+        "applaudissais",
+        "applaudissait",
+        "applaudissions",
+        "applaudissiez",
+        "applaudissaient"
+      ],
+      "passeSimple": [
+        "applaudis",
+        "applaudis",
+        "applaudit",
+        "applaudîmes",
+        "applaudîtes",
+        "applaudirent"
+      ]
+    }
+  },
+  {
+    "word": "bâtir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Construire un bâtiment ou préparer les éléments d’un projet.",
+    "example": "Les ouvriers bâtissent une école.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "bâtir ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "bâtir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "bâtir ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "bâtir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "bâtir ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "bâti",
+      "bâtie",
+      "bâtis",
+      "bâties"
+    ],
+    "conjugations": {
+      "present": [
+        "bâtis",
+        "bâtis",
+        "bâtit",
+        "bâtissons",
+        "bâtissez",
+        "bâtissent"
+      ],
+      "futur": [
+        "bâtirai",
+        "bâtiras",
+        "bâtira",
+        "bâtirons",
+        "bâtirez",
+        "bâtiront"
+      ],
+      "imparfait": [
+        "bâtissais",
+        "bâtissais",
+        "bâtissait",
+        "bâtissions",
+        "bâtissiez",
+        "bâtissaient"
+      ],
+      "passeSimple": [
+        "bâtis",
+        "bâtis",
+        "bâtit",
+        "bâtîmes",
+        "bâtîtes",
+        "bâtirent"
+      ]
+    }
+  },
+  {
+    "word": "bondir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire un saut brusque pour se déplacer ou franchir un obstacle.",
+    "example": "Le lapin bondit dans l’herbe.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "bondir ",
+            "lestement",
+            "lestement",
+            ""
+          ],
+          [
+            "bondir ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "bondir ",
+            "brusquement",
+            "brusquement",
+            ""
+          ],
+          [
+            "bondir ",
+            "joyeusement",
+            "joyeusement",
+            ""
+          ],
+          [
+            "bondir ",
+            "soudain",
+            "soudain",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "bondi",
+      "bondie",
+      "bondis",
+      "bondies"
+    ],
+    "conjugations": {
+      "present": [
+        "bondis",
+        "bondis",
+        "bondit",
+        "bondissons",
+        "bondissez",
+        "bondissent"
+      ],
+      "futur": [
+        "bondirai",
+        "bondiras",
+        "bondira",
+        "bondirons",
+        "bondirez",
+        "bondiront"
+      ],
+      "imparfait": [
+        "bondissais",
+        "bondissais",
+        "bondissait",
+        "bondissions",
+        "bondissiez",
+        "bondissaient"
+      ],
+      "passeSimple": [
+        "bondis",
+        "bondis",
+        "bondit",
+        "bondîmes",
+        "bondîtes",
+        "bondirent"
+      ]
+    }
+  },
+  {
+    "word": "guérir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Retrouver la santé ou faire disparaître une maladie.",
+    "example": "Son traitement guérit cette infection.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "guérir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "guérir ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "guérir ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "guérir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "guérir ",
+            "définitivement",
+            "définitivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "guéri",
+      "guérie",
+      "guéris",
+      "guéries"
+    ],
+    "conjugations": {
+      "present": [
+        "guéris",
+        "guéris",
+        "guérit",
+        "guérissons",
+        "guérissez",
+        "guérissent"
+      ],
+      "futur": [
+        "guérirai",
+        "guériras",
+        "guérira",
+        "guérirons",
+        "guérirez",
+        "guériront"
+      ],
+      "imparfait": [
+        "guérissais",
+        "guérissais",
+        "guérissait",
+        "guérissions",
+        "guérissiez",
+        "guérissaient"
+      ],
+      "passeSimple": [
+        "guéris",
+        "guéris",
+        "guérit",
+        "guérîmes",
+        "guérîtes",
+        "guérirent"
+      ]
+    }
+  },
+  {
+    "word": "nourrir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner à manger à un être vivant.",
+    "example": "Je nourris les poules.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "nourrir ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "nourrir ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "nourrir ",
+            "suffisamment",
+            "suffisamment",
+            ""
+          ],
+          [
+            "nourrir ",
+            "quotidiennement",
+            "quotidiennement",
+            ""
+          ],
+          [
+            "nourrir ",
+            "convenablement",
+            "convenablement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "nourri",
+      "nourrie",
+      "nourris",
+      "nourries"
+    ],
+    "conjugations": {
+      "present": [
+        "nourris",
+        "nourris",
+        "nourrit",
+        "nourrissons",
+        "nourrissez",
+        "nourrissent"
+      ],
+      "futur": [
+        "nourrirai",
+        "nourriras",
+        "nourrira",
+        "nourrirons",
+        "nourrirez",
+        "nourriront"
+      ],
+      "imparfait": [
+        "nourrissais",
+        "nourrissais",
+        "nourrissait",
+        "nourrissions",
+        "nourrissiez",
+        "nourrissaient"
+      ],
+      "passeSimple": [
+        "nourris",
+        "nourris",
+        "nourrit",
+        "nourrîmes",
+        "nourrîtes",
+        "nourrirent"
+      ]
+    }
+  },
+  {
+    "word": "obéir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire ce qui a été demandé ou respecter une règle.",
+    "example": "Le chien obéit à son maître.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "obéir ",
+            "docilement",
+            "docilement",
+            ""
+          ],
+          [
+            "obéir ",
+            "immédiatement",
+            "immédiatement",
+            ""
+          ],
+          [
+            "obéir ",
+            "sagement",
+            "sagement",
+            ""
+          ],
+          [
+            "obéir ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "obéir ",
+            "aveuglément",
+            "aveuglément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "obéi",
+      "obéie",
+      "obéis",
+      "obéies"
+    ],
+    "conjugations": {
+      "present": [
+        "obéis",
+        "obéis",
+        "obéit",
+        "obéissons",
+        "obéissez",
+        "obéissent"
+      ],
+      "futur": [
+        "obéirai",
+        "obéiras",
+        "obéira",
+        "obéirons",
+        "obéirez",
+        "obéiront"
+      ],
+      "imparfait": [
+        "obéissais",
+        "obéissais",
+        "obéissait",
+        "obéissions",
+        "obéissiez",
+        "obéissaient"
+      ],
+      "passeSimple": [
+        "obéis",
+        "obéis",
+        "obéit",
+        "obéîmes",
+        "obéîtes",
+        "obéirent"
+      ]
+    }
+  },
+  {
+    "word": "punir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire subir une sanction à quelqu’un qui a enfreint une règle.",
+    "example": "L’arbitre punit cette faute.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "punir ",
+            "sévèrement",
+            "sévèrement",
+            ""
+          ],
+          [
+            "punir ",
+            "justement",
+            "justement",
+            ""
+          ],
+          [
+            "punir ",
+            "injustement",
+            "injustement",
+            ""
+          ],
+          [
+            "punir ",
+            "fermement",
+            "fermement",
+            ""
+          ],
+          [
+            "punir ",
+            "collectivement",
+            "collectivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "puni",
+      "punie",
+      "punis",
+      "punies"
+    ],
+    "conjugations": {
+      "present": [
+        "punis",
+        "punis",
+        "punit",
+        "punissons",
+        "punissez",
+        "punissent"
+      ],
+      "futur": [
+        "punirai",
+        "puniras",
+        "punira",
+        "punirons",
+        "punirez",
+        "puniront"
+      ],
+      "imparfait": [
+        "punissais",
+        "punissais",
+        "punissait",
+        "punissions",
+        "punissiez",
+        "punissaient"
+      ],
+      "passeSimple": [
+        "punis",
+        "punis",
+        "punit",
+        "punîmes",
+        "punîtes",
+        "punirent"
+      ]
+    }
+  },
+  {
+    "word": "ralentir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aller moins vite ou diminuer la vitesse de quelque chose.",
+    "example": "Le cycliste ralentit avant le virage.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "ralentir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "ralentir ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "ralentir ",
+            "brusquement",
+            "brusquement",
+            ""
+          ],
+          [
+            "ralentir ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "ralentir ",
+            "prudemment",
+            "prudemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "ralenti",
+      "ralentie",
+      "ralentis",
+      "ralenties"
+    ],
+    "conjugations": {
+      "present": [
+        "ralentis",
+        "ralentis",
+        "ralentit",
+        "ralentissons",
+        "ralentissez",
+        "ralentissent"
+      ],
+      "futur": [
+        "ralentirai",
+        "ralentiras",
+        "ralentira",
+        "ralentirons",
+        "ralentirez",
+        "ralentiront"
+      ],
+      "imparfait": [
+        "ralentissais",
+        "ralentissais",
+        "ralentissait",
+        "ralentissions",
+        "ralentissiez",
+        "ralentissaient"
+      ],
+      "passeSimple": [
+        "ralentis",
+        "ralentis",
+        "ralentit",
+        "ralentîmes",
+        "ralentîtes",
+        "ralentirent"
+      ]
+    }
+  },
+  {
+    "word": "rougir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Devenir rouge, notamment sous l’effet d’une émotion.",
+    "example": "Elle rougit de timidité.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "rougir ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "rougir ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "rougir ",
+            "subitement",
+            "subitement",
+            ""
+          ],
+          [
+            "rougir ",
+            "fortement",
+            "fortement",
+            ""
+          ],
+          [
+            "rougir ",
+            "visiblement",
+            "visiblement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "rougi",
+      "rougie",
+      "rougis",
+      "rougies"
+    ],
+    "conjugations": {
+      "present": [
+        "rougis",
+        "rougis",
+        "rougit",
+        "rougissons",
+        "rougissez",
+        "rougissent"
+      ],
+      "futur": [
+        "rougirai",
+        "rougiras",
+        "rougira",
+        "rougirons",
+        "rougirez",
+        "rougiront"
+      ],
+      "imparfait": [
+        "rougissais",
+        "rougissais",
+        "rougissait",
+        "rougissions",
+        "rougissiez",
+        "rougissaient"
+      ],
+      "passeSimple": [
+        "rougis",
+        "rougis",
+        "rougit",
+        "rougîmes",
+        "rougîtes",
+        "rougirent"
+      ]
+    }
+  },
+  {
+    "word": "saisir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Prendre et tenir quelque chose avec la main.",
+    "example": "Il saisit la poignée.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "saisir ",
+            "fermement",
+            "fermement",
+            ""
+          ],
+          [
+            "saisir ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "saisir ",
+            "brusquement",
+            "brusquement",
+            ""
+          ],
+          [
+            "saisir ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "saisir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "saisi",
+      "saisie",
+      "saisis",
+      "saisies"
+    ],
+    "conjugations": {
+      "present": [
+        "saisis",
+        "saisis",
+        "saisit",
+        "saisissons",
+        "saisissez",
+        "saisissent"
+      ],
+      "futur": [
+        "saisirai",
+        "saisiras",
+        "saisira",
+        "saisirons",
+        "saisirez",
+        "saisiront"
+      ],
+      "imparfait": [
+        "saisissais",
+        "saisissais",
+        "saisissait",
+        "saisissions",
+        "saisissiez",
+        "saisissaient"
+      ],
+      "passeSimple": [
+        "saisis",
+        "saisis",
+        "saisit",
+        "saisîmes",
+        "saisîtes",
+        "saisirent"
+      ]
+    }
+  },
+  {
+    "word": "salir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre quelque chose sale.",
+    "example": "La boue salit mes chaussures.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "salir ",
+            "fortement",
+            "fortement",
+            ""
+          ],
+          [
+            "salir ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "salir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "salir ",
+            "accidentellement",
+            "accidentellement",
+            ""
+          ],
+          [
+            "salir ",
+            "inutilement",
+            "inutilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "sali",
+      "salie",
+      "salis",
+      "salies"
+    ],
+    "conjugations": {
+      "present": [
+        "salis",
+        "salis",
+        "salit",
+        "salissons",
+        "salissez",
+        "salissent"
+      ],
+      "futur": [
+        "salirai",
+        "saliras",
+        "salira",
+        "salirons",
+        "salirez",
+        "saliront"
+      ],
+      "imparfait": [
+        "salissais",
+        "salissais",
+        "salissait",
+        "salissions",
+        "salissiez",
+        "salissaient"
+      ],
+      "passeSimple": [
+        "salis",
+        "salis",
+        "salit",
+        "salîmes",
+        "salîtes",
+        "salirent"
+      ]
+    }
+  },
+  {
+    "word": "unir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Réunir plusieurs choses ou plusieurs personnes pour former un ensemble.",
+    "example": "Ce projet unit les deux classes.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "unir ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "unir ",
+            "étroitement",
+            "étroitement",
+            ""
+          ],
+          [
+            "unir ",
+            "durablement",
+            "durablement",
+            ""
+          ],
+          [
+            "unir ",
+            "profondément",
+            "profondément",
+            ""
+          ],
+          [
+            "unir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "uni",
+      "unie",
+      "unis",
+      "unies"
+    ],
+    "conjugations": {
+      "present": [
+        "unis",
+        "unis",
+        "unit",
+        "unissons",
+        "unissez",
+        "unissent"
+      ],
+      "futur": [
+        "unirai",
+        "uniras",
+        "unira",
+        "unirons",
+        "unirez",
+        "uniront"
+      ],
+      "imparfait": [
+        "unissais",
+        "unissais",
+        "unissait",
+        "unissions",
+        "unissiez",
+        "unissaient"
+      ],
+      "passeSimple": [
+        "unis",
+        "unis",
+        "unit",
+        "unîmes",
+        "unîtes",
+        "unirent"
+      ]
+    }
+  },
+  {
+    "word": "vieillir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Avancer en âge ou devenir plus ancien.",
+    "example": "Cet arbre vieillit lentement.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "vieillir ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "vieillir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "vieillir ",
+            "naturellement",
+            "naturellement",
+            ""
+          ],
+          [
+            "vieillir ",
+            "paisiblement",
+            "paisiblement",
+            ""
+          ],
+          [
+            "vieillir ",
+            "prématurément",
+            "prématurément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "vieilli",
+      "vieillie",
+      "vieillis",
+      "vieillies"
+    ],
+    "conjugations": {
+      "present": [
+        "vieillis",
+        "vieillis",
+        "vieillit",
+        "vieillissons",
+        "vieillissez",
+        "vieillissent"
+      ],
+      "futur": [
+        "vieillirai",
+        "vieilliras",
+        "vieillira",
+        "vieillirons",
+        "vieillirez",
+        "vieilliront"
+      ],
+      "imparfait": [
+        "vieillissais",
+        "vieillissais",
+        "vieillissait",
+        "vieillissions",
+        "vieillissiez",
+        "vieillissaient"
+      ],
+      "passeSimple": [
+        "vieillis",
+        "vieillis",
+        "vieillit",
+        "vieillîmes",
+        "vieillîtes",
+        "vieillirent"
+      ]
+    }
+  },
+  {
+    "word": "avertir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Informer quelqu’un d’un fait, d’un risque ou de ce qu’il doit faire.",
+    "example": "Elle avertit son ami du danger.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "avertir ",
+            "clairement",
+            "clairement",
+            ""
+          ],
+          [
+            "avertir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "avertir ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "avertir ",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "avertir ",
+            "immédiatement",
+            "immédiatement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "averti",
+      "avertie",
+      "avertis",
+      "averties"
+    ],
+    "conjugations": {
+      "present": [
+        "avertis",
+        "avertis",
+        "avertit",
+        "avertissons",
+        "avertissez",
+        "avertissent"
+      ],
+      "futur": [
+        "avertirai",
+        "avertiras",
+        "avertira",
+        "avertirons",
+        "avertirez",
+        "avertiront"
+      ],
+      "imparfait": [
+        "avertissais",
+        "avertissais",
+        "avertissait",
+        "avertissions",
+        "avertissiez",
+        "avertissaient"
+      ],
+      "passeSimple": [
+        "avertis",
+        "avertis",
+        "avertit",
+        "avertîmes",
+        "avertîtes",
+        "avertirent"
+      ]
+    }
+  },
+  {
+    "word": "agrandir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre plus grand.",
+    "example": "Nous agrandissons le dessin.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "agrandir ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "agrandir ",
+            "considérablement",
+            "considérablement",
+            ""
+          ],
+          [
+            "agrandir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "agrandir ",
+            "fortement",
+            "fortement",
+            ""
+          ],
+          [
+            "agrandir ",
+            "proportionnellement",
+            "proportionnellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "agrandi",
+      "agrandie",
+      "agrandis",
+      "agrandies"
+    ],
+    "conjugations": {
+      "present": [
+        "agrandis",
+        "agrandis",
+        "agrandit",
+        "agrandissons",
+        "agrandissez",
+        "agrandissent"
+      ],
+      "futur": [
+        "agrandirai",
+        "agrandiras",
+        "agrandira",
+        "agrandirons",
+        "agrandirez",
+        "agrandiront"
+      ],
+      "imparfait": [
+        "agrandissais",
+        "agrandissais",
+        "agrandissait",
+        "agrandissions",
+        "agrandissiez",
+        "agrandissaient"
+      ],
+      "passeSimple": [
+        "agrandis",
+        "agrandis",
+        "agrandit",
+        "agrandîmes",
+        "agrandîtes",
+        "agrandirent"
+      ]
+    }
+  },
+  {
+    "word": "élargir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre plus large.",
+    "example": "Les travaux élargissent le chemin.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "élargir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "élargir ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "élargir ",
+            "considérablement",
+            "considérablement",
+            ""
+          ],
+          [
+            "élargir ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "élargir ",
+            "uniformément",
+            "uniformément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "élargi",
+      "élargie",
+      "élargis",
+      "élargies"
+    ],
+    "conjugations": {
+      "present": [
+        "élargis",
+        "élargis",
+        "élargit",
+        "élargissons",
+        "élargissez",
+        "élargissent"
+      ],
+      "futur": [
+        "élargirai",
+        "élargiras",
+        "élargira",
+        "élargirons",
+        "élargirez",
+        "élargiront"
+      ],
+      "imparfait": [
+        "élargissais",
+        "élargissais",
+        "élargissait",
+        "élargissions",
+        "élargissiez",
+        "élargissaient"
+      ],
+      "passeSimple": [
+        "élargis",
+        "élargis",
+        "élargit",
+        "élargîmes",
+        "élargîtes",
+        "élargirent"
+      ]
+    }
+  },
+  {
+    "word": "éclaircir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre plus clair un objet, une couleur ou une explication.",
+    "example": "Cette précision éclaircit le problème.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "éclaircir ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "éclaircir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "éclaircir ",
+            "considérablement",
+            "considérablement",
+            ""
+          ],
+          [
+            "éclaircir ",
+            "partiellement",
+            "partiellement",
+            ""
+          ],
+          [
+            "éclaircir ",
+            "complètement",
+            "complètement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "éclairci",
+      "éclaircie",
+      "éclaircis",
+      "éclaircies"
+    ],
+    "conjugations": {
+      "present": [
+        "éclaircis",
+        "éclaircis",
+        "éclaircit",
+        "éclaircissons",
+        "éclaircissez",
+        "éclaircissent"
+      ],
+      "futur": [
+        "éclaircirai",
+        "éclairciras",
+        "éclaircira",
+        "éclaircirons",
+        "éclaircirez",
+        "éclairciront"
+      ],
+      "imparfait": [
+        "éclaircissais",
+        "éclaircissais",
+        "éclaircissait",
+        "éclaircissions",
+        "éclaircissiez",
+        "éclaircissaient"
+      ],
+      "passeSimple": [
+        "éclaircis",
+        "éclaircis",
+        "éclaircit",
+        "éclaircîmes",
+        "éclaircîtes",
+        "éclaircirent"
+      ]
+    }
+  },
+  {
+    "word": "réunir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre ensemble des personnes ou des choses séparées.",
+    "example": "Elle réunit les pièces du puzzle.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "réunir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "réunir ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "réunir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "réunir ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "réunir ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "réuni",
+      "réunie",
+      "réunis",
+      "réunies"
+    ],
+    "conjugations": {
+      "present": [
+        "réunis",
+        "réunis",
+        "réunit",
+        "réunissons",
+        "réunissez",
+        "réunissent"
+      ],
+      "futur": [
+        "réunirai",
+        "réuniras",
+        "réunira",
+        "réunirons",
+        "réunirez",
+        "réuniront"
+      ],
+      "imparfait": [
+        "réunissais",
+        "réunissais",
+        "réunissait",
+        "réunissions",
+        "réunissiez",
+        "réunissaient"
+      ],
+      "passeSimple": [
+        "réunis",
+        "réunis",
+        "réunit",
+        "réunîmes",
+        "réunîtes",
+        "réunirent"
+      ]
+    }
+  },
+  {
+    "word": "remarquer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Porter son attention sur un détail que l’on n’avait pas encore vu.",
+    "example": "Je remarque une trace sur le sol.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "remarquer ",
+            "immédiatement",
+            "immédiatement",
+            ""
+          ],
+          [
+            "remarquer ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "remarquer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "remarquer ",
+            "tardivement",
+            "tardivement",
+            ""
+          ],
+          [
+            "remarquer ",
+            "nettement",
+            "nettement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "remarqué",
+      "remarquée",
+      "remarqués",
+      "remarquées"
+    ],
+    "conjugations": {
+      "present": [
+        "remarque",
+        "remarques",
+        "remarque",
+        "remarquons",
+        "remarquez",
+        "remarquent"
+      ],
+      "futur": [
+        "remarquerai",
+        "remarqueras",
+        "remarquera",
+        "remarquerons",
+        "remarquerez",
+        "remarqueront"
+      ],
+      "imparfait": [
+        "remarquais",
+        "remarquais",
+        "remarquait",
+        "remarquions",
+        "remarquiez",
+        "remarquaient"
+      ],
+      "passeSimple": [
+        "remarquai",
+        "remarquas",
+        "remarqua",
+        "remarquâmes",
+        "remarquâtes",
+        "remarquèrent"
+      ]
+    }
+  },
+  {
+    "word": "imaginer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Former dans son esprit quelque chose qui n’est pas présent ou qui n’existe pas encore.",
+    "example": "Il imagine une ville dans les nuages.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "imaginer ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "imaginer ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "imaginer ",
+            "clairement",
+            "clairement",
+            ""
+          ],
+          [
+            "imaginer ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "imaginer ",
+            "difficilement",
+            "difficilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "imaginé",
+      "imaginée",
+      "imaginés",
+      "imaginées"
+    ],
+    "conjugations": {
+      "present": [
+        "imagine",
+        "imagines",
+        "imagine",
+        "imaginons",
+        "imaginez",
+        "imaginent"
+      ],
+      "futur": [
+        "imaginerai",
+        "imagineras",
+        "imaginera",
+        "imaginerons",
+        "imaginerez",
+        "imagineront"
+      ],
+      "imparfait": [
+        "imaginais",
+        "imaginais",
+        "imaginait",
+        "imaginions",
+        "imaginiez",
+        "imaginaient"
+      ],
+      "passeSimple": [
+        "imaginai",
+        "imaginas",
+        "imagina",
+        "imaginâmes",
+        "imaginâtes",
+        "imaginèrent"
+      ]
+    }
+  },
+  {
+    "word": "inventer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Créer quelque chose de nouveau par la pensée ou par la fabrication.",
+    "example": "Nous inventons une histoire.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "inventer ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "inventer ",
+            "collectivement",
+            "collectivement",
+            ""
+          ],
+          [
+            "inventer ",
+            "ingénieusement",
+            "ingénieusement",
+            ""
+          ],
+          [
+            "inventer ",
+            "spontanément",
+            "spontanément",
+            ""
+          ],
+          [
+            "inventer ",
+            "progressivement",
+            "progressivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "inventé",
+      "inventée",
+      "inventés",
+      "inventées"
+    ],
+    "conjugations": {
+      "present": [
+        "invente",
+        "inventes",
+        "invente",
+        "inventons",
+        "inventez",
+        "inventent"
+      ],
+      "futur": [
+        "inventerai",
+        "inventeras",
+        "inventera",
+        "inventerons",
+        "inventerez",
+        "inventeront"
+      ],
+      "imparfait": [
+        "inventais",
+        "inventais",
+        "inventait",
+        "inventions",
+        "inventiez",
+        "inventaient"
+      ],
+      "passeSimple": [
+        "inventai",
+        "inventas",
+        "inventa",
+        "inventâmes",
+        "inventâtes",
+        "inventèrent"
+      ]
+    }
+  },
+  {
+    "word": "fabriquer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Réaliser un objet en travaillant ou en assemblant des matériaux.",
+    "example": "Elle fabrique une boîte en bois.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "fabriquer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "fabriquer ",
+            "artisanalement",
+            "artisanalement",
+            ""
+          ],
+          [
+            "fabriquer ",
+            "industriellement",
+            "industriellement",
+            ""
+          ],
+          [
+            "fabriquer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "fabriquer ",
+            "manuellement",
+            "manuellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "fabriqué",
+      "fabriquée",
+      "fabriqués",
+      "fabriquées"
+    ],
+    "conjugations": {
+      "present": [
+        "fabrique",
+        "fabriques",
+        "fabrique",
+        "fabriquons",
+        "fabriquez",
+        "fabriquent"
+      ],
+      "futur": [
+        "fabriquerai",
+        "fabriqueras",
+        "fabriquera",
+        "fabriquerons",
+        "fabriquerez",
+        "fabriqueront"
+      ],
+      "imparfait": [
+        "fabriquais",
+        "fabriquais",
+        "fabriquait",
+        "fabriquions",
+        "fabriquiez",
+        "fabriquaient"
+      ],
+      "passeSimple": [
+        "fabriquai",
+        "fabriquas",
+        "fabriqua",
+        "fabriquâmes",
+        "fabriquâtes",
+        "fabriquèrent"
+      ]
+    }
+  },
+  {
+    "word": "créer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire exister quelque chose de nouveau.",
+    "example": "La classe crée un journal.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "créer ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "créer ",
+            "collectivement",
+            "collectivement",
+            ""
+          ],
+          [
+            "créer ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "créer ",
+            "spontanément",
+            "spontanément",
+            ""
+          ],
+          [
+            "créer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "créé",
+      "créée",
+      "créés",
+      "créées"
+    ],
+    "conjugations": {
+      "present": [
+        "crée",
+        "crées",
+        "crée",
+        "créons",
+        "créez",
+        "créent"
+      ],
+      "futur": [
+        "créerai",
+        "créeras",
+        "créera",
+        "créerons",
+        "créerez",
+        "créeront"
+      ],
+      "imparfait": [
+        "créais",
+        "créais",
+        "créait",
+        "créions",
+        "créiez",
+        "créaient"
+      ],
+      "passeSimple": [
+        "créai",
+        "créas",
+        "créa",
+        "créâmes",
+        "créâtes",
+        "créèrent"
+      ]
+    }
+  },
+  {
+    "word": "utiliser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se servir de quelque chose pour réaliser une action.",
+    "example": "J’utilise une règle pour tracer le trait.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "utiliser ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "utiliser ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "utiliser ",
+            "efficacement",
+            "efficacement",
+            ""
+          ],
+          [
+            "utiliser ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "utiliser ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "utilisé",
+      "utilisée",
+      "utilisés",
+      "utilisées"
+    ],
+    "conjugations": {
+      "present": [
+        "utilise",
+        "utilises",
+        "utilise",
+        "utilisons",
+        "utilisez",
+        "utilisent"
+      ],
+      "futur": [
+        "utiliserai",
+        "utiliseras",
+        "utilisera",
+        "utiliserons",
+        "utiliserez",
+        "utiliseront"
+      ],
+      "imparfait": [
+        "utilisais",
+        "utilisais",
+        "utilisait",
+        "utilisions",
+        "utilisiez",
+        "utilisaient"
+      ],
+      "passeSimple": [
+        "utilisai",
+        "utilisas",
+        "utilisa",
+        "utilisâmes",
+        "utilisâtes",
+        "utilisèrent"
+      ]
+    }
+  },
+  {
+    "word": "essayer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire une tentative pour réussir une action ; vérifier si quelque chose convient.",
+    "example": "Il essaie une nouvelle méthode.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "essayer ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "essayer ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "essayer ",
+            "longuement",
+            "longuement",
+            ""
+          ],
+          [
+            "essayer ",
+            "vainement",
+            "vainement",
+            ""
+          ],
+          [
+            "essayer ",
+            "courageusement",
+            "courageusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "essayé",
+      "essayée",
+      "essayés",
+      "essayées"
+    ],
+    "conjugations": {
+      "present": [
+        "essaie",
+        "essaies",
+        "essaie",
+        "essayons",
+        "essayez",
+        "essaient"
+      ],
+      "futur": [
+        "essaierai",
+        "essaieras",
+        "essaiera",
+        "essaierons",
+        "essaierez",
+        "essaieront"
+      ],
+      "imparfait": [
+        "essayais",
+        "essayais",
+        "essayait",
+        "essayions",
+        "essayiez",
+        "essayaient"
+      ],
+      "passeSimple": [
+        "essayai",
+        "essayas",
+        "essaya",
+        "essayâmes",
+        "essayâtes",
+        "essayèrent"
+      ]
+    }
+  },
+  {
+    "word": "tracer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Dessiner une ligne ou le contour de quelque chose.",
+    "example": "Elle trace un cercle.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "tracer ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "tracer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "tracer ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "tracer ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "tracer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "tracé",
+      "tracée",
+      "tracés",
+      "tracées"
+    ],
+    "conjugations": {
+      "present": [
+        "trace",
+        "traces",
+        "trace",
+        "traçons",
+        "tracez",
+        "tracent"
+      ],
+      "futur": [
+        "tracerai",
+        "traceras",
+        "tracera",
+        "tracerons",
+        "tracerez",
+        "traceront"
+      ],
+      "imparfait": [
+        "traçais",
+        "traçais",
+        "traçait",
+        "tracions",
+        "traciez",
+        "traçaient"
+      ],
+      "passeSimple": [
+        "traçai",
+        "traças",
+        "traça",
+        "traçâmes",
+        "traçâtes",
+        "tracèrent"
+      ]
+    }
+  },
+  {
+    "word": "effacer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire disparaître une trace ou une inscription.",
+    "example": "J’efface le tableau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "effacer ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "effacer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "effacer ",
+            "partiellement",
+            "partiellement",
+            ""
+          ],
+          [
+            "effacer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "effacer ",
+            "délicatement",
+            "délicatement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "effacé",
+      "effacée",
+      "effacés",
+      "effacées"
+    ],
+    "conjugations": {
+      "present": [
+        "efface",
+        "effaces",
+        "efface",
+        "effaçons",
+        "effacez",
+        "effacent"
+      ],
+      "futur": [
+        "effacerai",
+        "effaceras",
+        "effacera",
+        "effacerons",
+        "effacerez",
+        "effaceront"
+      ],
+      "imparfait": [
+        "effaçais",
+        "effaçais",
+        "effaçait",
+        "effacions",
+        "effaciez",
+        "effaçaient"
+      ],
+      "passeSimple": [
+        "effaçai",
+        "effaças",
+        "effaça",
+        "effaçâmes",
+        "effaçâtes",
+        "effacèrent"
+      ]
+    }
+  },
+  {
+    "word": "coller",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Fixer des éléments ensemble, notamment avec de la colle.",
+    "example": "Il colle les images sur la feuille.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "coller ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "coller ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "coller ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "coller ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "coller ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "collé",
+      "collée",
+      "collés",
+      "collées"
+    ],
+    "conjugations": {
+      "present": [
+        "colle",
+        "colles",
+        "colle",
+        "collons",
+        "collez",
+        "collent"
+      ],
+      "futur": [
+        "collerai",
+        "colleras",
+        "collera",
+        "collerons",
+        "collerez",
+        "colleront"
+      ],
+      "imparfait": [
+        "collais",
+        "collais",
+        "collait",
+        "collions",
+        "colliez",
+        "collaient"
+      ],
+      "passeSimple": [
+        "collai",
+        "collas",
+        "colla",
+        "collâmes",
+        "collâtes",
+        "collèrent"
+      ]
+    }
+  },
+  {
+    "word": "découper",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Couper une matière en suivant une forme ou en faisant plusieurs morceaux.",
+    "example": "Elle découpe une étoile en papier.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "découper ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "découper ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "découper ",
+            "finement",
+            "finement",
+            ""
+          ],
+          [
+            "découper ",
+            "grossièrement",
+            "grossièrement",
+            ""
+          ],
+          [
+            "découper ",
+            "prudemment",
+            "prudemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "découpé",
+      "découpée",
+      "découpés",
+      "découpées"
+    ],
+    "conjugations": {
+      "present": [
+        "découpe",
+        "découpes",
+        "découpe",
+        "découpons",
+        "découpez",
+        "découpent"
+      ],
+      "futur": [
+        "découperai",
+        "découperas",
+        "découpera",
+        "découperons",
+        "découperez",
+        "découperont"
+      ],
+      "imparfait": [
+        "découpais",
+        "découpais",
+        "découpait",
+        "découpions",
+        "découpiez",
+        "découpaient"
+      ],
+      "passeSimple": [
+        "découpai",
+        "découpas",
+        "découpa",
+        "découpâmes",
+        "découpâtes",
+        "découpèrent"
+      ]
+    }
+  },
+  {
+    "word": "plier",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rabattre une partie d’un objet souple sur une autre partie.",
+    "example": "Nous plions une feuille en deux.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "plier ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "plier ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "plier ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "plier ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "plier ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "plié",
+      "pliée",
+      "pliés",
+      "pliées"
+    ],
+    "conjugations": {
+      "present": [
+        "plie",
+        "plies",
+        "plie",
+        "plions",
+        "pliez",
+        "plient"
+      ],
+      "futur": [
+        "plierai",
+        "plieras",
+        "pliera",
+        "plierons",
+        "plierez",
+        "plieront"
+      ],
+      "imparfait": [
+        "pliais",
+        "pliais",
+        "pliait",
+        "pliions",
+        "pliiez",
+        "pliaient"
+      ],
+      "passeSimple": [
+        "pliai",
+        "plias",
+        "plia",
+        "pliâmes",
+        "pliâtes",
+        "plièrent"
+      ]
+    }
+  },
+  {
+    "word": "déplier",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Ouvrir et étendre ce qui était plié.",
+    "example": "Il déplie la carte.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "déplier ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "déplier ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "déplier ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "déplier ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "déplier ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "déplié",
+      "dépliée",
+      "dépliés",
+      "dépliées"
+    ],
+    "conjugations": {
+      "present": [
+        "déplie",
+        "déplies",
+        "déplie",
+        "déplions",
+        "dépliez",
+        "déplient"
+      ],
+      "futur": [
+        "déplierai",
+        "déplieras",
+        "dépliera",
+        "déplierons",
+        "déplierez",
+        "déplieront"
+      ],
+      "imparfait": [
+        "dépliais",
+        "dépliais",
+        "dépliait",
+        "dépliions",
+        "dépliiez",
+        "dépliaient"
+      ],
+      "passeSimple": [
+        "dépliai",
+        "déplias",
+        "déplia",
+        "dépliâmes",
+        "dépliâtes",
+        "déplièrent"
+      ]
+    }
+  },
+  {
+    "word": "attacher",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Fixer une chose à une autre avec un lien ou une fermeture.",
+    "example": "Elle attache la corde au piquet.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "attacher ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "attacher ",
+            "fermement",
+            "fermement",
+            ""
+          ],
+          [
+            "attacher ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "attacher ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "attacher ",
+            "provisoirement",
+            "provisoirement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "attaché",
+      "attachée",
+      "attachés",
+      "attachées"
+    ],
+    "conjugations": {
+      "present": [
+        "attache",
+        "attaches",
+        "attache",
+        "attachons",
+        "attachez",
+        "attachent"
+      ],
+      "futur": [
+        "attacherai",
+        "attacheras",
+        "attachera",
+        "attacherons",
+        "attacherez",
+        "attacheront"
+      ],
+      "imparfait": [
+        "attachais",
+        "attachais",
+        "attachait",
+        "attachions",
+        "attachiez",
+        "attachaient"
+      ],
+      "passeSimple": [
+        "attachai",
+        "attachas",
+        "attacha",
+        "attachâmes",
+        "attachâtes",
+        "attachèrent"
+      ]
+    }
+  },
+  {
+    "word": "détacher",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Défaire ce qui attache ou fixe quelque chose.",
+    "example": "Je détache mon vélo de la barrière.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "détacher ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "détacher ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "détacher ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "détacher ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "détacher ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "détaché",
+      "détachée",
+      "détachés",
+      "détachées"
+    ],
+    "conjugations": {
+      "present": [
+        "détache",
+        "détaches",
+        "détache",
+        "détachons",
+        "détachez",
+        "détachent"
+      ],
+      "futur": [
+        "détacherai",
+        "détacheras",
+        "détachera",
+        "détacherons",
+        "détacherez",
+        "détacheront"
+      ],
+      "imparfait": [
+        "détachais",
+        "détachais",
+        "détachait",
+        "détachions",
+        "détachiez",
+        "détachaient"
+      ],
+      "passeSimple": [
+        "détachai",
+        "détachas",
+        "détacha",
+        "détachâmes",
+        "détachâtes",
+        "détachèrent"
+      ]
+    }
+  },
+  {
+    "word": "laver",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Nettoyer avec de l’eau et souvent un produit adapté.",
+    "example": "Il lave ses mains.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "laver ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "laver ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "laver ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "laver ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "laver ",
+            "quotidiennement",
+            "quotidiennement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "lavé",
+      "lavée",
+      "lavés",
+      "lavées"
+    ],
+    "conjugations": {
+      "present": [
+        "lave",
+        "laves",
+        "lave",
+        "lavons",
+        "lavez",
+        "lavent"
+      ],
+      "futur": [
+        "laverai",
+        "laveras",
+        "lavera",
+        "laverons",
+        "laverez",
+        "laveront"
+      ],
+      "imparfait": [
+        "lavais",
+        "lavais",
+        "lavait",
+        "lavions",
+        "laviez",
+        "lavaient"
+      ],
+      "passeSimple": [
+        "lavai",
+        "lavas",
+        "lava",
+        "lavâmes",
+        "lavâtes",
+        "lavèrent"
+      ]
+    }
+  },
+  {
+    "word": "rincer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Passer de l’eau sur quelque chose pour enlever les restes de saleté ou de produit.",
+    "example": "Elle rince la vaisselle.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "rincer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "rincer ",
+            "abondamment",
+            "abondamment",
+            ""
+          ],
+          [
+            "rincer ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "rincer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "rincer ",
+            "délicatement",
+            "délicatement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "rincé",
+      "rincée",
+      "rincés",
+      "rincées"
+    ],
+    "conjugations": {
+      "present": [
+        "rince",
+        "rinces",
+        "rince",
+        "rinçons",
+        "rincez",
+        "rincent"
+      ],
+      "futur": [
+        "rincerai",
+        "rinceras",
+        "rincera",
+        "rincerons",
+        "rincerez",
+        "rinceront"
+      ],
+      "imparfait": [
+        "rinçais",
+        "rinçais",
+        "rinçait",
+        "rincions",
+        "rinciez",
+        "rinçaient"
+      ],
+      "passeSimple": [
+        "rinçai",
+        "rinças",
+        "rinça",
+        "rinçâmes",
+        "rinçâtes",
+        "rincèrent"
+      ]
+    }
+  },
+  {
+    "word": "frotter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Passer plusieurs fois un objet ou une partie du corps contre une surface.",
+    "example": "Je frotte la tache avec une éponge.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "frotter ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "frotter ",
+            "vigoureusement",
+            "vigoureusement",
+            ""
+          ],
+          [
+            "frotter ",
+            "énergiquement",
+            "énergiquement",
+            ""
+          ],
+          [
+            "frotter ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "frotter ",
+            "longuement",
+            "longuement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "frotté",
+      "frottée",
+      "frottés",
+      "frottées"
+    ],
+    "conjugations": {
+      "present": [
+        "frotte",
+        "frottes",
+        "frotte",
+        "frottons",
+        "frottez",
+        "frottent"
+      ],
+      "futur": [
+        "frotterai",
+        "frotteras",
+        "frottera",
+        "frotterons",
+        "frotterez",
+        "frotteront"
+      ],
+      "imparfait": [
+        "frottais",
+        "frottais",
+        "frottait",
+        "frottions",
+        "frottiez",
+        "frottaient"
+      ],
+      "passeSimple": [
+        "frottai",
+        "frottas",
+        "frotta",
+        "frottâmes",
+        "frottâtes",
+        "frottèrent"
+      ]
+    }
+  },
+  {
+    "word": "brosser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Nettoyer ou arranger quelque chose avec une brosse.",
+    "example": "Elle brosse son cheval.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "brosser ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "brosser ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "brosser ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "brosser ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "brosser ",
+            "énergiquement",
+            "énergiquement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "brossé",
+      "brossée",
+      "brossés",
+      "brossées"
+    ],
+    "conjugations": {
+      "present": [
+        "brosse",
+        "brosses",
+        "brosse",
+        "brossons",
+        "brossez",
+        "brossent"
+      ],
+      "futur": [
+        "brosserai",
+        "brosseras",
+        "brossera",
+        "brosserons",
+        "brosserez",
+        "brosseront"
+      ],
+      "imparfait": [
+        "brossais",
+        "brossais",
+        "brossait",
+        "brossions",
+        "brossiez",
+        "brossaient"
+      ],
+      "passeSimple": [
+        "brossai",
+        "brossas",
+        "brossa",
+        "brossâmes",
+        "brossâtes",
+        "brossèrent"
+      ]
+    }
+  },
+  {
+    "word": "mélanger",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre ensemble plusieurs éléments pour les répartir ou les combiner.",
+    "example": "Nous mélangeons la farine et l’eau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "mélanger ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "mélanger ",
+            "énergiquement",
+            "énergiquement",
+            ""
+          ],
+          [
+            "mélanger ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "mélanger ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "mélanger ",
+            "vigoureusement",
+            "vigoureusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "mélangé",
+      "mélangée",
+      "mélangés",
+      "mélangées"
+    ],
+    "conjugations": {
+      "present": [
+        "mélange",
+        "mélanges",
+        "mélange",
+        "mélangeons",
+        "mélangez",
+        "mélangent"
+      ],
+      "futur": [
+        "mélangerai",
+        "mélangeras",
+        "mélangera",
+        "mélangerons",
+        "mélangerez",
+        "mélangeront"
+      ],
+      "imparfait": [
+        "mélangeais",
+        "mélangeais",
+        "mélangeait",
+        "mélangions",
+        "mélangiez",
+        "mélangeaient"
+      ],
+      "passeSimple": [
+        "mélangeai",
+        "mélangeas",
+        "mélangea",
+        "mélangeâmes",
+        "mélangeâtes",
+        "mélangèrent"
+      ]
+    }
+  },
+  {
+    "word": "verser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Faire couler un liquide ou tomber une matière d’un récipient dans un autre lieu.",
+    "example": "Il verse l’eau dans le verre.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "verser ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "verser ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "verser ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "verser ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "verser ",
+            "prudemment",
+            "prudemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "versé",
+      "versée",
+      "versés",
+      "versées"
+    ],
+    "conjugations": {
+      "present": [
+        "verse",
+        "verses",
+        "verse",
+        "versons",
+        "versez",
+        "versent"
+      ],
+      "futur": [
+        "verserai",
+        "verseras",
+        "versera",
+        "verserons",
+        "verserez",
+        "verseront"
+      ],
+      "imparfait": [
+        "versais",
+        "versais",
+        "versait",
+        "versions",
+        "versiez",
+        "versaient"
+      ],
+      "passeSimple": [
+        "versai",
+        "versas",
+        "versa",
+        "versâmes",
+        "versâtes",
+        "versèrent"
+      ]
+    }
+  },
+  {
+    "word": "ajouter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre quelque chose en plus de ce qui est déjà présent.",
+    "example": "Elle ajoute une cuillère de sucre.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "ajouter ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "ajouter ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "ajouter ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "ajouter ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "ajouter ",
+            "généreusement",
+            "généreusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "ajouté",
+      "ajoutée",
+      "ajoutés",
+      "ajoutées"
+    ],
+    "conjugations": {
+      "present": [
+        "ajoute",
+        "ajoutes",
+        "ajoute",
+        "ajoutons",
+        "ajoutez",
+        "ajoutent"
+      ],
+      "futur": [
+        "ajouterai",
+        "ajouteras",
+        "ajoutera",
+        "ajouterons",
+        "ajouterez",
+        "ajouteront"
+      ],
+      "imparfait": [
+        "ajoutais",
+        "ajoutais",
+        "ajoutait",
+        "ajoutions",
+        "ajoutiez",
+        "ajoutaient"
+      ],
+      "passeSimple": [
+        "ajoutai",
+        "ajoutas",
+        "ajouta",
+        "ajoutâmes",
+        "ajoutâtes",
+        "ajoutèrent"
+      ]
+    }
+  },
+  {
+    "word": "retirer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Enlever quelque chose de l’endroit où il se trouve.",
+    "example": "Je retire le papier de la boîte.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "retirer ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "retirer ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "retirer ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "retirer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "retirer ",
+            "complètement",
+            "complètement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "retiré",
+      "retirée",
+      "retirés",
+      "retirées"
+    ],
+    "conjugations": {
+      "present": [
+        "retire",
+        "retires",
+        "retire",
+        "retirons",
+        "retirez",
+        "retirent"
+      ],
+      "futur": [
+        "retirerai",
+        "retireras",
+        "retirera",
+        "retirerons",
+        "retirerez",
+        "retireront"
+      ],
+      "imparfait": [
+        "retirais",
+        "retirais",
+        "retirait",
+        "retirions",
+        "retiriez",
+        "retiraient"
+      ],
+      "passeSimple": [
+        "retirai",
+        "retiras",
+        "retira",
+        "retirâmes",
+        "retirâtes",
+        "retirèrent"
+      ]
+    }
+  },
+  {
+    "word": "vider",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Enlever ce que contient un récipient ou un lieu.",
+    "example": "Il vide son sac.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "vider ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "vider ",
+            "entièrement",
+            "entièrement",
+            ""
+          ],
+          [
+            "vider ",
+            "partiellement",
+            "partiellement",
+            ""
+          ],
+          [
+            "vider ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "vider ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "vidé",
+      "vidée",
+      "vidés",
+      "vidées"
+    ],
+    "conjugations": {
+      "present": [
+        "vide",
+        "vides",
+        "vide",
+        "vidons",
+        "videz",
+        "vident"
+      ],
+      "futur": [
+        "viderai",
+        "videras",
+        "videra",
+        "viderons",
+        "viderez",
+        "videront"
+      ],
+      "imparfait": [
+        "vidais",
+        "vidais",
+        "vidait",
+        "vidions",
+        "vidiez",
+        "vidaient"
+      ],
+      "passeSimple": [
+        "vidai",
+        "vidas",
+        "vida",
+        "vidâmes",
+        "vidâtes",
+        "vidèrent"
+      ]
+    }
+  },
+  {
+    "word": "chauffer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre plus chaud ou devenir plus chaud.",
+    "example": "Nous chauffons l’eau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "chauffer ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "chauffer ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "chauffer ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "chauffer ",
+            "uniformément",
+            "uniformément",
+            ""
+          ],
+          [
+            "chauffer ",
+            "fortement",
+            "fortement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "chauffé",
+      "chauffée",
+      "chauffés",
+      "chauffées"
+    ],
+    "conjugations": {
+      "present": [
+        "chauffe",
+        "chauffes",
+        "chauffe",
+        "chauffons",
+        "chauffez",
+        "chauffent"
+      ],
+      "futur": [
+        "chaufferai",
+        "chaufferas",
+        "chauffera",
+        "chaufferons",
+        "chaufferez",
+        "chaufferont"
+      ],
+      "imparfait": [
+        "chauffais",
+        "chauffais",
+        "chauffait",
+        "chauffions",
+        "chauffiez",
+        "chauffaient"
+      ],
+      "passeSimple": [
+        "chauffai",
+        "chauffas",
+        "chauffa",
+        "chauffâmes",
+        "chauffâtes",
+        "chauffèrent"
+      ]
+    }
+  },
+  {
+    "word": "refroidir",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre plus froid ou devenir moins chaud.",
+    "example": "L’air frais refroidit la soupe.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "refroidir ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "refroidir ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "refroidir ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "refroidir ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "refroidir ",
+            "uniformément",
+            "uniformément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "refroidi",
+      "refroidie",
+      "refroidis",
+      "refroidies"
+    ],
+    "conjugations": {
+      "present": [
+        "refroidis",
+        "refroidis",
+        "refroidit",
+        "refroidissons",
+        "refroidissez",
+        "refroidissent"
+      ],
+      "futur": [
+        "refroidirai",
+        "refroidiras",
+        "refroidira",
+        "refroidirons",
+        "refroidirez",
+        "refroidiront"
+      ],
+      "imparfait": [
+        "refroidissais",
+        "refroidissais",
+        "refroidissait",
+        "refroidissions",
+        "refroidissiez",
+        "refroidissaient"
+      ],
+      "passeSimple": [
+        "refroidis",
+        "refroidis",
+        "refroidit",
+        "refroidîmes",
+        "refroidîtes",
+        "refroidirent"
+      ]
+    }
+  },
+  {
+    "word": "peser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mesurer la masse de quelque chose avec une balance.",
+    "example": "Elle pèse la farine.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "peser ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "peser ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "peser ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "peser ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "peser ",
+            "séparément",
+            "séparément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "pesé",
+      "pesée",
+      "pesés",
+      "pesées"
+    ],
+    "conjugations": {
+      "present": [
+        "pèse",
+        "pèses",
+        "pèse",
+        "pesons",
+        "pesez",
+        "pèsent"
+      ],
+      "futur": [
+        "pèserai",
+        "pèseras",
+        "pèsera",
+        "pèserons",
+        "pèserez",
+        "pèseront"
+      ],
+      "imparfait": [
+        "pesais",
+        "pesais",
+        "pesait",
+        "pesions",
+        "pesiez",
+        "pesaient"
+      ],
+      "passeSimple": [
+        "pesai",
+        "pesas",
+        "pesa",
+        "pesâmes",
+        "pesâtes",
+        "pesèrent"
+      ]
+    }
+  },
+  {
+    "word": "mesurer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Déterminer une longueur, une durée ou une autre grandeur avec une unité.",
+    "example": "Je mesure la table avec un mètre.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "mesurer ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "mesurer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "mesurer ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "mesurer ",
+            "approximativement",
+            "approximativement",
+            ""
+          ],
+          [
+            "mesurer ",
+            "directement",
+            "directement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "mesuré",
+      "mesurée",
+      "mesurés",
+      "mesurées"
+    ],
+    "conjugations": {
+      "present": [
+        "mesure",
+        "mesures",
+        "mesure",
+        "mesurons",
+        "mesurez",
+        "mesurent"
+      ],
+      "futur": [
+        "mesurerai",
+        "mesureras",
+        "mesurera",
+        "mesurerons",
+        "mesurerez",
+        "mesureront"
+      ],
+      "imparfait": [
+        "mesurais",
+        "mesurais",
+        "mesurait",
+        "mesurions",
+        "mesuriez",
+        "mesuraient"
+      ],
+      "passeSimple": [
+        "mesurai",
+        "mesuras",
+        "mesura",
+        "mesurâmes",
+        "mesurâtes",
+        "mesurèrent"
+      ]
+    }
+  },
+  {
+    "word": "compter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Trouver un nombre en énumérant les éléments ou effectuer un calcul.",
+    "example": "Il compte les jetons.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "compter ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "compter ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "compter ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "compter ",
+            "mentalement",
+            "mentalement",
+            ""
+          ],
+          [
+            "compter ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "compté",
+      "comptée",
+      "comptés",
+      "comptées"
+    ],
+    "conjugations": {
+      "present": [
+        "compte",
+        "comptes",
+        "compte",
+        "comptons",
+        "comptez",
+        "comptent"
+      ],
+      "futur": [
+        "compterai",
+        "compteras",
+        "comptera",
+        "compterons",
+        "compterez",
+        "compteront"
+      ],
+      "imparfait": [
+        "comptais",
+        "comptais",
+        "comptait",
+        "comptions",
+        "comptiez",
+        "comptaient"
+      ],
+      "passeSimple": [
+        "comptai",
+        "comptas",
+        "compta",
+        "comptâmes",
+        "comptâtes",
+        "comptèrent"
+      ]
+    }
+  },
+  {
+    "word": "calculer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Trouver un résultat à l’aide d’opérations sur des nombres.",
+    "example": "Nous calculons le prix total.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "calculer ",
+            "mentalement",
+            "mentalement",
+            ""
+          ],
+          [
+            "calculer ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "calculer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "calculer ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "calculer ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "calculé",
+      "calculée",
+      "calculés",
+      "calculées"
+    ],
+    "conjugations": {
+      "present": [
+        "calcule",
+        "calcules",
+        "calcule",
+        "calculons",
+        "calculez",
+        "calculent"
+      ],
+      "futur": [
+        "calculerai",
+        "calculeras",
+        "calculera",
+        "calculerons",
+        "calculerez",
+        "calculeront"
+      ],
+      "imparfait": [
+        "calculais",
+        "calculais",
+        "calculait",
+        "calculions",
+        "calculiez",
+        "calculaient"
+      ],
+      "passeSimple": [
+        "calculai",
+        "calculas",
+        "calcula",
+        "calculâmes",
+        "calculâtes",
+        "calculèrent"
+      ]
+    }
+  },
+  {
+    "word": "comparer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Examiner plusieurs éléments pour repérer leurs ressemblances et leurs différences.",
+    "example": "Elle compare les deux dessins.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "comparer ",
+            "attentivement",
+            "attentivement",
+            ""
+          ],
+          [
+            "comparer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "comparer ",
+            "précisément",
+            "précisément",
+            ""
+          ],
+          [
+            "comparer ",
+            "objectivement",
+            "objectivement",
+            ""
+          ],
+          [
+            "comparer ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "comparé",
+      "comparée",
+      "comparés",
+      "comparées"
+    ],
+    "conjugations": {
+      "present": [
+        "compare",
+        "compares",
+        "compare",
+        "comparons",
+        "comparez",
+        "comparent"
+      ],
+      "futur": [
+        "comparerai",
+        "compareras",
+        "comparera",
+        "comparerons",
+        "comparerez",
+        "compareront"
+      ],
+      "imparfait": [
+        "comparais",
+        "comparais",
+        "comparait",
+        "comparions",
+        "compariez",
+        "comparaient"
+      ],
+      "passeSimple": [
+        "comparai",
+        "comparas",
+        "compara",
+        "comparâmes",
+        "comparâtes",
+        "comparèrent"
+      ]
+    }
+  },
+  {
+    "word": "classer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Ranger des éléments selon un ordre ou des catégories.",
+    "example": "Il classe les livres par thème.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "classer ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "classer ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "classer ",
+            "méthodiquement",
+            "méthodiquement",
+            ""
+          ],
+          [
+            "classer ",
+            "alphabétiquement",
+            "alphabétiquement",
+            ""
+          ],
+          [
+            "classer ",
+            "chronologiquement",
+            "chronologiquement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "classé",
+      "classée",
+      "classés",
+      "classées"
+    ],
+    "conjugations": {
+      "present": [
+        "classe",
+        "classes",
+        "classe",
+        "classons",
+        "classez",
+        "classent"
+      ],
+      "futur": [
+        "classerai",
+        "classeras",
+        "classera",
+        "classerons",
+        "classerez",
+        "classeront"
+      ],
+      "imparfait": [
+        "classais",
+        "classais",
+        "classait",
+        "classions",
+        "classiez",
+        "classaient"
+      ],
+      "passeSimple": [
+        "classai",
+        "classas",
+        "classa",
+        "classâmes",
+        "classâtes",
+        "classèrent"
+      ]
+    }
+  },
+  {
+    "word": "trier",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Séparer des éléments en groupes selon un critère.",
+    "example": "Nous trions les déchets.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "trier ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "trier ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "trier ",
+            "méthodiquement",
+            "méthodiquement",
+            ""
+          ],
+          [
+            "trier ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "trier ",
+            "manuellement",
+            "manuellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "trié",
+      "triée",
+      "triés",
+      "triées"
+    ],
+    "conjugations": {
+      "present": [
+        "trie",
+        "tries",
+        "trie",
+        "trions",
+        "triez",
+        "trient"
+      ],
+      "futur": [
+        "trierai",
+        "trieras",
+        "triera",
+        "trierons",
+        "trierez",
+        "trieront"
+      ],
+      "imparfait": [
+        "triais",
+        "triais",
+        "triait",
+        "triions",
+        "triiez",
+        "triaient"
+      ],
+      "passeSimple": [
+        "triai",
+        "trias",
+        "tria",
+        "triâmes",
+        "triâtes",
+        "trièrent"
+      ]
+    }
+  },
+  {
+    "word": "ordonner",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre des éléments dans un ordre ; donner une consigne à exécuter.",
+    "example": "Elle ordonne les nombres du plus petit au plus grand.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "ordonner ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "ordonner ",
+            "logiquement",
+            "logiquement",
+            ""
+          ],
+          [
+            "ordonner ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "ordonner ",
+            "méthodiquement",
+            "méthodiquement",
+            ""
+          ],
+          [
+            "ordonner ",
+            "chronologiquement",
+            "chronologiquement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "ordonné",
+      "ordonnée",
+      "ordonnés",
+      "ordonnées"
+    ],
+    "conjugations": {
+      "present": [
+        "ordonne",
+        "ordonnes",
+        "ordonne",
+        "ordonnons",
+        "ordonnez",
+        "ordonnent"
+      ],
+      "futur": [
+        "ordonnerai",
+        "ordonneras",
+        "ordonnera",
+        "ordonnerons",
+        "ordonnerez",
+        "ordonneront"
+      ],
+      "imparfait": [
+        "ordonnais",
+        "ordonnais",
+        "ordonnait",
+        "ordonnions",
+        "ordonniez",
+        "ordonnaient"
+      ],
+      "passeSimple": [
+        "ordonnai",
+        "ordonnas",
+        "ordonna",
+        "ordonnâmes",
+        "ordonnâtes",
+        "ordonnèrent"
+      ]
+    }
+  },
+  {
+    "word": "organiser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Préparer et répartir les éléments d’une activité pour qu’elle se déroule bien.",
+    "example": "La classe organise une sortie.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "organiser ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "organiser ",
+            "efficacement",
+            "efficacement",
+            ""
+          ],
+          [
+            "organiser ",
+            "méthodiquement",
+            "méthodiquement",
+            ""
+          ],
+          [
+            "organiser ",
+            "collectivement",
+            "collectivement",
+            ""
+          ],
+          [
+            "organiser ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "organisé",
+      "organisée",
+      "organisés",
+      "organisées"
+    ],
+    "conjugations": {
+      "present": [
+        "organise",
+        "organises",
+        "organise",
+        "organisons",
+        "organisez",
+        "organisent"
+      ],
+      "futur": [
+        "organiserai",
+        "organiseras",
+        "organisera",
+        "organiserons",
+        "organiserez",
+        "organiseront"
+      ],
+      "imparfait": [
+        "organisais",
+        "organisais",
+        "organisait",
+        "organisions",
+        "organisiez",
+        "organisaient"
+      ],
+      "passeSimple": [
+        "organisai",
+        "organisas",
+        "organisa",
+        "organisâmes",
+        "organisâtes",
+        "organisèrent"
+      ]
+    }
+  },
+  {
+    "word": "visiter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se rendre dans un lieu pour le découvrir ou auprès de quelqu’un pour passer un moment avec lui.",
+    "example": "Nous visitons un château.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "visiter ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "visiter ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "visiter ",
+            "longuement",
+            "longuement",
+            ""
+          ],
+          [
+            "visiter ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "visiter ",
+            "gratuitement",
+            "gratuitement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "visité",
+      "visitée",
+      "visités",
+      "visitées"
+    ],
+    "conjugations": {
+      "present": [
+        "visite",
+        "visites",
+        "visite",
+        "visitons",
+        "visitez",
+        "visitent"
+      ],
+      "futur": [
+        "visiterai",
+        "visiteras",
+        "visitera",
+        "visiterons",
+        "visiterez",
+        "visiteront"
+      ],
+      "imparfait": [
+        "visitais",
+        "visitais",
+        "visitait",
+        "visitions",
+        "visitiez",
+        "visitaient"
+      ],
+      "passeSimple": [
+        "visitai",
+        "visitas",
+        "visita",
+        "visitâmes",
+        "visitâtes",
+        "visitèrent"
+      ]
+    }
+  },
+  {
+    "word": "voyager",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se déplacer sur une distance importante pour aller dans un autre lieu.",
+    "example": "Ils voyagent en train.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "voyager ",
+            "loin",
+            "loin",
+            ""
+          ],
+          [
+            "voyager ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "voyager ",
+            "confortablement",
+            "confortablement",
+            ""
+          ],
+          [
+            "voyager ",
+            "fréquemment",
+            "fréquemment",
+            ""
+          ],
+          [
+            "voyager ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "voyagé",
+      "voyagée",
+      "voyagés",
+      "voyagées"
+    ],
+    "conjugations": {
+      "present": [
+        "voyage",
+        "voyages",
+        "voyage",
+        "voyageons",
+        "voyagez",
+        "voyagent"
+      ],
+      "futur": [
+        "voyagerai",
+        "voyageras",
+        "voyagera",
+        "voyagerons",
+        "voyagerez",
+        "voyageront"
+      ],
+      "imparfait": [
+        "voyageais",
+        "voyageais",
+        "voyageait",
+        "voyagions",
+        "voyagiez",
+        "voyageaient"
+      ],
+      "passeSimple": [
+        "voyageai",
+        "voyageas",
+        "voyagea",
+        "voyageâmes",
+        "voyageâtes",
+        "voyagèrent"
+      ]
+    }
+  },
+  {
+    "word": "traverser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aller d’un côté à l’autre d’un lieu ou d’un obstacle.",
+    "example": "Elle traverse la rue.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "traverser ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "traverser ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "traverser ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "traverser ",
+            "calmement",
+            "calmement",
+            ""
+          ],
+          [
+            "traverser ",
+            "directement",
+            "directement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "traversé",
+      "traversée",
+      "traversés",
+      "traversées"
+    ],
+    "conjugations": {
+      "present": [
+        "traverse",
+        "traverses",
+        "traverse",
+        "traversons",
+        "traversez",
+        "traversent"
+      ],
+      "futur": [
+        "traverserai",
+        "traverseras",
+        "traversera",
+        "traverserons",
+        "traverserez",
+        "traverseront"
+      ],
+      "imparfait": [
+        "traversais",
+        "traversais",
+        "traversait",
+        "traversions",
+        "traversiez",
+        "traversaient"
+      ],
+      "passeSimple": [
+        "traversai",
+        "traversas",
+        "traversa",
+        "traversâmes",
+        "traversâtes",
+        "traversèrent"
+      ]
+    }
+  },
+  {
+    "word": "avancer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se déplacer vers l’avant ou faire progresser quelque chose.",
+    "example": "Le bateau avance sur l’eau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "avancer ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "avancer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "avancer ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "avancer ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "avancer ",
+            "péniblement",
+            "péniblement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "avancé",
+      "avancée",
+      "avancés",
+      "avancées"
+    ],
+    "conjugations": {
+      "present": [
+        "avance",
+        "avances",
+        "avance",
+        "avançons",
+        "avancez",
+        "avancent"
+      ],
+      "futur": [
+        "avancerai",
+        "avanceras",
+        "avancera",
+        "avancerons",
+        "avancerez",
+        "avanceront"
+      ],
+      "imparfait": [
+        "avançais",
+        "avançais",
+        "avançait",
+        "avancions",
+        "avanciez",
+        "avançaient"
+      ],
+      "passeSimple": [
+        "avançai",
+        "avanças",
+        "avança",
+        "avançâmes",
+        "avançâtes",
+        "avancèrent"
+      ]
+    }
+  },
+  {
+    "word": "reculer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se déplacer vers l’arrière.",
+    "example": "Le crabe recule sur le sable.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "reculer ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "reculer ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "reculer ",
+            "brusquement",
+            "brusquement",
+            ""
+          ],
+          [
+            "reculer ",
+            "légèrement",
+            "légèrement",
+            ""
+          ],
+          [
+            "reculer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "reculé",
+      "reculée",
+      "reculés",
+      "reculées"
+    ],
+    "conjugations": {
+      "present": [
+        "recule",
+        "recules",
+        "recule",
+        "reculons",
+        "reculez",
+        "reculent"
+      ],
+      "futur": [
+        "reculerai",
+        "reculeras",
+        "reculera",
+        "reculerons",
+        "reculerez",
+        "reculeront"
+      ],
+      "imparfait": [
+        "reculais",
+        "reculais",
+        "reculait",
+        "reculions",
+        "reculiez",
+        "reculaient"
+      ],
+      "passeSimple": [
+        "reculai",
+        "reculas",
+        "recula",
+        "reculâmes",
+        "reculâtes",
+        "reculèrent"
+      ]
+    }
+  },
+  {
+    "word": "approcher",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Venir ou mettre quelque chose plus près.",
+    "example": "Il approche sa chaise de la table.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "approcher ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "approcher ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "approcher ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "approcher ",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "approcher ",
+            "progressivement",
+            "progressivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "approché",
+      "approchée",
+      "approchés",
+      "approchées"
+    ],
+    "conjugations": {
+      "present": [
+        "approche",
+        "approches",
+        "approche",
+        "approchons",
+        "approchez",
+        "approchent"
+      ],
+      "futur": [
+        "approcherai",
+        "approcheras",
+        "approchera",
+        "approcherons",
+        "approcherez",
+        "approcheront"
+      ],
+      "imparfait": [
+        "approchais",
+        "approchais",
+        "approchait",
+        "approchions",
+        "approchiez",
+        "approchaient"
+      ],
+      "passeSimple": [
+        "approchai",
+        "approchas",
+        "approcha",
+        "approchâmes",
+        "approchâtes",
+        "approchèrent"
+      ]
+    }
+  },
+  {
+    "word": "éloigner",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre quelque chose ou quelqu’un plus loin.",
+    "example": "Elle éloigne le vase du bord.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "éloigner ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "éloigner ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "éloigner ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "éloigner ",
+            "suffisamment",
+            "suffisamment",
+            ""
+          ],
+          [
+            "éloigner ",
+            "délicatement",
+            "délicatement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "éloigné",
+      "éloignée",
+      "éloignés",
+      "éloignées"
+    ],
+    "conjugations": {
+      "present": [
+        "éloigne",
+        "éloignes",
+        "éloigne",
+        "éloignons",
+        "éloignez",
+        "éloignent"
+      ],
+      "futur": [
+        "éloignerai",
+        "éloigneras",
+        "éloignera",
+        "éloignerons",
+        "éloignerez",
+        "éloigneront"
+      ],
+      "imparfait": [
+        "éloignais",
+        "éloignais",
+        "éloignait",
+        "éloignions",
+        "éloigniez",
+        "éloignaient"
+      ],
+      "passeSimple": [
+        "éloignai",
+        "éloignas",
+        "éloigna",
+        "éloignâmes",
+        "éloignâtes",
+        "éloignèrent"
+      ]
+    }
+  },
+  {
+    "word": "accompagner",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aller avec quelqu’un pour lui tenir compagnie ou l’aider.",
+    "example": "J’accompagne ma sœur à l’école.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "accompagner ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "accompagner ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "accompagner ",
+            "fidèlement",
+            "fidèlement",
+            ""
+          ],
+          [
+            "accompagner ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "accompagner ",
+            "discrètement",
+            "discrètement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "accompagné",
+      "accompagnée",
+      "accompagnés",
+      "accompagnées"
+    ],
+    "conjugations": {
+      "present": [
+        "accompagne",
+        "accompagnes",
+        "accompagne",
+        "accompagnons",
+        "accompagnez",
+        "accompagnent"
+      ],
+      "futur": [
+        "accompagnerai",
+        "accompagneras",
+        "accompagnera",
+        "accompagnerons",
+        "accompagnerez",
+        "accompagneront"
+      ],
+      "imparfait": [
+        "accompagnais",
+        "accompagnais",
+        "accompagnait",
+        "accompagnions",
+        "accompagniez",
+        "accompagnaient"
+      ],
+      "passeSimple": [
+        "accompagnai",
+        "accompagnas",
+        "accompagna",
+        "accompagnâmes",
+        "accompagnâtes",
+        "accompagnèrent"
+      ]
+    }
+  },
+  {
+    "word": "rencontrer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Se trouver en présence de quelqu’un ou faire sa connaissance.",
+    "example": "Nous rencontrons notre nouvelle voisine.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "rencontrer ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "rencontrer ",
+            "fréquemment",
+            "fréquemment",
+            ""
+          ],
+          [
+            "rencontrer ",
+            "rarement",
+            "rarement",
+            ""
+          ],
+          [
+            "rencontrer ",
+            "fortuitement",
+            "fortuitement",
+            ""
+          ],
+          [
+            "rencontrer ",
+            "personnellement",
+            "personnellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "rencontré",
+      "rencontrée",
+      "rencontrés",
+      "rencontrées"
+    ],
+    "conjugations": {
+      "present": [
+        "rencontre",
+        "rencontres",
+        "rencontre",
+        "rencontrons",
+        "rencontrez",
+        "rencontrent"
+      ],
+      "futur": [
+        "rencontrerai",
+        "rencontreras",
+        "rencontrera",
+        "rencontrerons",
+        "rencontrerez",
+        "rencontreront"
+      ],
+      "imparfait": [
+        "rencontrais",
+        "rencontrais",
+        "rencontrait",
+        "rencontrions",
+        "rencontriez",
+        "rencontraient"
+      ],
+      "passeSimple": [
+        "rencontrai",
+        "rencontras",
+        "rencontra",
+        "rencontrâmes",
+        "rencontrâtes",
+        "rencontrèrent"
+      ]
+    }
+  },
+  {
+    "word": "inviter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Proposer à quelqu’un de venir ou de participer à quelque chose.",
+    "example": "Elle invite ses amis à jouer.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "inviter ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "inviter ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ],
+          [
+            "inviter ",
+            "cordialement",
+            "cordialement",
+            ""
+          ],
+          [
+            "inviter ",
+            "personnellement",
+            "personnellement",
+            ""
+          ],
+          [
+            "inviter ",
+            "officiellement",
+            "officiellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "invité",
+      "invitée",
+      "invités",
+      "invitées"
+    ],
+    "conjugations": {
+      "present": [
+        "invite",
+        "invites",
+        "invite",
+        "invitons",
+        "invitez",
+        "invitent"
+      ],
+      "futur": [
+        "inviterai",
+        "inviteras",
+        "invitera",
+        "inviterons",
+        "inviterez",
+        "inviteront"
+      ],
+      "imparfait": [
+        "invitais",
+        "invitais",
+        "invitait",
+        "invitions",
+        "invitiez",
+        "invitaient"
+      ],
+      "passeSimple": [
+        "invitai",
+        "invitas",
+        "invita",
+        "invitâmes",
+        "invitâtes",
+        "invitèrent"
+      ]
+    }
+  },
+  {
+    "word": "remercier",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Exprimer à quelqu’un sa reconnaissance pour ce qu’il a fait.",
+    "example": "Je remercie mon voisin pour son aide.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "remercier ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ],
+          [
+            "remercier ",
+            "sincèrement",
+            "sincèrement",
+            ""
+          ],
+          [
+            "remercier ",
+            "poliment",
+            "poliment",
+            ""
+          ],
+          [
+            "remercier ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "remercier ",
+            "vivement",
+            "vivement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "remercié",
+      "remerciée",
+      "remerciés",
+      "remerciées"
+    ],
+    "conjugations": {
+      "present": [
+        "remercie",
+        "remercies",
+        "remercie",
+        "remercions",
+        "remerciez",
+        "remercient"
+      ],
+      "futur": [
+        "remercierai",
+        "remercieras",
+        "remerciera",
+        "remercierons",
+        "remercierez",
+        "remercieront"
+      ],
+      "imparfait": [
+        "remerciais",
+        "remerciais",
+        "remerciait",
+        "remerciions",
+        "remerciiez",
+        "remerciaient"
+      ],
+      "passeSimple": [
+        "remerciai",
+        "remercias",
+        "remercia",
+        "remerciâmes",
+        "remerciâtes",
+        "remercièrent"
+      ]
+    }
+  },
+  {
+    "word": "saluer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Adresser un geste ou une parole à quelqu’un que l’on rencontre ou que l’on quitte.",
+    "example": "Il salue le conducteur du bus.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "saluer ",
+            "poliment",
+            "poliment",
+            ""
+          ],
+          [
+            "saluer ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "saluer ",
+            "amicalement",
+            "amicalement",
+            ""
+          ],
+          [
+            "saluer ",
+            "respectueusement",
+            "respectueusement",
+            ""
+          ],
+          [
+            "saluer ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "salué",
+      "saluée",
+      "salués",
+      "saluées"
+    ],
+    "conjugations": {
+      "present": [
+        "salue",
+        "salues",
+        "salue",
+        "saluons",
+        "saluez",
+        "saluent"
+      ],
+      "futur": [
+        "saluerai",
+        "salueras",
+        "saluera",
+        "saluerons",
+        "saluerez",
+        "salueront"
+      ],
+      "imparfait": [
+        "saluais",
+        "saluais",
+        "saluait",
+        "saluions",
+        "saluiez",
+        "saluaient"
+      ],
+      "passeSimple": [
+        "saluai",
+        "saluas",
+        "salua",
+        "saluâmes",
+        "saluâtes",
+        "saluèrent"
+      ]
+    }
+  },
+  {
+    "word": "féliciter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Exprimer à quelqu’un sa satisfaction pour sa réussite ou son action.",
+    "example": "Elle félicite l’équipe pour sa victoire.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "féliciter ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ],
+          [
+            "féliciter ",
+            "sincèrement",
+            "sincèrement",
+            ""
+          ],
+          [
+            "féliciter ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "féliciter ",
+            "publiquement",
+            "publiquement",
+            ""
+          ],
+          [
+            "féliciter ",
+            "personnellement",
+            "personnellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "félicité",
+      "félicitée",
+      "félicités",
+      "félicitées"
+    ],
+    "conjugations": {
+      "present": [
+        "félicite",
+        "félicites",
+        "félicite",
+        "félicitons",
+        "félicitez",
+        "félicitent"
+      ],
+      "futur": [
+        "féliciterai",
+        "féliciteras",
+        "félicitera",
+        "féliciterons",
+        "féliciterez",
+        "féliciteront"
+      ],
+      "imparfait": [
+        "félicitais",
+        "félicitais",
+        "félicitait",
+        "félicitions",
+        "félicitiez",
+        "félicitaient"
+      ],
+      "passeSimple": [
+        "félicitai",
+        "félicitas",
+        "félicita",
+        "félicitâmes",
+        "félicitâtes",
+        "félicitèrent"
+      ]
+    }
+  },
+  {
+    "word": "encourager",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner confiance ou envie de poursuivre un effort.",
+    "example": "Le public encourage les coureurs.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "encourager ",
+            "vivement",
+            "vivement",
+            ""
+          ],
+          [
+            "encourager ",
+            "chaleureusement",
+            "chaleureusement",
+            ""
+          ],
+          [
+            "encourager ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "encourager ",
+            "activement",
+            "activement",
+            ""
+          ],
+          [
+            "encourager ",
+            "constamment",
+            "constamment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "encouragé",
+      "encouragée",
+      "encouragés",
+      "encouragées"
+    ],
+    "conjugations": {
+      "present": [
+        "encourage",
+        "encourages",
+        "encourage",
+        "encourageons",
+        "encouragez",
+        "encouragent"
+      ],
+      "futur": [
+        "encouragerai",
+        "encourageras",
+        "encouragera",
+        "encouragerons",
+        "encouragerez",
+        "encourageront"
+      ],
+      "imparfait": [
+        "encourageais",
+        "encourageais",
+        "encourageait",
+        "encouragions",
+        "encouragiez",
+        "encourageaient"
+      ],
+      "passeSimple": [
+        "encourageai",
+        "encourageas",
+        "encouragea",
+        "encourageâmes",
+        "encourageâtes",
+        "encouragèrent"
+      ]
+    }
+  },
+  {
+    "word": "consoler",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aider quelqu’un à se sentir moins triste.",
+    "example": "Il console son ami après la défaite.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "consoler ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "consoler ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "consoler ",
+            "tendrement",
+            "tendrement",
+            ""
+          ],
+          [
+            "consoler ",
+            "affectueusement",
+            "affectueusement",
+            ""
+          ],
+          [
+            "consoler ",
+            "patiemment",
+            "patiemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "consolé",
+      "consolée",
+      "consolés",
+      "consolées"
+    ],
+    "conjugations": {
+      "present": [
+        "console",
+        "consoles",
+        "console",
+        "consolons",
+        "consolez",
+        "consolent"
+      ],
+      "futur": [
+        "consolerai",
+        "consoleras",
+        "consolera",
+        "consolerons",
+        "consolerez",
+        "consoleront"
+      ],
+      "imparfait": [
+        "consolais",
+        "consolais",
+        "consolait",
+        "consolions",
+        "consoliez",
+        "consolaient"
+      ],
+      "passeSimple": [
+        "consolai",
+        "consolas",
+        "consola",
+        "consolâmes",
+        "consolâtes",
+        "consolèrent"
+      ]
+    }
+  },
+  {
+    "word": "rassurer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Aider quelqu’un à avoir moins peur ou moins d’inquiétude.",
+    "example": "Elle rassure l’enfant avant la visite.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "rassurer ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "rassurer ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "rassurer ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "rassurer ",
+            "efficacement",
+            "efficacement",
+            ""
+          ],
+          [
+            "rassurer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "rassuré",
+      "rassurée",
+      "rassurés",
+      "rassurées"
+    ],
+    "conjugations": {
+      "present": [
+        "rassure",
+        "rassures",
+        "rassure",
+        "rassurons",
+        "rassurez",
+        "rassurent"
+      ],
+      "futur": [
+        "rassurerai",
+        "rassureras",
+        "rassurera",
+        "rassurerons",
+        "rassurerez",
+        "rassureront"
+      ],
+      "imparfait": [
+        "rassurais",
+        "rassurais",
+        "rassurait",
+        "rassurions",
+        "rassuriez",
+        "rassuraient"
+      ],
+      "passeSimple": [
+        "rassurai",
+        "rassuras",
+        "rassura",
+        "rassurâmes",
+        "rassurâtes",
+        "rassurèrent"
+      ]
+    }
+  },
+  {
+    "word": "protéger",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre quelqu’un ou quelque chose à l’abri d’un danger ou d’un dommage.",
+    "example": "Le casque protège la tête.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "protéger ",
+            "efficacement",
+            "efficacement",
+            ""
+          ],
+          [
+            "protéger ",
+            "solidement",
+            "solidement",
+            ""
+          ],
+          [
+            "protéger ",
+            "durablement",
+            "durablement",
+            ""
+          ],
+          [
+            "protéger ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "protéger ",
+            "suffisamment",
+            "suffisamment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "protégé",
+      "protégée",
+      "protégés",
+      "protégées"
+    ],
+    "conjugations": {
+      "present": [
+        "protège",
+        "protèges",
+        "protège",
+        "protégeons",
+        "protégez",
+        "protègent"
+      ],
+      "futur": [
+        "protégerai",
+        "protégeras",
+        "protégera",
+        "protégerons",
+        "protégerez",
+        "protégeront"
+      ],
+      "imparfait": [
+        "protégeais",
+        "protégeais",
+        "protégeait",
+        "protégions",
+        "protégiez",
+        "protégeaient"
+      ],
+      "passeSimple": [
+        "protégeai",
+        "protégeas",
+        "protégea",
+        "protégeâmes",
+        "protégeâtes",
+        "protégèrent"
+      ]
+    }
+  },
+  {
+    "word": "respecter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Traiter quelqu’un ou quelque chose avec considération ; suivre une règle.",
+    "example": "Nous respectons les consignes.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "respecter ",
+            "scrupuleusement",
+            "scrupuleusement",
+            ""
+          ],
+          [
+            "respecter ",
+            "strictement",
+            "strictement",
+            ""
+          ],
+          [
+            "respecter ",
+            "pleinement",
+            "pleinement",
+            ""
+          ],
+          [
+            "respecter ",
+            "rigoureusement",
+            "rigoureusement",
+            ""
+          ],
+          [
+            "respecter ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "respecté",
+      "respectée",
+      "respectés",
+      "respectées"
+    ],
+    "conjugations": {
+      "present": [
+        "respecte",
+        "respectes",
+        "respecte",
+        "respectons",
+        "respectez",
+        "respectent"
+      ],
+      "futur": [
+        "respecterai",
+        "respecteras",
+        "respectera",
+        "respecterons",
+        "respecterez",
+        "respecteront"
+      ],
+      "imparfait": [
+        "respectais",
+        "respectais",
+        "respectait",
+        "respections",
+        "respectiez",
+        "respectaient"
+      ],
+      "passeSimple": [
+        "respectai",
+        "respectas",
+        "respecta",
+        "respectâmes",
+        "respectâtes",
+        "respectèrent"
+      ]
+    }
+  },
+  {
+    "word": "partager",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Diviser quelque chose en plusieurs parts ou l’utiliser avec d’autres.",
+    "example": "Elle partage son goûter.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "partager ",
+            "équitablement",
+            "équitablement",
+            ""
+          ],
+          [
+            "partager ",
+            "généreusement",
+            "généreusement",
+            ""
+          ],
+          [
+            "partager ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "partager ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "partager ",
+            "fraternellement",
+            "fraternellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "partagé",
+      "partagée",
+      "partagés",
+      "partagées"
+    ],
+    "conjugations": {
+      "present": [
+        "partage",
+        "partages",
+        "partage",
+        "partageons",
+        "partagez",
+        "partagent"
+      ],
+      "futur": [
+        "partagerai",
+        "partageras",
+        "partagera",
+        "partagerons",
+        "partagerez",
+        "partageront"
+      ],
+      "imparfait": [
+        "partageais",
+        "partageais",
+        "partageait",
+        "partagions",
+        "partagiez",
+        "partageaient"
+      ],
+      "passeSimple": [
+        "partageai",
+        "partageas",
+        "partagea",
+        "partageâmes",
+        "partageâtes",
+        "partagèrent"
+      ]
+    }
+  },
+  {
+    "word": "échanger",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner une chose pour en recevoir une autre ; mettre en commun des idées.",
+    "example": "Nous échangeons nos livres.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "échanger ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "échanger ",
+            "amicalement",
+            "amicalement",
+            ""
+          ],
+          [
+            "échanger ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "échanger ",
+            "directement",
+            "directement",
+            ""
+          ],
+          [
+            "échanger ",
+            "équitablement",
+            "équitablement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "échangé",
+      "échangée",
+      "échangés",
+      "échangées"
+    ],
+    "conjugations": {
+      "present": [
+        "échange",
+        "échanges",
+        "échange",
+        "échangeons",
+        "échangez",
+        "échangent"
+      ],
+      "futur": [
+        "échangerai",
+        "échangeras",
+        "échangera",
+        "échangerons",
+        "échangerez",
+        "échangeront"
+      ],
+      "imparfait": [
+        "échangeais",
+        "échangeais",
+        "échangeait",
+        "échangions",
+        "échangiez",
+        "échangeaient"
+      ],
+      "passeSimple": [
+        "échangeai",
+        "échangeas",
+        "échangea",
+        "échangeâmes",
+        "échangeâtes",
+        "échangèrent"
+      ]
+    }
+  },
+  {
+    "word": "prêter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Donner temporairement quelque chose à quelqu’un qui devra le rendre.",
+    "example": "Je prête ma règle à mon voisin.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "prêter ",
+            "gentiment",
+            "gentiment",
+            ""
+          ],
+          [
+            "prêter ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "prêter ",
+            "gratuitement",
+            "gratuitement",
+            ""
+          ],
+          [
+            "prêter ",
+            "généreusement",
+            "généreusement",
+            ""
+          ],
+          [
+            "prêter ",
+            "temporairement",
+            "temporairement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "prêté",
+      "prêtée",
+      "prêtés",
+      "prêtées"
+    ],
+    "conjugations": {
+      "present": [
+        "prête",
+        "prêtes",
+        "prête",
+        "prêtons",
+        "prêtez",
+        "prêtent"
+      ],
+      "futur": [
+        "prêterai",
+        "prêteras",
+        "prêtera",
+        "prêterons",
+        "prêterez",
+        "prêteront"
+      ],
+      "imparfait": [
+        "prêtais",
+        "prêtais",
+        "prêtait",
+        "prêtions",
+        "prêtiez",
+        "prêtaient"
+      ],
+      "passeSimple": [
+        "prêtai",
+        "prêtas",
+        "prêta",
+        "prêtâmes",
+        "prêtâtes",
+        "prêtèrent"
+      ]
+    }
+  },
+  {
+    "word": "emprunter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Recevoir temporairement quelque chose que l’on devra rendre.",
+    "example": "Elle emprunte un livre à la bibliothèque.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "emprunter ",
+            "gratuitement",
+            "gratuitement",
+            ""
+          ],
+          [
+            "emprunter ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "emprunter ",
+            "temporairement",
+            "temporairement",
+            ""
+          ],
+          [
+            "emprunter ",
+            "occasionnellement",
+            "occasionnellement",
+            ""
+          ],
+          [
+            "emprunter ",
+            "légalement",
+            "légalement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "emprunté",
+      "empruntée",
+      "empruntés",
+      "empruntées"
+    ],
+    "conjugations": {
+      "present": [
+        "emprunte",
+        "empruntes",
+        "emprunte",
+        "empruntons",
+        "empruntez",
+        "empruntent"
+      ],
+      "futur": [
+        "emprunterai",
+        "emprunteras",
+        "empruntera",
+        "emprunterons",
+        "emprunterez",
+        "emprunteront"
+      ],
+      "imparfait": [
+        "empruntais",
+        "empruntais",
+        "empruntait",
+        "empruntions",
+        "empruntiez",
+        "empruntaient"
+      ],
+      "passeSimple": [
+        "empruntai",
+        "empruntas",
+        "emprunta",
+        "empruntâmes",
+        "empruntâtes",
+        "empruntèrent"
+      ]
+    }
+  },
+  {
+    "word": "économiser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Utiliser moins de quelque chose ou garder de l’argent pour plus tard.",
+    "example": "Nous économisons l’eau.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "économiser ",
+            "efficacement",
+            "efficacement",
+            ""
+          ],
+          [
+            "économiser ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "économiser ",
+            "régulièrement",
+            "régulièrement",
+            ""
+          ],
+          [
+            "économiser ",
+            "intelligemment",
+            "intelligemment",
+            ""
+          ],
+          [
+            "économiser ",
+            "durablement",
+            "durablement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "économisé",
+      "économisée",
+      "économisés",
+      "économisées"
+    ],
+    "conjugations": {
+      "present": [
+        "économise",
+        "économises",
+        "économise",
+        "économisons",
+        "économisez",
+        "économisent"
+      ],
+      "futur": [
+        "économiserai",
+        "économiseras",
+        "économisera",
+        "économiserons",
+        "économiserez",
+        "économiseront"
+      ],
+      "imparfait": [
+        "économisais",
+        "économisais",
+        "économisait",
+        "économisions",
+        "économisiez",
+        "économisaient"
+      ],
+      "passeSimple": [
+        "économisai",
+        "économisas",
+        "économisa",
+        "économisâmes",
+        "économisâtes",
+        "économisèrent"
+      ]
+    }
+  },
+  {
+    "word": "dépenser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Utiliser de l’argent pour obtenir quelque chose.",
+    "example": "Il dépense ses économies pour un vélo.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "dépenser ",
+            "raisonnablement",
+            "raisonnablement",
+            ""
+          ],
+          [
+            "dépenser ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "dépenser ",
+            "inutilement",
+            "inutilement",
+            ""
+          ],
+          [
+            "dépenser ",
+            "excessivement",
+            "excessivement",
+            ""
+          ],
+          [
+            "dépenser ",
+            "librement",
+            "librement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "dépensé",
+      "dépensée",
+      "dépensés",
+      "dépensées"
+    ],
+    "conjugations": {
+      "present": [
+        "dépense",
+        "dépenses",
+        "dépense",
+        "dépensons",
+        "dépensez",
+        "dépensent"
+      ],
+      "futur": [
+        "dépenserai",
+        "dépenseras",
+        "dépensera",
+        "dépenserons",
+        "dépenserez",
+        "dépenseront"
+      ],
+      "imparfait": [
+        "dépensais",
+        "dépensais",
+        "dépensait",
+        "dépensions",
+        "dépensiez",
+        "dépensaient"
+      ],
+      "passeSimple": [
+        "dépensai",
+        "dépensas",
+        "dépensa",
+        "dépensâmes",
+        "dépensâtes",
+        "dépensèrent"
+      ]
+    }
+  },
+  {
+    "word": "gagner",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Obtenir une victoire, un avantage ou une somme d’argent.",
+    "example": "Notre équipe gagne le match.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "gagner ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "gagner ",
+            "difficilement",
+            "difficilement",
+            ""
+          ],
+          [
+            "gagner ",
+            "brillamment",
+            "brillamment",
+            ""
+          ],
+          [
+            "gagner ",
+            "largement",
+            "largement",
+            ""
+          ],
+          [
+            "gagner ",
+            "nettement",
+            "nettement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "gagné",
+      "gagnée",
+      "gagnés",
+      "gagnées"
+    ],
+    "conjugations": {
+      "present": [
+        "gagne",
+        "gagnes",
+        "gagne",
+        "gagnons",
+        "gagnez",
+        "gagnent"
+      ],
+      "futur": [
+        "gagnerai",
+        "gagneras",
+        "gagnera",
+        "gagnerons",
+        "gagnerez",
+        "gagneront"
+      ],
+      "imparfait": [
+        "gagnais",
+        "gagnais",
+        "gagnait",
+        "gagnions",
+        "gagniez",
+        "gagnaient"
+      ],
+      "passeSimple": [
+        "gagnai",
+        "gagnas",
+        "gagna",
+        "gagnâmes",
+        "gagnâtes",
+        "gagnèrent"
+      ]
+    }
+  },
+  {
+    "word": "attraper",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Saisir ce qui bouge ou réussir à le retenir.",
+    "example": "Elle attrape le ballon.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "attraper ",
+            "adroitement",
+            "adroitement",
+            ""
+          ],
+          [
+            "attraper ",
+            "habilement",
+            "habilement",
+            ""
+          ],
+          [
+            "attraper ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "attraper ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "attraper ",
+            "difficilement",
+            "difficilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "attrapé",
+      "attrapée",
+      "attrapés",
+      "attrapées"
+    ],
+    "conjugations": {
+      "present": [
+        "attrape",
+        "attrapes",
+        "attrape",
+        "attrapons",
+        "attrapez",
+        "attrapent"
+      ],
+      "futur": [
+        "attraperai",
+        "attraperas",
+        "attrapera",
+        "attraperons",
+        "attraperez",
+        "attraperont"
+      ],
+      "imparfait": [
+        "attrapais",
+        "attrapais",
+        "attrapait",
+        "attrapions",
+        "attrapiez",
+        "attrapaient"
+      ],
+      "passeSimple": [
+        "attrapai",
+        "attrapas",
+        "attrapa",
+        "attrapâmes",
+        "attrapâtes",
+        "attrapèrent"
+      ]
+    }
+  },
+  {
+    "word": "lancer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Envoyer quelque chose au loin par un mouvement.",
+    "example": "Il lance la balle.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "lancer ",
+            "loin",
+            "loin",
+            ""
+          ],
+          [
+            "lancer ",
+            "haut",
+            "haut",
+            ""
+          ],
+          [
+            "lancer ",
+            "fort",
+            "fort",
+            ""
+          ],
+          [
+            "lancer ",
+            "adroitement",
+            "adroitement",
+            ""
+          ],
+          [
+            "lancer ",
+            "précisément",
+            "précisément",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "lancé",
+      "lancée",
+      "lancés",
+      "lancées"
+    ],
+    "conjugations": {
+      "present": [
+        "lance",
+        "lances",
+        "lance",
+        "lançons",
+        "lancez",
+        "lancent"
+      ],
+      "futur": [
+        "lancerai",
+        "lanceras",
+        "lancera",
+        "lancerons",
+        "lancerez",
+        "lanceront"
+      ],
+      "imparfait": [
+        "lançais",
+        "lançais",
+        "lançait",
+        "lancions",
+        "lanciez",
+        "lançaient"
+      ],
+      "passeSimple": [
+        "lançai",
+        "lanças",
+        "lança",
+        "lançâmes",
+        "lançâtes",
+        "lancèrent"
+      ]
+    }
+  },
+  {
+    "word": "ramasser",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Prendre quelque chose qui est au sol ou réunir des objets dispersés.",
+    "example": "Nous ramassons les feuilles.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "ramasser ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "ramasser ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "ramasser ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "ramasser ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "ramasser ",
+            "manuellement",
+            "manuellement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "ramassé",
+      "ramassée",
+      "ramassés",
+      "ramassées"
+    ],
+    "conjugations": {
+      "present": [
+        "ramasse",
+        "ramasses",
+        "ramasse",
+        "ramassons",
+        "ramassez",
+        "ramassent"
+      ],
+      "futur": [
+        "ramasserai",
+        "ramasseras",
+        "ramassera",
+        "ramasserons",
+        "ramasserez",
+        "ramasseront"
+      ],
+      "imparfait": [
+        "ramassais",
+        "ramassais",
+        "ramassait",
+        "ramassions",
+        "ramassiez",
+        "ramassaient"
+      ],
+      "passeSimple": [
+        "ramassai",
+        "ramassas",
+        "ramassa",
+        "ramassâmes",
+        "ramassâtes",
+        "ramassèrent"
+      ]
+    }
+  },
+  {
+    "word": "soulever",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Déplacer quelque chose vers le haut en le portant.",
+    "example": "Elle soulève le couvercle.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "soulever ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "soulever ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "soulever ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "soulever ",
+            "difficilement",
+            "difficilement",
+            ""
+          ],
+          [
+            "soulever ",
+            "prudemment",
+            "prudemment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "soulevé",
+      "soulevée",
+      "soulevés",
+      "soulevées"
+    ],
+    "conjugations": {
+      "present": [
+        "soulève",
+        "soulèves",
+        "soulève",
+        "soulevons",
+        "soulevez",
+        "soulèvent"
+      ],
+      "futur": [
+        "soulèverai",
+        "soulèveras",
+        "soulèvera",
+        "soulèverons",
+        "soulèverez",
+        "soulèveront"
+      ],
+      "imparfait": [
+        "soulevais",
+        "soulevais",
+        "soulevait",
+        "soulevions",
+        "souleviez",
+        "soulevaient"
+      ],
+      "passeSimple": [
+        "soulevai",
+        "soulevas",
+        "souleva",
+        "soulevâmes",
+        "soulevâtes",
+        "soulevèrent"
+      ]
+    }
+  },
+  {
+    "word": "transporter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Déplacer une personne ou une chose d’un lieu à un autre.",
+    "example": "Le camion transporte des meubles.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "transporter ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "transporter ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "transporter ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "transporter ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "transporter ",
+            "gratuitement",
+            "gratuitement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "transporté",
+      "transportée",
+      "transportés",
+      "transportées"
+    ],
+    "conjugations": {
+      "present": [
+        "transporte",
+        "transportes",
+        "transporte",
+        "transportons",
+        "transportez",
+        "transportent"
+      ],
+      "futur": [
+        "transporterai",
+        "transporteras",
+        "transportera",
+        "transporterons",
+        "transporterez",
+        "transporteront"
+      ],
+      "imparfait": [
+        "transportais",
+        "transportais",
+        "transportait",
+        "transportions",
+        "transportiez",
+        "transportaient"
+      ],
+      "passeSimple": [
+        "transportai",
+        "transportas",
+        "transporta",
+        "transportâmes",
+        "transportâtes",
+        "transportèrent"
+      ]
+    }
+  },
+  {
+    "word": "déplacer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Changer quelque chose ou quelqu’un de place.",
+    "example": "Je déplace la chaise.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "déplacer ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "déplacer ",
+            "prudemment",
+            "prudemment",
+            ""
+          ],
+          [
+            "déplacer ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "déplacer ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "déplacer ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "déplacé",
+      "déplacée",
+      "déplacés",
+      "déplacées"
+    ],
+    "conjugations": {
+      "present": [
+        "déplace",
+        "déplaces",
+        "déplace",
+        "déplaçons",
+        "déplacez",
+        "déplacent"
+      ],
+      "futur": [
+        "déplacerai",
+        "déplaceras",
+        "déplacera",
+        "déplacerons",
+        "déplacerez",
+        "déplaceront"
+      ],
+      "imparfait": [
+        "déplaçais",
+        "déplaçais",
+        "déplaçait",
+        "déplacions",
+        "déplaciez",
+        "déplaçaient"
+      ],
+      "passeSimple": [
+        "déplaçai",
+        "déplaças",
+        "déplaça",
+        "déplaçâmes",
+        "déplaçâtes",
+        "déplacèrent"
+      ]
+    }
+  },
+  {
+    "word": "retourner",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Mettre sur l’autre face ou aller de nouveau dans un lieu.",
+    "example": "Elle retourne la crêpe.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "retourner ",
+            "délicatement",
+            "délicatement",
+            ""
+          ],
+          [
+            "retourner ",
+            "habilement",
+            "habilement",
+            ""
+          ],
+          [
+            "retourner ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "retourner ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "retourner ",
+            "facilement",
+            "facilement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "retourné",
+      "retournée",
+      "retournés",
+      "retournées"
+    ],
+    "conjugations": {
+      "present": [
+        "retourne",
+        "retournes",
+        "retourne",
+        "retournons",
+        "retournez",
+        "retournent"
+      ],
+      "futur": [
+        "retournerai",
+        "retourneras",
+        "retournera",
+        "retournerons",
+        "retournerez",
+        "retourneront"
+      ],
+      "imparfait": [
+        "retournais",
+        "retournais",
+        "retournait",
+        "retournions",
+        "retourniez",
+        "retournaient"
+      ],
+      "passeSimple": [
+        "retournai",
+        "retournas",
+        "retourna",
+        "retournâmes",
+        "retournâtes",
+        "retournèrent"
+      ]
+    }
+  },
+  {
+    "word": "répéter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Dire ou faire de nouveau quelque chose.",
+    "example": "Il répète la consigne.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "répéter ",
+            "clairement",
+            "clairement",
+            ""
+          ],
+          [
+            "répéter ",
+            "lentement",
+            "lentement",
+            ""
+          ],
+          [
+            "répéter ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "répéter ",
+            "fidèlement",
+            "fidèlement",
+            ""
+          ],
+          [
+            "répéter ",
+            "distinctement",
+            "distinctement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "répété",
+      "répétée",
+      "répétés",
+      "répétées"
+    ],
+    "conjugations": {
+      "present": [
+        "répète",
+        "répètes",
+        "répète",
+        "répétons",
+        "répétez",
+        "répètent"
+      ],
+      "futur": [
+        "répéterai",
+        "répéteras",
+        "répétera",
+        "répéterons",
+        "répéterez",
+        "répéteront"
+      ],
+      "imparfait": [
+        "répétais",
+        "répétais",
+        "répétait",
+        "répétions",
+        "répétiez",
+        "répétaient"
+      ],
+      "passeSimple": [
+        "répétai",
+        "répétas",
+        "répéta",
+        "répétâmes",
+        "répétâtes",
+        "répétèrent"
+      ]
+    }
+  },
+  {
+    "word": "vérifier",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Contrôler si quelque chose est correct ou fonctionne comme prévu.",
+    "example": "Je vérifie mon calcul.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "vérifier ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "vérifier ",
+            "attentivement",
+            "attentivement",
+            ""
+          ],
+          [
+            "vérifier ",
+            "minutieusement",
+            "minutieusement",
+            ""
+          ],
+          [
+            "vérifier ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "vérifier ",
+            "systématiquement",
+            "systématiquement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "vérifié",
+      "vérifiée",
+      "vérifiés",
+      "vérifiées"
+    ],
+    "conjugations": {
+      "present": [
+        "vérifie",
+        "vérifies",
+        "vérifie",
+        "vérifions",
+        "vérifiez",
+        "vérifient"
+      ],
+      "futur": [
+        "vérifierai",
+        "vérifieras",
+        "vérifiera",
+        "vérifierons",
+        "vérifierez",
+        "vérifieront"
+      ],
+      "imparfait": [
+        "vérifiais",
+        "vérifiais",
+        "vérifiait",
+        "vérifiions",
+        "vérifiiez",
+        "vérifiaient"
+      ],
+      "passeSimple": [
+        "vérifiai",
+        "vérifias",
+        "vérifia",
+        "vérifiâmes",
+        "vérifiâtes",
+        "vérifièrent"
+      ]
+    }
+  },
+  {
+    "word": "corriger",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Remplacer ce qui est faux par ce qui est juste ; améliorer un défaut.",
+    "example": "Elle corrige une erreur.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "corriger ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "corriger ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "corriger ",
+            "attentivement",
+            "attentivement",
+            ""
+          ],
+          [
+            "corriger ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "corriger ",
+            "minutieusement",
+            "minutieusement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "corrigé",
+      "corrigée",
+      "corrigés",
+      "corrigées"
+    ],
+    "conjugations": {
+      "present": [
+        "corrige",
+        "corriges",
+        "corrige",
+        "corrigeons",
+        "corrigez",
+        "corrigent"
+      ],
+      "futur": [
+        "corrigerai",
+        "corrigeras",
+        "corrigera",
+        "corrigerons",
+        "corrigerez",
+        "corrigeront"
+      ],
+      "imparfait": [
+        "corrigeais",
+        "corrigeais",
+        "corrigeait",
+        "corrigions",
+        "corrigiez",
+        "corrigeaient"
+      ],
+      "passeSimple": [
+        "corrigeai",
+        "corrigeas",
+        "corrigea",
+        "corrigeâmes",
+        "corrigeâtes",
+        "corrigèrent"
+      ]
+    }
+  },
+  {
+    "word": "améliorer",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Rendre meilleur.",
+    "example": "L’entraînement améliore notre vitesse.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "améliorer ",
+            "nettement",
+            "nettement",
+            ""
+          ],
+          [
+            "améliorer ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "améliorer ",
+            "considérablement",
+            "considérablement",
+            ""
+          ],
+          [
+            "améliorer ",
+            "durablement",
+            "durablement",
+            ""
+          ],
+          [
+            "améliorer ",
+            "constamment",
+            "constamment",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "amélioré",
+      "améliorée",
+      "améliorés",
+      "améliorées"
+    ],
+    "conjugations": {
+      "present": [
+        "améliore",
+        "améliores",
+        "améliore",
+        "améliorons",
+        "améliorez",
+        "améliorent"
+      ],
+      "futur": [
+        "améliorerai",
+        "amélioreras",
+        "améliorera",
+        "améliorerons",
+        "améliorerez",
+        "amélioreront"
+      ],
+      "imparfait": [
+        "améliorais",
+        "améliorais",
+        "améliorait",
+        "améliorions",
+        "amélioriez",
+        "amélioraient"
+      ],
+      "passeSimple": [
+        "améliorai",
+        "amélioras",
+        "améliora",
+        "améliorâmes",
+        "améliorâtes",
+        "améliorèrent"
+      ]
+    }
+  },
+  {
+    "word": "compléter",
+    "nature": "verbe",
+    "batch": "002",
+    "definition": "Ajouter ce qui manque pour rendre quelque chose entier ou suffisant.",
+    "example": "Nous complétons le tableau avec les résultats.",
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Pour préciser la manière ou les circonstances.",
+        [
+          [
+            "compléter ",
+            "correctement",
+            "correctement",
+            ""
+          ],
+          [
+            "compléter ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "compléter ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "compléter ",
+            "utilement",
+            "utilement",
+            ""
+          ],
+          [
+            "compléter ",
+            "rapidement",
+            "rapidement",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "forms": [
+      "complété",
+      "complétée",
+      "complétés",
+      "complétées"
+    ],
+    "conjugations": {
+      "present": [
+        "complète",
+        "complètes",
+        "complète",
+        "complétons",
+        "complétez",
+        "complètent"
+      ],
+      "futur": [
+        "compléterai",
+        "compléteras",
+        "complétera",
+        "compléterons",
+        "compléterez",
+        "compléteront"
+      ],
+      "imparfait": [
+        "complétais",
+        "complétais",
+        "complétait",
+        "complétions",
+        "complétiez",
+        "complétaient"
+      ],
+      "passeSimple": [
+        "complétai",
+        "complétas",
+        "compléta",
+        "complétâmes",
+        "complétâtes",
+        "complétèrent"
+      ]
+    }
+  }
+]

@@ -23033,7 +23033,133 @@
     "a": "jaser",
     "b": "crier",
     "type": "synonym",
-    "note": "Mots de sens proche ou opposé dans le sens indiqué ; le remplacement dépend de la phrase.",
+    "note": "Pour le sens animal de « jaser » : pousser son cri, en parlant de certains oiseaux.",
     "batch": "009"
+  },
+  {
+    "type": "synonym",
+    "a": "bâcler",
+    "b": "négliger",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "bagarrer",
+    "b": "battre",
+    "note": "Pour « se bagarrer » et « se battre » : se donner des coups ou se disputer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "berner",
+    "b": "tromper",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "bougonner",
+    "b": "grommeler",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "brailler",
+    "b": "crier",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "défouler",
+    "b": "dépenser",
+    "note": "« Se défouler » peut signifier dépenser son énergie ; ces verbes ne se remplacent pas sans changer la construction.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "embêter",
+    "b": "agacer",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "flirter",
+    "b": "séduire",
+    "note": "Mots proches dans le domaine amoureux : flirter est un échange ; séduire consiste à chercher à plaire.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "manigancer",
+    "b": "comploter",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "minauder",
+    "b": "affecter",
+    "note": "« Affecter » au sens de prendre une attitude peu naturelle ; la construction change.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "piailler",
+    "b": "crier",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "pleurnicher",
+    "b": "pleurer",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "radoter",
+    "b": "répéter",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "rafistoler",
+    "b": "réparer",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "rafler",
+    "b": "remporter",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "ratatiner",
+    "b": "rétrécir",
+    "note": "Mots de sens proche dans le contexte de la définition ; le registre ou l’intensité peuvent différer.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "jaser",
+    "b": "bavarder",
+    "note": "Pour le sens familier : parler avec quelqu’un. « Jaser » peut aussi évoquer des commérages.",
+    "batch": "010"
+  },
+  {
+    "type": "synonym",
+    "a": "jaser",
+    "b": "causer",
+    "note": "Pour le sens familier : parler avec quelqu’un. « Jaser » peut aussi évoquer des commérages.",
+    "batch": "010"
   }
 ]

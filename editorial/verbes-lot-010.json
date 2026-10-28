@@ -1,0 +1,1378 @@
+[
+  {
+    "word": "bâcler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Faire un travail trop vite et sans assez de soin.",
+    "example": "En voulant finir trop vite, il bâcle son dessin.",
+    "conjugations": {
+      "present": [
+        "bâcle",
+        "bâcles",
+        "bâcle",
+        "bâclons",
+        "bâclez",
+        "bâclent"
+      ],
+      "futur": [
+        "bâclerai",
+        "bâcleras",
+        "bâclera",
+        "bâclerons",
+        "bâclerez",
+        "bâcleront"
+      ],
+      "imparfait": [
+        "bâclais",
+        "bâclais",
+        "bâclait",
+        "bâclions",
+        "bâcliez",
+        "bâclaient"
+      ],
+      "passeSimple": [
+        "bâclai",
+        "bâclas",
+        "bâcla",
+        "bâclâmes",
+        "bâclâtes",
+        "bâclèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "bâcler ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "bâcler ",
+            "volontairement",
+            "volontairement",
+            ""
+          ],
+          [
+            "bâcler ",
+            "systématiquement",
+            "systématiquement",
+            ""
+          ],
+          [
+            "bâcler ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "bâcler ",
+            "malheureusement",
+            "malheureusement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "bagarrer",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Se battre ou se disputer vivement avec quelqu’un. On emploie surtout « se bagarrer », dans le langage familier.",
+    "example": "Les deux personnages se bagarrent pour le ballon.",
+    "conjugations": {
+      "present": [
+        "bagarre",
+        "bagarres",
+        "bagarre",
+        "bagarrons",
+        "bagarrez",
+        "bagarrent"
+      ],
+      "futur": [
+        "bagarrerai",
+        "bagarreras",
+        "bagarrera",
+        "bagarrerons",
+        "bagarrerez",
+        "bagarreront"
+      ],
+      "imparfait": [
+        "bagarrais",
+        "bagarrais",
+        "bagarrait",
+        "bagarrions",
+        "bagarriez",
+        "bagarraient"
+      ],
+      "passeSimple": [
+        "bagarrai",
+        "bagarras",
+        "bagarra",
+        "bagarrâmes",
+        "bagarrâtes",
+        "bagarrèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "se bagarrer ",
+            "violemment",
+            "violemment",
+            ""
+          ],
+          [
+            "se bagarrer ",
+            "souvent",
+            "souvent",
+            ""
+          ],
+          [
+            "se bagarrer ",
+            "inutilement",
+            "inutilement",
+            ""
+          ],
+          [
+            "se bagarrer ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "se bagarrer ",
+            "parfois",
+            "parfois",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ],
+    "displayWord": "se bagarrer",
+    "conjugationOptions": {
+      "pronominal": true
+    },
+    "conjugationNote": "Conjugaison de la forme pronominale « se bagarrer ».",
+    "forms": [
+      "se bagarrer"
+    ]
+  },
+  {
+    "word": "berner",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Tromper quelqu’un pour lui faire croire quelque chose de faux.",
+    "example": "Le vendeur malhonnête cherche à berner ses clients.",
+    "conjugations": {
+      "present": [
+        "berne",
+        "bernes",
+        "berne",
+        "bernons",
+        "bernez",
+        "bernent"
+      ],
+      "futur": [
+        "bernerai",
+        "berneras",
+        "bernera",
+        "bernerons",
+        "bernerez",
+        "berneront"
+      ],
+      "imparfait": [
+        "bernais",
+        "bernais",
+        "bernait",
+        "bernions",
+        "berniez",
+        "bernaient"
+      ],
+      "passeSimple": [
+        "bernai",
+        "bernas",
+        "berna",
+        "bernâmes",
+        "bernâtes",
+        "bernèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "berner ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "berner ",
+            "habilement",
+            "habilement",
+            ""
+          ],
+          [
+            "berner ",
+            "volontairement",
+            "volontairement",
+            ""
+          ],
+          [
+            "berner ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "berner ",
+            "parfois",
+            "parfois",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "bougonner",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Exprimer son mécontentement en parlant à voix basse, de façon peu distincte.",
+    "example": "Il bougonne parce qu’il doit ranger sa chambre.",
+    "conjugations": {
+      "present": [
+        "bougonne",
+        "bougonnes",
+        "bougonne",
+        "bougonnons",
+        "bougonnez",
+        "bougonnent"
+      ],
+      "futur": [
+        "bougonnerai",
+        "bougonneras",
+        "bougonnera",
+        "bougonnerons",
+        "bougonnerez",
+        "bougonneront"
+      ],
+      "imparfait": [
+        "bougonnais",
+        "bougonnais",
+        "bougonnait",
+        "bougonnions",
+        "bougonniez",
+        "bougonnaient"
+      ],
+      "passeSimple": [
+        "bougonnai",
+        "bougonnas",
+        "bougonna",
+        "bougonnâmes",
+        "bougonnâtes",
+        "bougonnèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "bougonner ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "bougonner ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "bougonner ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "bougonner ",
+            "encore",
+            "encore",
+            ""
+          ],
+          [
+            "bougonner ",
+            "parfois",
+            "parfois",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "brailler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Crier ou parler très fort, de manière désagréable. Ce mot est familier.",
+    "example": "Dans le récit, un personnage braille pour se faire entendre.",
+    "conjugations": {
+      "present": [
+        "braille",
+        "brailles",
+        "braille",
+        "braillons",
+        "braillez",
+        "braillent"
+      ],
+      "futur": [
+        "braillerai",
+        "brailleras",
+        "braillera",
+        "braillerons",
+        "braillerez",
+        "brailleront"
+      ],
+      "imparfait": [
+        "braillais",
+        "braillais",
+        "braillait",
+        "braillions",
+        "brailliez",
+        "braillaient"
+      ],
+      "passeSimple": [
+        "braillai",
+        "braillas",
+        "brailla",
+        "braillâmes",
+        "braillâtes",
+        "braillèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "brailler ",
+            "bruyamment",
+            "bruyamment",
+            ""
+          ],
+          [
+            "brailler ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "brailler ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "brailler ",
+            "inutilement",
+            "inutilement",
+            ""
+          ],
+          [
+            "brailler ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "défouler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Libérer une tension ou un trop-plein d’énergie. On emploie surtout « se défouler » dans le langage familier.",
+    "example": "Après une journée assise, elle se défoule en courant.",
+    "conjugations": {
+      "present": [
+        "défoule",
+        "défoules",
+        "défoule",
+        "défoulons",
+        "défoulez",
+        "défoulent"
+      ],
+      "futur": [
+        "défoulerai",
+        "défouleras",
+        "défoulera",
+        "défoulerons",
+        "défoulerez",
+        "défouleront"
+      ],
+      "imparfait": [
+        "défoulais",
+        "défoulais",
+        "défoulait",
+        "défoulions",
+        "défouliez",
+        "défoulaient"
+      ],
+      "passeSimple": [
+        "défoulai",
+        "défoulas",
+        "défoula",
+        "défoulâmes",
+        "défoulâtes",
+        "défoulèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "se défouler ",
+            "librement",
+            "librement",
+            ""
+          ],
+          [
+            "se défouler ",
+            "vraiment",
+            "vraiment",
+            ""
+          ],
+          [
+            "se défouler ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "se défouler ",
+            "dehors",
+            "dehors",
+            ""
+          ],
+          [
+            "se défouler ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ],
+    "displayWord": "se défouler",
+    "conjugationOptions": {
+      "pronominal": true
+    },
+    "conjugationNote": "Conjugaison de la forme pronominale « se défouler ».",
+    "forms": [
+      "se défouler"
+    ]
+  },
+  {
+    "word": "embêter",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Déranger, agacer ou ennuyer quelqu’un. Ce mot est familier.",
+    "example": "Le bruit de la télévision m’embête pendant ma lecture.",
+    "conjugations": {
+      "present": [
+        "embête",
+        "embêtes",
+        "embête",
+        "embêtons",
+        "embêtez",
+        "embêtent"
+      ],
+      "futur": [
+        "embêterai",
+        "embêteras",
+        "embêtera",
+        "embêterons",
+        "embêterez",
+        "embêteront"
+      ],
+      "imparfait": [
+        "embêtais",
+        "embêtais",
+        "embêtait",
+        "embêtions",
+        "embêtiez",
+        "embêtaient"
+      ],
+      "passeSimple": [
+        "embêtai",
+        "embêtas",
+        "embêta",
+        "embêtâmes",
+        "embêtâtes",
+        "embêtèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "embêter ",
+            "vraiment",
+            "vraiment",
+            ""
+          ],
+          [
+            "embêter ",
+            "beaucoup",
+            "beaucoup",
+            ""
+          ],
+          [
+            "embêter ",
+            "souvent",
+            "souvent",
+            ""
+          ],
+          [
+            "embêter ",
+            "inutilement",
+            "inutilement",
+            ""
+          ],
+          [
+            "embêter ",
+            "volontairement",
+            "volontairement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "fignoler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Terminer un travail avec beaucoup de soin, jusque dans les petits détails. Ce mot est familier.",
+    "example": "Elle fignole les derniers détails de sa maquette.",
+    "conjugations": {
+      "present": [
+        "fignole",
+        "fignoles",
+        "fignole",
+        "fignolons",
+        "fignolez",
+        "fignolent"
+      ],
+      "futur": [
+        "fignolerai",
+        "fignoleras",
+        "fignolera",
+        "fignolerons",
+        "fignolerez",
+        "fignoleront"
+      ],
+      "imparfait": [
+        "fignolais",
+        "fignolais",
+        "fignolait",
+        "fignolions",
+        "fignoliez",
+        "fignolaient"
+      ],
+      "passeSimple": [
+        "fignolai",
+        "fignolas",
+        "fignola",
+        "fignolâmes",
+        "fignolâtes",
+        "fignolèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "fignoler ",
+            "soigneusement",
+            "soigneusement",
+            ""
+          ],
+          [
+            "fignoler ",
+            "minutieusement",
+            "minutieusement",
+            ""
+          ],
+          [
+            "fignoler ",
+            "patiemment",
+            "patiemment",
+            ""
+          ],
+          [
+            "fignoler ",
+            "longuement",
+            "longuement",
+            ""
+          ],
+          [
+            "fignoler ",
+            "encore",
+            "encore",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "flirter",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Échanger des marques d’intérêt amoureux avec quelqu’un, sans forcément s’engager dans une relation durable.",
+    "example": "Dans le roman, deux personnages flirtent lors d’une fête.",
+    "conjugations": {
+      "present": [
+        "flirte",
+        "flirtes",
+        "flirte",
+        "flirtons",
+        "flirtez",
+        "flirtent"
+      ],
+      "futur": [
+        "flirterai",
+        "flirteras",
+        "flirtera",
+        "flirterons",
+        "flirterez",
+        "flirteront"
+      ],
+      "imparfait": [
+        "flirtais",
+        "flirtais",
+        "flirtait",
+        "flirtions",
+        "flirtiez",
+        "flirtaient"
+      ],
+      "passeSimple": [
+        "flirtai",
+        "flirtas",
+        "flirta",
+        "flirtâmes",
+        "flirtâtes",
+        "flirtèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "flirter ",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "flirter ",
+            "ouvertement",
+            "ouvertement",
+            ""
+          ],
+          [
+            "flirter ",
+            "timidement",
+            "timidement",
+            ""
+          ],
+          [
+            "flirter ",
+            "parfois",
+            "parfois",
+            ""
+          ],
+          [
+            "flirter ",
+            "gentiment",
+            "gentiment",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "manigancer",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Préparer en secret un projet ou une ruse, souvent pour tromper quelqu’un.",
+    "example": "Les personnages manigancent un plan pour prendre sa place.",
+    "conjugations": {
+      "present": [
+        "manigance",
+        "manigances",
+        "manigance",
+        "manigancons",
+        "manigancez",
+        "manigancent"
+      ],
+      "futur": [
+        "manigancerai",
+        "maniganceras",
+        "manigancera",
+        "manigancerons",
+        "manigancerez",
+        "maniganceront"
+      ],
+      "imparfait": [
+        "manigancais",
+        "manigancais",
+        "manigancait",
+        "manigancions",
+        "maniganciez",
+        "manigancaient"
+      ],
+      "passeSimple": [
+        "manigancai",
+        "manigancas",
+        "maniganca",
+        "manigancâmes",
+        "manigancâtes",
+        "manigancèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "manigancer ",
+            "secrètement",
+            "secrètement",
+            ""
+          ],
+          [
+            "manigancer ",
+            "habilement",
+            "habilement",
+            ""
+          ],
+          [
+            "manigancer ",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "manigancer ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "manigancer ",
+            "ensemble",
+            "ensemble",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "minauder",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Prendre des attitudes ou une façon de parler peu naturelles pour chercher à plaire.",
+    "example": "Le personnage minaude devant son admirateur.",
+    "conjugations": {
+      "present": [
+        "minaude",
+        "minaudes",
+        "minaude",
+        "minaudons",
+        "minaudez",
+        "minaudent"
+      ],
+      "futur": [
+        "minauderai",
+        "minauderas",
+        "minaudera",
+        "minauderons",
+        "minauderez",
+        "minauderont"
+      ],
+      "imparfait": [
+        "minaudais",
+        "minaudais",
+        "minaudait",
+        "minaudions",
+        "minaudiez",
+        "minaudaient"
+      ],
+      "passeSimple": [
+        "minaudai",
+        "minaudas",
+        "minauda",
+        "minaudâmes",
+        "minaudâtes",
+        "minaudèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "minauder ",
+            "volontairement",
+            "volontairement",
+            ""
+          ],
+          [
+            "minauder ",
+            "exagérément",
+            "exagérément",
+            ""
+          ],
+          [
+            "minauder ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "minauder ",
+            "parfois",
+            "parfois",
+            ""
+          ],
+          [
+            "minauder ",
+            "encore",
+            "encore",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "piailler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Pousser de petits cris aigus et répétés, pour un oiseau ; par comparaison, parler ou crier d’une voix aiguë et bruyante.",
+    "example": "Les oisillons piaillent dans leur nid.",
+    "conjugations": {
+      "present": [
+        "piaille",
+        "piailles",
+        "piaille",
+        "piaillons",
+        "piaillez",
+        "piaillent"
+      ],
+      "futur": [
+        "piaillerai",
+        "piailleras",
+        "piaillera",
+        "piaillerons",
+        "piaillerez",
+        "piailleront"
+      ],
+      "imparfait": [
+        "piaillais",
+        "piaillais",
+        "piaillait",
+        "piaillions",
+        "piailliez",
+        "piaillaient"
+      ],
+      "passeSimple": [
+        "piaillai",
+        "piaillas",
+        "piailla",
+        "piaillâmes",
+        "piaillâtes",
+        "piaillèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "piailler ",
+            "bruyamment",
+            "bruyamment",
+            ""
+          ],
+          [
+            "piailler ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "piailler ",
+            "joyeusement",
+            "joyeusement",
+            ""
+          ],
+          [
+            "piailler ",
+            "ensemble",
+            "ensemble",
+            ""
+          ],
+          [
+            "piailler ",
+            "encore",
+            "encore",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "pleurnicher",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Pleurer ou se plaindre d’une manière que l’on trouve agaçante. Ce mot est familier et exprime un jugement.",
+    "example": "Le personnage pleurniche parce qu’il a perdu la partie.",
+    "conjugations": {
+      "present": [
+        "pleurniche",
+        "pleurniches",
+        "pleurniche",
+        "pleurnichons",
+        "pleurnichez",
+        "pleurnichent"
+      ],
+      "futur": [
+        "pleurnicherai",
+        "pleurnicheras",
+        "pleurnichera",
+        "pleurnicherons",
+        "pleurnicherez",
+        "pleurnicheront"
+      ],
+      "imparfait": [
+        "pleurnichais",
+        "pleurnichais",
+        "pleurnichait",
+        "pleurnichions",
+        "pleurnichiez",
+        "pleurnichaient"
+      ],
+      "passeSimple": [
+        "pleurnichai",
+        "pleurnichas",
+        "pleurnicha",
+        "pleurnichâmes",
+        "pleurnichâtes",
+        "pleurnichèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "pleurnicher ",
+            "doucement",
+            "doucement",
+            ""
+          ],
+          [
+            "pleurnicher ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "pleurnicher ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "pleurnicher ",
+            "encore",
+            "encore",
+            ""
+          ],
+          [
+            "pleurnicher ",
+            "parfois",
+            "parfois",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "radoter",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Répéter souvent les mêmes paroles ou raconter des choses peu cohérentes. Ce mot est familier et peut être blessant.",
+    "example": "Tu nous as déjà raconté cette histoire, tu radotes !",
+    "conjugations": {
+      "present": [
+        "radote",
+        "radotes",
+        "radote",
+        "radotons",
+        "radotez",
+        "radotent"
+      ],
+      "futur": [
+        "radoterai",
+        "radoteras",
+        "radotera",
+        "radoterons",
+        "radoterez",
+        "radoteront"
+      ],
+      "imparfait": [
+        "radotais",
+        "radotais",
+        "radotait",
+        "radotions",
+        "radotiez",
+        "radotaient"
+      ],
+      "passeSimple": [
+        "radotai",
+        "radotas",
+        "radota",
+        "radotâmes",
+        "radotâtes",
+        "radotèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "radoter ",
+            "souvent",
+            "souvent",
+            ""
+          ],
+          [
+            "radoter ",
+            "continuellement",
+            "continuellement",
+            ""
+          ],
+          [
+            "radoter ",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "radoter ",
+            "encore",
+            "encore",
+            ""
+          ],
+          [
+            "radoter ",
+            "parfois",
+            "parfois",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "rafistoler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Réparer quelque chose avec les moyens disponibles, de façon souvent provisoire ou peu soignée. Ce mot est familier.",
+    "example": "Il rafistole la boîte avec du ruban adhésif.",
+    "conjugations": {
+      "present": [
+        "rafistole",
+        "rafistoles",
+        "rafistole",
+        "rafistolons",
+        "rafistolez",
+        "rafistolent"
+      ],
+      "futur": [
+        "rafistolerai",
+        "rafistoleras",
+        "rafistolera",
+        "rafistolerons",
+        "rafistolerez",
+        "rafistoleront"
+      ],
+      "imparfait": [
+        "rafistolais",
+        "rafistolais",
+        "rafistolait",
+        "rafistolions",
+        "rafistoliez",
+        "rafistolaient"
+      ],
+      "passeSimple": [
+        "rafistolai",
+        "rafistolas",
+        "rafistola",
+        "rafistolâmes",
+        "rafistolâtes",
+        "rafistolèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "rafistoler ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "rafistoler ",
+            "provisoirement",
+            "provisoirement",
+            ""
+          ],
+          [
+            "rafistoler ",
+            "sommairement",
+            "sommairement",
+            ""
+          ],
+          [
+            "rafistoler ",
+            "grossièrement",
+            "grossièrement",
+            ""
+          ],
+          [
+            "rafistoler ",
+            "habilement",
+            "habilement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "rafler",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Prendre ou gagner tout ce qui est disponible, ou une grande partie. Ce mot est familier.",
+    "example": "Cette équipe a raflé tous les prix du tournoi.",
+    "conjugations": {
+      "present": [
+        "rafle",
+        "rafles",
+        "rafle",
+        "raflons",
+        "raflez",
+        "raflent"
+      ],
+      "futur": [
+        "raflerai",
+        "rafleras",
+        "raflera",
+        "raflerons",
+        "raflerez",
+        "rafleront"
+      ],
+      "imparfait": [
+        "raflais",
+        "raflais",
+        "raflait",
+        "raflions",
+        "rafliez",
+        "raflaient"
+      ],
+      "passeSimple": [
+        "raflai",
+        "raflas",
+        "rafla",
+        "raflâmes",
+        "raflâtes",
+        "raflèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "rafler ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "rafler ",
+            "facilement",
+            "facilement",
+            ""
+          ],
+          [
+            "rafler ",
+            "presque",
+            "presque",
+            ""
+          ],
+          [
+            "rafler ",
+            "finalement",
+            "finalement",
+            ""
+          ],
+          [
+            "rafler ",
+            "encore",
+            "encore",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  },
+  {
+    "word": "ratatiner",
+    "nature": "verbe",
+    "batch": "010",
+    "definition": "Faire devenir plus petit et tout ridé ou recroquevillé. Ce mot est familier ; on dit aussi « se ratatiner ».",
+    "example": "Le fruit oublié au soleil se ratatine.",
+    "conjugations": {
+      "present": [
+        "ratatine",
+        "ratatines",
+        "ratatine",
+        "ratatinons",
+        "ratatinez",
+        "ratatinent"
+      ],
+      "futur": [
+        "ratatinerai",
+        "ratatineras",
+        "ratatinera",
+        "ratatinerons",
+        "ratatinerez",
+        "ratatineront"
+      ],
+      "imparfait": [
+        "ratatinais",
+        "ratatinais",
+        "ratatinait",
+        "ratatinions",
+        "ratatiniez",
+        "ratatinaient"
+      ],
+      "passeSimple": [
+        "ratatinai",
+        "ratatinas",
+        "ratatina",
+        "ratatinâmes",
+        "ratatinâtes",
+        "ratatinèrent"
+      ]
+    },
+    "groups": [
+      [
+        "Avec des adverbes",
+        "Des associations de mots à découvrir dans leur contexte.",
+        [
+          [
+            "ratatiner ",
+            "complètement",
+            "complètement",
+            ""
+          ],
+          [
+            "ratatiner ",
+            "progressivement",
+            "progressivement",
+            ""
+          ],
+          [
+            "ratatiner ",
+            "rapidement",
+            "rapidement",
+            ""
+          ],
+          [
+            "ratatiner ",
+            "fortement",
+            "fortement",
+            ""
+          ],
+          [
+            "ratatiner ",
+            "visiblement",
+            "visiblement",
+            ""
+          ]
+        ],
+        "adverbe"
+      ]
+    ]
+  }
+]

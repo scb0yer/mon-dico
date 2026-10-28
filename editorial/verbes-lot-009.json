@@ -163,7 +163,7 @@
     "word": "chahuter",
     "nature": "verbe",
     "batch": "009",
-    "definition": "Faire du bruit et s’agiter, notamment dans un groupe ; les sens familiers figurés sont écartés.",
+    "definition": "Faire du bruit et s’agiter, notamment dans un groupe. Peut aussi signifier taquiner ou bousculer quelqu’un par jeu.",
     "example": "Les personnages chahutent dans la cour.",
     "conjugations": {
       "present": [
@@ -243,8 +243,8 @@
     "word": "jaser",
     "nature": "verbe",
     "batch": "009",
-    "definition": "Pousser son cri, pour certains oiseaux ; seul le sens animal non familier est retenu.",
-    "example": "La pie jase dans l’arbre.",
+    "definition": "Bavarder, notamment à propos des autres. Ce sens est familier. Pour certains oiseaux, ce verbe signifie aussi pousser son cri.",
+    "example": "Les voisins jasent sur le pas de la porte.",
     "conjugations": {
       "present": [
         "jase",
@@ -286,32 +286,32 @@
         [
           [
             "jaser ",
-            "bruyamment",
-            "bruyamment",
-            ""
-          ],
-          [
-            "jaser ",
-            "doucement",
-            "doucement",
-            ""
-          ],
-          [
-            "jaser ",
             "longtemps",
             "longtemps",
             ""
           ],
           [
             "jaser ",
-            "gaiement",
-            "gaiement",
+            "ensemble",
+            "ensemble",
             ""
           ],
           [
             "jaser ",
-            "faiblement",
-            "faiblement",
+            "discrètement",
+            "discrètement",
+            ""
+          ],
+          [
+            "jaser ",
+            "volontiers",
+            "volontiers",
+            ""
+          ],
+          [
+            "jaser ",
+            "continuellement",
+            "continuellement",
             ""
           ]
         ],
@@ -323,8 +323,8 @@
     "word": "chiner",
     "nature": "verbe",
     "batch": "009",
-    "definition": "Donner des couleurs différentes aux fils d’une étoffe pour créer un dessin au tissage ; seul le sens textile est retenu.",
-    "example": "L’artisan apprend à chiner les fils.",
+    "definition": "Chercher des objets anciens ou d’occasion dans les brocantes pour les acheter. Dans le domaine du textile, ce verbe signifie aussi donner des couleurs différentes aux fils d’une étoffe.",
+    "example": "Le dimanche, elle chine dans les brocantes du quartier.",
     "conjugations": {
       "present": [
         "chine",
@@ -366,32 +366,32 @@
         [
           [
             "chiner ",
-            "soigneusement",
-            "soigneusement",
-            ""
-          ],
-          [
-            "chiner ",
-            "finement",
-            "finement",
-            ""
-          ],
-          [
-            "chiner ",
             "régulièrement",
             "régulièrement",
             ""
           ],
           [
             "chiner ",
-            "harmonieusement",
-            "harmonieusement",
+            "patiemment",
+            "patiemment",
             ""
           ],
           [
             "chiner ",
-            "délicatement",
-            "délicatement",
+            "longtemps",
+            "longtemps",
+            ""
+          ],
+          [
+            "chiner ",
+            "ensemble",
+            "ensemble",
+            ""
+          ],
+          [
+            "chiner ",
+            "parfois",
+            "parfois",
             ""
           ]
         ],

@@ -910,11 +910,6 @@ export const excludedEntries = [
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
-    "word": "brailler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "bravo",
     "nature": "nom commun",
     "reason": "Emploi comme acclamation ou interjection, hors des natures retenues."
@@ -935,29 +930,9 @@ export const excludedEntries = [
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
-    "word": "bagarrer",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
-    "word": "berner",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "bastille",
     "nature": "nom commun",
     "reason": "Nom propre, origine géographique ou désignation de groupe : emploi nominal non retenu."
-  },
-  {
-    "word": "bougonner",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
-    "word": "bâcler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
     "word": "building",
@@ -1040,11 +1015,6 @@ export const excludedEntries = [
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
-    "word": "manigancer",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "malfrat",
     "nature": "nom commun",
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
@@ -1065,19 +1035,9 @@ export const excludedEntries = [
     "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté."
   },
   {
-    "word": "minauder",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "enceinte",
     "nature": "adjectif",
     "reason": "Champ de la sexualité, de la reproduction ou de l’intimité : emploi écarté."
-  },
-  {
-    "word": "embêter",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
     "word": "engueulade",
@@ -1100,11 +1060,6 @@ export const excludedEntries = [
     "reason": "Adjectif ancien placé devant le nom d’une personne décédée ; emploi non retenu."
   },
   {
-    "word": "flirter",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "forcené",
     "nature": "adjectif",
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
@@ -1113,11 +1068,6 @@ export const excludedEntries = [
     "word": "folk",
     "nature": "nom commun",
     "reason": "Emprunt ou titre étranger non retenu dans le vocabulaire quotidien ciblé."
-  },
-  {
-    "word": "fignoler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
     "word": "fripouille",
@@ -1135,28 +1085,8 @@ export const excludedEntries = [
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
-    "word": "rafler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "relax",
     "nature": "nom commun",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
-    "word": "radoter",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
-    "word": "ratatiner",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
-    "word": "rafistoler",
-    "nature": "verbe",
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
@@ -1410,11 +1340,6 @@ export const excludedEntries = [
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
-    "word": "pleurnicher",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
-  },
-  {
     "word": "paperasse",
     "nature": "nom commun",
     "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
@@ -1443,11 +1368,6 @@ export const excludedEntries = [
     "word": "prime",
     "nature": "adjectif",
     "reason": "Emploi adjectival ancien ou figé ; le nom prime reste consultable."
-  },
-  {
-    "word": "piailler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
     "word": "pis",
@@ -1553,11 +1473,6 @@ export const excludedEntries = [
     "word": "dénommé",
     "nature": "nom commun",
     "reason": "Participe substantivé, non retenu comme nom autonome."
-  },
-  {
-    "word": "défouler",
-    "nature": "verbe",
-    "reason": "Registre familier, argotique ou dépréciatif : emploi non retenu."
   },
   {
     "word": "doge",

@@ -4,7 +4,7 @@ Site vibe codé par Sophie Boyer, avec l'utilisation de Chat GPT.
 
 ## État des données
 
-- 11461 fiches (noms communs, verbes, adverbes, adjectifs)
+- 11478 fiches (noms communs, verbes, adverbes, adjectifs)
 - La base de donnée contient essentiellement des mots adaptés aux enfants, elle ne contient pas d'insultes et exclut des définitions les sens détournés (à caractère sexuels notamment).
 
 ## Illustrations

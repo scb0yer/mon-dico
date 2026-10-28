@@ -39,6 +39,7 @@ const neutralReligionNouns = new Set([
   "bouddhisme",
   "religion",
 ]);
+const approvedVerbs = new Set(["bâcler", "bagarrer", "berner", "bougonner", "brailler", "défouler", "embêter", "fignoler", "flirter", "manigancer", "minauder", "piailler", "pleurnicher", "radoter", "rafistoler", "rafler", "ratatiner", "narguer", "cabosser", "chahuter", "jaser", "chiner"]);
 const reviewed = new Set(
   [...entryAliases, ...excludedEntries].map(
     (e) => key(e.word) + "|" + e.nature,

@@ -1,26 +1,30 @@
-# Verbes encore en attente après la suite 008
+# Verbes de la suite 008 — validation terminée
 
-Ces 22 candidats n’ont pas été rédigés dans ce lot : leur registre ou leur sens doit être vérifié au regard du choix d’écarter les mots familiers et l’argot. Cette liste n’est pas une décision définitive d’exclusion. Ils restent sans fiche complète et ne sont pas comptés parmi les 2 242 verbes complets.
+Les 22 verbes ont été approuvés le 28 octobre 2026 : 17 nouvelles fiches et cinq déjà présentes. Les sens usuels de chiner et jaser ont été complétés. Les emplois familiers sont signalés.
 
-- bâcler
-- bagarrer
-- berner
-- bougonner
-- brailler
-- cabosser
-- chahuter
-- chiner
-- défouler
-- embêter
-- fignoler
-- flirter
-- jaser
-- manigancer
-- minauder
-- narguer
-- piailler
-- pleurnicher
-- radoter
-- rafistoler
-- rafler
-- ratatiner
+Chaque fiche possède une définition, un exemple, cinq associations avec des adverbes et les quatre temps de conjugaison. Se bagarrer et se défouler affichent leur conjugaison pronominale.
+
+Total : 2 264 verbes complets, sans attente.
+
+- [x] bagarrer
+- [x] berner
+- [x] bougonner
+- [x] brailler
+- [x] bâcler
+- [x] cabosser
+- [x] chahuter
+- [x] chiner
+- [x] défouler
+- [x] embêter
+- [x] fignoler
+- [x] flirter
+- [x] jaser
+- [x] manigancer
+- [x] minauder
+- [x] narguer
+- [x] piailler
+- [x] pleurnicher
+- [x] radoter
+- [x] rafistoler
+- [x] rafler
+- [x] ratatiner

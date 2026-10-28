@@ -45257,5 +45257,96 @@
     "type": "synonym",
     "note": "Mots de sens proche ou opposé dans le sens indiqué ; le remplacement dépend de la phrase.",
     "batch": "020"
+  },
+  {
+    "type": "synonym",
+    "a": "foi#religion",
+    "b": "croyance#courant",
+    "note": "Dans le sens religieux, la foi est une croyance accompagnée de confiance et d’adhésion. « Croyance » a aussi des emplois non religieux.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "foi#religion",
+    "b": "religion#courant",
+    "note": "Mots proches dans certaines expressions : « une personne de foi chrétienne » ou « de religion chrétienne ». La foi désigne l’adhésion personnelle ; la religion désigne un ensemble de croyances et de pratiques.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "religion#courant",
+    "b": "croyance#courant",
+    "note": "Mots liés, non interchangeables dans toutes les phrases : une religion rassemble des croyances, mais aussi des pratiques et des traditions.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "judaïsme#courant",
+    "b": "religion#courant",
+    "note": "« Religion » est un terme plus général. Il peut reprendre le nom de cette tradition dans une phrase, sans en préciser laquelle. Ce n’est pas un synonyme exact.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "judaïsme#courant",
+    "b": "croyance#courant",
+    "note": "Mot lié : cette tradition comprend des croyances, mais aussi des pratiques et des enseignements. « Croyance » ne remplace pas son nom dans toutes les phrases.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "christianisme#courant",
+    "b": "religion#courant",
+    "note": "« Religion » est un terme plus général. Il peut reprendre le nom de cette tradition dans une phrase, sans en préciser laquelle. Ce n’est pas un synonyme exact.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "christianisme#courant",
+    "b": "croyance#courant",
+    "note": "Mot lié : cette tradition comprend des croyances, mais aussi des pratiques et des enseignements. « Croyance » ne remplace pas son nom dans toutes les phrases.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "islam#courant",
+    "b": "religion#courant",
+    "note": "« Religion » est un terme plus général. Il peut reprendre le nom de cette tradition dans une phrase, sans en préciser laquelle. Ce n’est pas un synonyme exact.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "islam#courant",
+    "b": "croyance#courant",
+    "note": "Mot lié : cette tradition comprend des croyances, mais aussi des pratiques et des enseignements. « Croyance » ne remplace pas son nom dans toutes les phrases.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "hindouisme#courant",
+    "b": "religion#courant",
+    "note": "« Religion » est un terme plus général. Il peut reprendre le nom de cette tradition dans une phrase, sans en préciser laquelle. Ce n’est pas un synonyme exact.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "hindouisme#courant",
+    "b": "croyance#courant",
+    "note": "Mot lié : cette tradition comprend des croyances, mais aussi des pratiques et des enseignements. « Croyance » ne remplace pas son nom dans toutes les phrases.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "bouddhisme#courant",
+    "b": "religion#courant",
+    "note": "« Religion » est un terme plus général. Il peut reprendre le nom de cette tradition dans une phrase, sans en préciser laquelle. Ce n’est pas un synonyme exact.",
+    "batch": "religions-mots-proches"
+  },
+  {
+    "type": "synonym",
+    "a": "bouddhisme#courant",
+    "b": "croyance#courant",
+    "note": "Mot lié : cette tradition comprend des croyances, mais aussi des pratiques et des enseignements. « Croyance » ne remplace pas son nom dans toutes les phrases.",
+    "batch": "religions-mots-proches"
   }
 ]

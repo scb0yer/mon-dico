@@ -1,0 +1,76 @@
+{
+  "completedVerbEntries": 2247,
+  "conjugatedVerbEntries": 2247,
+  "verbCooccurrences": 11235,
+  "verbRelations": 3291,
+  "completedNounEntries": 6062,
+  "completedNounSenses": 6115,
+  "nounCooccurrences": 122300,
+  "selectedEntries": 8802,
+  "selectedWords": 8348,
+  "supplementaryEntries": 2928,
+  "writtenEntries": 11463,
+  "nounBatchEntries": 6057,
+  "nounBatchSenses": 6110,
+  "synonymComplementEntries": 7,
+  "nounBatchRelations": 6502,
+  "synonymRelations": 6143,
+  "completedAdjectiveEntries": 2674,
+  "adjectiveBatchEntries": 2663,
+  "adjectiveCooccurrences": 13315,
+  "adjectiveRelations": 4049,
+  "completedAdverbEntries": 478,
+  "adverbBatchEntries": 475,
+  "adverbCooccurrences": 2375,
+  "adverbRelations": 482,
+  "verbCoverage": {
+    "total": 2247,
+    "complete": 2247,
+    "pending": 0,
+    "selection": { "total": 1789, "complete": 1789, "pending": 0 },
+    "supplements": { "total": 458, "complete": 458, "pending": 0 },
+    "pendingEntries": []
+  },
+  "corpusByNature": {
+    "nom commun": {
+      "total": 6062,
+      "withDefinition": 6062,
+      "withoutDefinition": 0
+    },
+    "verbe": { "total": 2247, "withDefinition": 2247, "withoutDefinition": 0 },
+    "adjectif": {
+      "total": 2674,
+      "withDefinition": 2674,
+      "withoutDefinition": 0
+    },
+    "adverbe": { "total": 478, "withDefinition": 478, "withoutDefinition": 0 }
+  },
+  "remainingCorpusEntriesWithoutDefinition": 0,
+  "rawEntries": 11730,
+  "hiddenEntries": 269,
+  "rawCorpusByNature": {
+    "nom commun": {
+      "total": 6232,
+      "withDefinition": 6064,
+      "withoutDefinition": 168
+    },
+    "verbe": { "total": 2264, "withDefinition": 2247, "withoutDefinition": 17 },
+    "adjectif": {
+      "total": 2755,
+      "withDefinition": 2674,
+      "withoutDefinition": 81
+    },
+    "adverbe": { "total": 479, "withDefinition": 478, "withoutDefinition": 1 }
+  },
+  "indexCoverage": { "total": 11461, "available": 11461, "pending": 0 },
+  "totalEntries": 11461,
+  "availableEntries": 11461,
+  "pendingEntries": 0,
+  "selectionByNature": {
+    "nom commun": { "selected": 4717, "written": 4717, "remaining": 0 },
+    "verbe": { "selected": 1789, "written": 1789, "remaining": 0 },
+    "adjectif": { "selected": 1829, "written": 1829, "remaining": 0 },
+    "adverbe": { "selected": 254, "written": 254, "remaining": 0 }
+  },
+  "remainingSelectedEntries": 0
+}
